@@ -33,7 +33,7 @@ Un des points que je me suis noté de la conférence de Lise, c’est que sous l
 
 De ces retours, j’en tire un point de vigilance vital pour l’avenir des équipes sous ce mode de fonctionnement : la gestion du temps et des priorités en est affectée. Il me semble qu’il est donc nécessaire d’en avoir une certaine expérience pour ne pas se noyer ni devoir faire un choix cornélien entre deux casquettes différentes.
 
-![Les rôles du LeadDev](/assets/images/leadDev.png)
+![Les rôles du LeadDev]({{ site.url }}{{ site.baseurl }}/assets/images/leadDev.png)
 
 #### Un rôle tournant ?
 
@@ -43,13 +43,13 @@ La première situation était que, faute de scrum master dédié, personne ne vo
 
 La seconde situation fait apparaître une réelle envie de découvrir le rôle pour plusieurs personnes de l’équipe. Là, c’est différent : il y a de l’intérêt pour le rôle, et une envie d’apprendre. Cela peut marcher à condition de bien spécifier la priorité des rôles : si je suis à la fois développeuse back et Scrum Master pendant ma semaine d’itération, est-ce qu’on est d’accord que je privilégie ma casquette facilitante au service de l’équipe plutôt que la correction d’un bug de la semaine dernière ? Car oui, cette situation peut très souvent arriver et il faut rapidement statuer sur le comportement à suivre pour ne pas se perdre.
 
-![Chacun mon tour](/assets/images/chacunMonTour.png)
+![Chacun mon tour]({{ site.url }}{{ site.baseurl }}/assets/images/chacunMonTour.png)
 
 #### Et le Product Owner ? il connaît l’agilité !
 
 Oui mais c’est une fausse bonne idée dans le temps. Rappelez-vous le Scrum Guide : « The Product Owner is responsible for maximizing the value of the product resulting from work of the Development Team. » versus « The Scrum Master is a servant-leader for the Scrum Team ». Quand le premier est focalisé sur l’amélioration continue de son produit, le second veille à l’amélioration continue de l’équipe et de ses bonnes pratiques. Ce n’est pas toujours antinomique mais lorsque la décision de choisir entre donner encore plus pour le produit et protéger l’équipe des demandes inutilement pressantes, c’est toujours bien de pouvoir compter sur deux personnes différentes pour arriver à des compromis acceptables et pour l’équipe et pour le produit.
 
-![Les rôles du LeadDev](/assets/images/PO.png)
+![Les rôles du LeadDev]({{ site.url }}{{ site.baseurl }}/assets/images/PO.png)
 
 #### Quand le manager s’en mêle
 
@@ -63,7 +63,7 @@ Alors que penser d’un manager qui devient Coach Agile d’un train SAFe dans l
 
 Alors si je pouvais faire un souhait pour toutes les équipes de réalisations (de développement ou non), c’est que le manager devrait aider le scrum master de l’équipe, mais il ne peut devenir l’unique référent facilitateur de l’équipe, au risque de faire preuve d’injonctions contradictoires.
 
-![Les rôles du LeadDev](/assets/images/injonctionContradictoires.png)
+![Les rôles du LeadDev]({{ site.url }}{{ site.baseurl }}/assets/images/injonctionContradictoires.png)
 
 #### Alors, un scrum Master dédié ?
 
