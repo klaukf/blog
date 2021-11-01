@@ -3,7 +3,7 @@ name: "Fanny's blog"
 title: "Fanny's blog"
 description: "Réflexions, tips et retours d'expérience d'une accompagnatrice agile"
 logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/favicon.jpg'
+favicon: 'assets/images/favicon.ico'
 baseurl: /blog
 #google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
