@@ -1,37 +1,29 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "Fanny's blog"
+title: "Fanny's blog"
+description: "Réflexions, tips et retours d'expérience d'une accompagnatrice agile"
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/favicon.jpg'
 baseurl: /blog
-google_analytics: 'UA-xxxxxxxx-1'
+#google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: klaukf@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
-
-# Plugins
+  fanny:
+    name: Fanny
+    display_name: Fanny
+    avatar: 'assets/images/logo.jpg'
+    email: klaukf@gmail.com
+    web: https://klaukf.github.io/blog/
+    twitter: https://twitter.com/klf37
+    description: "Accompagnatrice agile, co-créatrice de TADx, maman, amoureuse, adore les chouchous."
+ 
+# Plugins - ne pas toucher
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -57,7 +49,7 @@ highlighter: none
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
-      disable : true
+      disable : false
 
 
 
