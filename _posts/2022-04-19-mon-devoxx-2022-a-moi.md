@@ -61,8 +61,79 @@ Ensuite nous passons à la partie démo, vous la trouverez dans la vidéo youtub
 
 On passe un très bon moment : merci à tous les deux !
 
-Pour suivre Laurent et Philippe sur twitter, ça se passe par là : @ldoguin et @k33g_org
+Pour suivre Laurent et Philippe sur twitter, ça se passe par là : [@ldoguin](https://twitter.com/ldoguin) et [@k33g_org](https://twitter.com/k33g_org)
 
 ![Nous sommes en salle Neuilly 252 AB et il y a beaucoup de monde]({{ site.url }}{{ site.baseurl }}/assets/images/wasm3.png)
 
+### Architecturoplastie hexagonale d'un backend Node.js : Opération à coeur ouvert - Jordan NOURRY, Adrien JOLY et Julien TOPCU
 
+Bienvenue à Shodopital, nos trois internes charcutent et décortiquent du code pour en tirer le plus de bénéfices possibles.
+Première biopsie clean-codienne : on clarifie notre code !
+
+![Les mains sont propres, on peut commencer l'opération dans le bloc]({{ site.url }}{{ site.baseurl }}/assets/images/nodejs1.png)
+
+On précise nos paramètres, on refactore doucement mais sûrement, on reboote le patient (si ! si ! c'est possible !) et on redonne du sens pour éclaircir la compréhension du code.
+Même les tests d'intégration présents sont piègeux ! et les changements en codebase ne sont pas trackés => comment faire ?
+
+Non, on n'utilise pas un bistouri, on va casser l'ordinateur... Non, on va plutôt d'intéresser au comportement attendu des APIs et créer des approval tests. Et on teste régulièrement ! à chaque mmodification ! le pas à pas.
+On supprime les undefined et les null.
+
+Le nom des fonctions doit signifier ce que fait la fonction : on s'allège ainsi la charge mentale de relecture de tout le code pour le comprendre.
+
+Enfin, on centralise le fonctionnel et sa complexité : on arrête de la disperser un peu partout dans notre architecture ! (à bon entendeur...)
+
+Le but de l'architecture hesagonale, est donc d'inverser le sens de la dépendance entre la couche domain et la couche de persistence, normalement rencontré dans le modèle classique.
+
+Controller ->use-> Domain <-use<- Persistence
+
+Domain devient un hexagone où les objets métiers sont centralisés.
+
+Pour suivre Jordan, Adrien et Julien, ça se passe par là : [@JkNourry](https://twitter.com/JkNourry) , [@adrienjoly](https://twitter.com/adrienjoly) et [@JulienTopcu](https://twitter.com/JulienTopcu)
+
+![Nous sommes en salle Neuilly 252 AB et il y a beaucoup de monde.]({{ site.url }}{{ site.baseurl }}/assets/images/nodejs2.png)
+
+Et n'oubliez pas, nous co-organisons, avec CraftsRecords et TADx, le Tremplin des speakers le 3 mai à Tours pour donner la chance à des speakers débutants de gagner une conférence au Camping des speakers, dans le Golfe du Morbihan les 9 & 10 juin 2022.
+Inscriptions pour faire partie du public-jury du tremplin le 3 mai => https://www.eventbrite.fr/e/billets-le-tremplin-du-camping-des-speakers-306273120147
+
+
+### Rendez l'agilité aux développeurs et développeuses ! - votre humble serviteuse
+
+Le palpitant accélère petit à petit depuis la fin de la dernière université (peut-être même pendant). Trop pour me concentrer sur une autre conférence.
+248 inscrits sur l'application Devoxx, syndrôme de l'imposteur au max, je pense à mon premier jury de guitare classique quand j'étais au CP : même envie irresistible de monter sur scène mais pour faire une blague et repartir aussitôt.
+
+J'attends sagement mon tour, entourée des personnes adorables (Stéphane en premier mais aussi Jérémy, Faustine, Corentin, Yann-Thomas, Olivier, Christophe, Thibault, et j'en oublie ! pardon...). Je passe dans les mains du technicien (adorable aussi), Adrien et Arnaud me rassurent à la dernière minute : merci à tous !
+
+![Allez, il faut y aller !]({{ site.url }}{{ site.baseurl }}/assets/images/rendez1.png)
+
+J'ai adoré la prise de risque, j'ai aimé préparer, répéter, partager, rencontrer des gens grâce à ce partage... Un grand merci aux organisateurs et aux membres du comité de sélection de m'avoir offert cette occasion unique !
+
+
+### Créer & distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! - Aurélie VACHE et Gaëlle ACAS
+
+Grâce à une super organisation des talks, j'ai pu assister à cette présentation péchue et accessible pour nous autres communs des mortels !
+
+![En place]({{ site.url }}{{ site.baseurl }}/assets/images/kube1.png)
+
+Des gophers et une partie théorique plus tard (ou on se rend compte que l'important dans kubectl, ce n'est pas de savoir le prononcer, mais bien de l'utiliser !), place à la pratique : live-coding !!
+La présentation est fun et accessible : on apprend autant qu'on passe un bon moment.
+Le bon conseil : ne pas hésitez à partager ses trouvailles par des index à défaut de pouvoir l'ajouter dans le Krew index : tout est utile !
+
+![Gaelle et Aurélie]({{ site.url }}{{ site.baseurl }}/assets/images/kube2.png)
+
+Et pour les commandes ou plugins utiles et les bonnes pratiques : revisionnez à souhait la présentation (vidéo bientôt disponible en lien ici) ou référez-vous aux sketchnotes d'Aurélie sur le sujet (lien ici bientôt).
+
+J'ai beau avoir déjà vu la présentation à la [TADx](https://www.tadx.fr) de février 2021 à distance et au JugSummerCamp de septembre 2021, je ne me lasse pas : Gaëlle et Aurélie sont à voir et à connaître absolument !
+
+Pour suivre Aurélie et Gaëlle, ça se passe par là : [@aurelievache](https://twitter.com/aurelievache) et [@Gaelleacas](https://twitter.com/Gaelleacas)
+
+![Be jealous : j'ai un sticker collector]({{ site.url }}{{ site.baseurl }}/assets/images/kube3.png)
+
+
+## Bilan de la première journée
+
+Ouf ! sacrée journée ! je vais laisser la pression redescendre, participer au dîner des speakers, rencontrer encore plein de gens formidables, merci à toutes et tous !
+
+![Sticker de speaker, et pas l'inverse]({{ site.url }}{{ site.baseurl }}/assets/images/repasspeak2.png)
+
+On vous donne rendez-vous demain jeudi 21/04 à 20h pour le [BOF TADx](https://cfp.devoxx.fr/2022/talk/FIT-6322/Mais_au_fait_DevRel_c'est_vraiment_qu'un_lanceur_de_paillettes_%3F) - Tours Agile & DevOps experience à 20h autour de fabuleux DevRel !
+(TADx, injustement non renommé PADx pour Paris Agile & DevOps experience pour l'occasion, mais j'aurai le dernier mot un jour...)
