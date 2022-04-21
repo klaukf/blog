@@ -185,6 +185,8 @@ Pour cela, on découpe trois domaine :
 - le run, actuellement rapproché au réseau et au rapport Watt/Go
 - la fin de vie, de plus en plus liée à la récupération
 
+TODO image
+
 Concernant le run : le pilotage de la consommation mais aussi de la production, intégrer la notion de l'heure et de la localisation à la startégie de calcul, permettraient de corriger la marge d'erreur des calculs unitaires et communiqués actuels.
 
 On compare la consommation des différents , mais aussi les pays, les secteurs économiques : on apprend plein de choses concrètes.
@@ -262,7 +264,7 @@ Pour suivre Sonia, ça se passe par là : [@TODO](https://twitter.com/TODO)
 Apside represent !
 C'est dans un amphi bleu bondé que la conférence de Christophe commence.
 
-TODO image
+![amphi bleu bondé]({{ site.url }}{{ site.baseurl }}/assets/images/reactif1.png)
 
 On parle d'abord de requête en mode impératif pour bien comprendre l'apport du réactif : lorsqu'on envoie une requête à un serveur, le thread arrive, la requête met un certain temps à s'exécuter puis le thread est retourné avec la réponse. Ce temps peut être conséquent, notamment quand on multiplie le nombre de threads. Ce qui est alors avantageux avec réactif est que le thread lancé permet d'exécuter la requête, mais il est retourné dans le pool immédiatement, le libérant.
 
@@ -270,7 +272,7 @@ Passer en réactif pour aller plus vite est donc une erreur mais ça va vous per
 
 Dans un flux réactif, on trouve un publisher et un subscriber. Et pas de pressure, il y a backpressure ! pour ne pas sur-solliciter le subscriber, on régule le rythme : plusieurs façons de faire, mais il s'agit d'une bonne pratique obligatoire si vous ne voulez pas tout casser !
 
-TODO image
+![publiser et subscriber]({{ site.url }}{{ site.baseurl }}/assets/images/reactif2.png)
 
 En termes de librairies, on est larges. Pour la présentation, c'est Spring qui est utilisé.
 En nous aidant des marble diagrams, on s'y retrouve un peu mieux que l'énorme javadoc disponible.
@@ -289,6 +291,14 @@ Quand on est prêt à déployer en production, on peut continuer d'utiliser Actu
 Alors, on migre ou pas là ?
 Un grand oui si vous visez la scalabilité plus que la rapidité. La syntaxe est particulière et nécessite un peu d'apprentissage et d'habitude. En termes de persistence, on est limités mais les solutions telles que le NoSQL existent. Par contre c'est DevOps friendly.
 
-TODO image
+![Christophe Jollivet]({{ site.url }}{{ site.baseurl }}/assets/images/reactif3.png)
 
 J'ai adoré la présentation step by step en comparaison avec ce que l'on connait de l'impératif : cela permet d'appréhender facilement et rapidement les concepts du reactif.
+
+
+### Etre développeur : grandir et se développer - Gaëtan ELEOUET
+
+"Etre développeur, ce n'est pas savoir coder.
+Savoir coder, ce n'est pas être développeur."
+
+TODO image
