@@ -126,6 +126,7 @@ J'ai beau avoir déjà vu la présentation à la [TADx](https://www.tadx.fr) de 
 
 Pour suivre Aurélie et Gaëlle, ça se passe par là : [@aurelievache](https://twitter.com/aurelievache) et [@Gaelleacas](https://twitter.com/Gaelleacas)
 
+Be jealous : j'ai un sticker collector !!
 ![Be jealous : j'ai un sticker collector]({{ site.url }}{{ site.baseurl }}/assets/images/kube3.png)
 
 
@@ -147,22 +148,26 @@ Beaucoup plus de monde à l'entrée, l'amphi Bleu se remplit en quelques minutes
 
 Revival ! montée sur scène façon concert de rock : éclairage, fumée, et... rockstars !! Nicolas, Antonio et Zouheib nous partagent les coulisses de DevoxxFR, depuis sa germination, sa naissance, son annonce et son expansion !
 
-TODO image
+![devoxxfr les 10 ans]({{ site.url }}{{ site.baseurl }}/assets/images/devoxx10ans1.png)
 
 L'équipe entière monte sur scène et entonne un joyeux anniversaire des 10 ans des plus envolés : un grand merci pour tout ce que vous faites, vos partages, vos galères, votre fatigue mais toujours vos DevoxxFR pleins de succès ! Fière de vous avoir croisés et de faire un peu partie de l'aventure en tant qu'attendee depuis les 5 dernières sessions.
+
+![devoxxfr les 10 ans]({{ site.url }}{{ site.baseurl }}/assets/images/devoxx10ans2.png)
 
 A revoir absolument : les photos collectors !!!
 
 Encore un grand merci !
 
-### 10 ans de tech à travers le podcast Niptech
+### 10 ans de tech à travers le podcast Niptech - Benoît CURDY, Michael MONNEY et Baptiste FREYDT
 
 Il existe des groupes qui fonctionnent parce qu'ils ont tout compris : partager dans la bonne humeur.
-C'est exactement le cas de Niptech ! Au travers de leur TODO
+C'est exactement le cas de Niptech ! Au travers de leur rétrospective, de leur réussite, des aléas de la vie, des tentatices d'innovations, des retours aux valeurs sûres : on partage avec bonheur nos propres tentative de maintien de communauté, pour toujours plus lui apporter et la garder précieusement. Car oui : c'est un vrai plaisir de partager !
 
-TODO image
+Merci à tous les trois !
 
-### Slow tech : il est urgent de changer le système
+![niptech sur scène]({{ site.url }}{{ site.baseurl }}/assets/images/niptech.png)
+
+### Slow tech : il est urgent de changer le système - Frédéric BORDAGE
 
 Présentation très claire et très concrète des solutions que l'on peut toutes et tous mettre en place au quotidien pour hacker le système et faire avancer la problématique de notre impact écologique.
 
@@ -185,7 +190,7 @@ Pour cela, on découpe trois domaine :
 - le run, actuellement rapproché au réseau et au rapport Watt/Go
 - la fin de vie, de plus en plus liée à la récupération
 
-TODO image
+![Quentin et Pierre in stage]({{ site.url }}{{ site.baseurl }}/assets/images/ressourcenrj.png)
 
 Concernant le run : le pilotage de la consommation mais aussi de la production, intégrer la notion de l'heure et de la localisation à la startégie de calcul, permettraient de corriger la marge d'erreur des calculs unitaires et communiqués actuels.
 
@@ -211,7 +216,7 @@ Pour suivre Quentin et Pierre, ça se passe par là : [@waxzce](https://twitter.
 
 Quelle est la meilleure ou la pire license opensource ? Pas facile.
 
-TODO image
+![licences opensource]({{ site.url }}{{ site.baseurl }}/assets/images/licenseos.png)
 
 Il y a différentes notions à prendre en comte : le droit d'auteur, le copyright, la non discrimination, les brevets...
 Il existe MIT, BSD sur plusieurs versions, avec plus ou moins de conditions (citations, références...).
@@ -233,11 +238,13 @@ Peu de procès et de jurisprudence pour le moment, du fait de la récence des li
 
 Je rajoute ma propre morale : on a tous un rôle à jouer dans l'éthique des entreprises, y compris quand on est développeuse ou développeur. Et là je vous conseille de re-visionner une des keynotes qui m'avait marqué à DevoxxFR en 2017 : De la responsabilité des ingénieurs d'Eric Sadin, à voir ici : https://www.youtube.com/watch?v=jpvMOIVU-Z4
 
-Pour suivre Pierre-Yves, ça se passe par là : [@TODO](https://twitter.com/TODO) 
+Pour suivre Pierre-Yves, ça se passe par là : [@pylapp](https://twitter.com/pylapp) 
 
 ### Simplifiez vos revues de code avec le rebase intéractif - Sonia SEDDIKI
 
 Une première pour Sonia, et en salle Maillot s'il vous plaît !
+
+![c'est parti]({{ site.url }}{{ site.baseurl }}/assets/images/rebase1.png)
 
 On parle amélioration de revue de code : pouvant être vue comme laborieuse, elle intervient souvent en fin de longue période de développement dnas un temps limité et donc avec peu de marge de manoeuvre pour corriger au besoin.
 A cela s'ajoutent les différents niveaux de revue à vérifier pour augmenter la qualité et la clareté de merge request.
@@ -256,7 +263,9 @@ Attention : à faire sur vos propres branches ! pas des branches partagées ou d
 
 Très belle découverte : merci Sonia, et bravo !
 
-Pour suivre Sonia, ça se passe par là : [@TODO](https://twitter.com/TODO) 
+![nous sommes en salle Maillot]({{ site.url }}{{ site.baseurl }}/assets/images/rebase2.png)
+
+Pour suivre Sonia, ça se passe par là : [@sonia_seddiki](https://twitter.com/sonia_seddiki) 
 
 
 ### Dois-je migrer en Reactive et comment ? - Christophe JOLLIVET
@@ -295,10 +304,128 @@ Un grand oui si vous visez la scalabilité plus que la rapidité. La syntaxe est
 
 J'ai adoré la présentation step by step en comparaison avec ce que l'on connait de l'impératif : cela permet d'appréhender facilement et rapidement les concepts du reactif.
 
+Pour suivre Christophe, ça se passe par là : [@jollivetc](https://twitter.com/jollivetc) 
 
 ### Etre développeur : grandir et se développer - Gaëtan ELEOUET
 
 "Etre développeur, ce n'est pas savoir coder.
 Savoir coder, ce n'est pas être développeur."
 
-TODO image
+![Gaetan en amphi bleu]({{ site.url }}{{ site.baseurl }}/assets/images/devgrand.png)
+
+Le rôle du dévéloppeur ou de la développeuse n'est pas seulement de répondre à un besoin par du code, mais assurer un service pérenne et de manière qualitative. Il faut pour cela s'astreindre à aller au-delà du simple code : creuser la qualité, améliorer la communication des équipes. C'est ainsi que Jeff Kent, un des signataires du manifeste agile, propose 9 règles de callisthénie.
+
+On parle agilité, craftmanship : des manifestes qui mettent en exergue des pratiques déjà existantes, notamment la boucle de feedback la plus rapide possible et qui permette de toujours plus améliorer les pratiques de chacun. Ont été évoqués les principes SOLID, les propriétés CUPID.
+
+Pour grandir, les 25 millions de développeurs dans le monde, il faut se préoccuper de la communication.
+
+La notion même d'expérience, de séniorité est de plus en plus complexe : le nombre de technos explose et il est de plus en plus difficile de maîtriser toute une stack technique. Alors on est déjà bien content lorque nous comprenons la stack. On n'est pas forcément un développeur ou une développeuse sénior arpès 6 ans d'expérience : on n'a pas forcément pu tout voir ou voir suffisamment de choses pour nous considérer comme sénior.
+
+Eviter les pièges du super-héros, essayer d'agrandir sa zone de confort, expliquer le pourquoi on fait les choses, créer une culture véritablement bienveillante : autant de choses qui nous permettrons d'oser nous surpasser ou de tenter des nouveautés.
+
+Pour suivre Gaëtan, ça se passe par là : [@egaetan](https://twitter.com/egaetan)
+
+### Comment j'ai aidé ma fille à lire avec le machine learning - Vincent OGLOBLINSKY
+
+Retour d'expérience : lors de l'apprentissage de la lecture, les enfants décortiquent les syllabes une à une. Un des outils magiques qui exitent est le digital. Le doigt quoi ! pointer son texte pour focuser son attention est une aide précieuse pour le déchiffrage.
+
+Challenge : imaginer une solution qui aide à la lecture en déchiffrant une voix d'enfant alimentant une application web faisant marcher un speed-to-text like.
+Rencontrer des orthophonistes a permis de comprendre les phases de l'apprentissage de la lecture afin de coller au mieux à l'habileté mentale du cerveau qui apprend.
+
+![Vincent dans la salle Maillot]({{ site.url }}{{ site.baseurl }}/assets/images/lecture.png)
+
+Le français, c'est pas facile : 26 lettres de l'alphabet, 36 phonèmes, 190 graphèmes associés... les combinaisons sont ultra-nombreuses !
+
+Et le machine learning dans tout ça ? Il faut trouver des modèles de données en entrée de base, comprendre le fonctionnement du speed-to-text (donner du son court en entrée, puis traiter le signal pour ensuite dissocier la partie lexicale et le langage).
+Mais la complexité de l'affaire est de s'adapter à la tessiture des voix d'enfants, pour lesquelles les datasets d'entrée sont beaucoup plus rares.
+
+Deux possibilités de modèles :
+- un modèle déjà entrainé, moins maitrisé mais existant
+- un modèle à construire à partir de rien et donc avec besoin de beaucoup plus de données initiales pour pouvoir l'entraîner
+
+C'est la première qui a été choisie, depuis tensorflow. Ajoutez du Python en local et déployez en javascript et ainsi le modèle pourra être utilisé dans le navigateur.
+Pour la collecte, l'interface propose d'enregistrer le son, le vérifier (donc le ré-écouter) et d'envoyer le fichier natif pour les nettoyer, les raccourcir...
+
+Ensuite, on entraîne le modèle, et ... on l'utilise ! on écoute en continu, on récupère la fréquence, on compare et on valide, ou pas !
+
+A l'utilisation, l'enfant lit et sait visuellement si le déchiffrage est ok ou non.
+L'utilisation est ludique et laisse des perspectives d'ouverture multiples.
+
+Intéressé(e)s ? essayez vous même avec teachablemachine
+
+Pour suivre Vincent, ça se passe par là : [@vogloblinsky](https://twitter.com/vogloblinsky)
+
+### Accéder à mon cerveau par une API - Sébastien BLANC
+
+ENORME ! une entrée en matière sonore, visuelle et tellement tordante !
+
+![rock star]({{ site.url }}{{ site.baseurl }}/assets/images/cerveau1a.png)
+
+On va parler interface homme machine : que ce soit avec un clavier, un stylo optique mais aussi la souris, la Wiimote, le gyromètre sur les iPhone...
+Si on va plus loin, on peut parler de Interface cerveau-machine.
+![rock star]({{ site.url }}{{ site.baseurl }}/assets/images/cerveau1.png)
+
+"Il faut d'abord comprendre comment marche un cerveau, sachant que je suis un développeur J2EE."
+
+Les zones du cerveau sont spécialisées et permette de déterminer ce qu'il pense.
+Voici le streaming de cerveau de Sébastien :
+
+![rock star]({{ site.url }}{{ site.baseurl }}/assets/images/cerveau2.png)
+
+Et c'est plutôt très clair : cela indique qu'il est génial et que sa présentation est fait mouche.
+
+Plusieurs types d'ondes existent :
+- Delta : c'est quand on dort
+- theta : lorsqu'on est en mode méditation
+- alpha : quand on est en mode relaxation
+- beta : quand on est focus
+- gamma : on le saura un jour plus précisément qu'aujourd'hui peut-être
+
+On utilise Docker / Kafka pour... voir les données du cerveau de Sébastien sur un topic Kafka, et ça... ça n'a pas de prix !
+On teste le calm, le focus mais surtout on commence à réellement utiliser les cas d'application : en fonction de ces taux de calm ou de focus, on va pouvoir lancer des commandes particulières. Il n'en faut pas plus pour laisser libre court à l'imagintation de Sébastien pour la suite.
+
+Il va construire un modèle et l'entraîner : mode deep learning ON via neurosity. Et on va parler Kinesis pour intéragir avec son cerveau.
+
+Nouvel exemple : via Brainflow, qui peut se connecter aussi au casque.
+Et enfin... tir de boulets de canon... par la pensée !!
+
+BRAVO !
+
+Pour suivre Sébastien, ça se passe par là : [@sebi2706](https://twitter.com/sebi2706)
+
+### Jouer à Minecraft avec une IA générée par GPT-3 - Wassim CHEGHAM et Tiffany SOUTERRE
+
+Quand on discute sur _Underscore_ on peut parfois se retrouver à se lancer dans des aventures impressionnantes mais tellement challengeantes ! 
+Le POC présenté consiste à pouvoir donner des instructions au bot sous Minecraft via une intelligence artificielle (IA ou AI pour les english).
+
+Après un rappel de ce qu'est le géniallissime jeu Minecraft, les NPC (non-player characters), on voit comment intéragir avec ces derniers grâce à OpenAI, GPT-3 qui, après un entraînement de folie, a donné Codex. Github Copilot lui, est capable de proposer des blocs de codes en fonction de ce qu'on souhaite faire faire à la fonction. J'aimerai clairement que ça existe pour les compte-rendus de réunions de 3h...
+
+Bref, le joueur va donner une instruction, envoyée à Codex associée à un contexte.
+
+On fait le tour du code, puis on passe à la partie démo, car nos deux speakers sont joueurs !
+
+
+
+Vous êtes intéressé(e)s ? le code github sera open-sourcé ce soir 😇
+
+Pour suivre Wassimm et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterrej)
+
+
+### BOF TADx - Mais au fait DevRel c'est vraiment qu'un lanceur de paillettes ?
+
+Très bon moment passé à se poser la question : qu'est-ce qu'un DevRel ? un Developer advocate ? un Technical Account Manager ?
+Plusieurs réponses différentes prouvent la richesse et la pluralité de ce qu'on met derrière ce rôle mais un point commun : le partage.
+Servir la communauté, être "un membre actif positif" - Horacio Gonzales
+
+Merci à toutes et tous !
+
+![Les invités]({{ site.url }}{{ site.baseurl }}/assets/images/tadxbof1.png)
+![on était bien en 242]({{ site.url }}{{ site.baseurl }}/assets/images/tadxbof2.png)
+![les participants]({{ site.url }}{{ site.baseurl }}/assets/images/tadxbof3.png)
+
+### BOF Duchess France
+
+Très bon moment là encore, passé à échanger sur la multiplicité des profils, des parcours, des valeurs...
+On parle syndrôme de l'imposteur (qui à mon sens ne doit pas totalement disparaître pour permettre de rester humble dans son partage), études, partage de connaissances auprès des étudiants et étudiantes, encouragements, mentoring, entraide, mixité... Merci !! Ce fut très précieux pour moi pour la fin de cette deuxième journée intense !
+
+![le bof des duchess]({{ site.url }}{{ site.baseurl }}/assets/images/duchessbof.png)
