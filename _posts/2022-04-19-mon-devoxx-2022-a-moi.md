@@ -93,7 +93,7 @@ Pour suivre Jordan, Adrien et Julien, ça se passe par là : [@JkNourry](https:/
 ![Nous sommes en salle Neuilly 252 AB et il y a beaucoup de monde.]({{ site.url }}{{ site.baseurl }}/assets/images/nodejs2.png)
 
 Et n'oubliez pas, nous co-organisons, avec CraftsRecords et TADx, le Tremplin des speakers le 3 mai à Tours pour donner la chance à des speakers débutants de gagner une conférence au Camping des speakers, dans le Golfe du Morbihan les 9 & 10 juin 2022.
-Inscriptions pour faire partie du public-jury du tremplin le 3 mai => [lien eventbrite]](https://www.eventbrite.fr/e/billets-le-tremplin-du-camping-des-speakers-306273120147)
+Inscriptions pour faire partie du public-jury du tremplin le 3 mai => [lien eventbrite](https://www.eventbrite.fr/e/billets-le-tremplin-du-camping-des-speakers-306273120147)
 
 
 ### Rendez l'agilité aux développeurs et développeuses ! - votre humble serviteuse
@@ -323,6 +323,8 @@ La notion même d'expérience, de séniorité est de plus en plus complexe : le 
 
 Eviter les pièges du super-héros, essayer d'agrandir sa zone de confort, expliquer le pourquoi on fait les choses, créer une culture véritablement bienveillante : autant de choses qui nous permettrons d'oser nous surpasser ou de tenter des nouveautés.
 
+Je n'ai pas toujours réussi à comprendre le lien entre toutes les parties, j'ai dû louper des étapes (fatigue ?), aussi mes notes sont un peu un cumul d'idées éparses.
+
 Pour suivre Gaëtan, ça se passe par là : [@egaetan](https://twitter.com/egaetan)
 
 ### Comment j'ai aidé ma fille à lire avec le machine learning - Vincent OGLOBLINSKY
@@ -372,7 +374,7 @@ Voici le streaming de cerveau de Sébastien :
 
 ![rock star]({{ site.url }}{{ site.baseurl }}/assets/images/cerveau2.png)
 
-Et c'est plutôt très clair : cela indique qu'il est génial et que sa présentation est fait mouche.
+Et c'est plutôt très clair : cela indique qu'il est génial et que sa présentation fait mouche.
 
 Plusieurs types d'ondes existent :
 - Delta : c'est quand on dort
@@ -404,8 +406,6 @@ Bref, le joueur va donner une instruction, envoyée à Codex associée à un con
 
 On fait le tour du code, puis on passe à la partie démo, car nos deux speakers sont joueurs !
 
-
-
 Vous êtes intéressé(e)s ? le code github sera open-sourcé ce soir 😇
 
 Pour suivre Wassimm et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterrej)
@@ -420,7 +420,9 @@ Servir la communauté, être "un membre actif positif" - Horacio Gonzales
 Merci à toutes et tous !
 
 ![Les invités]({{ site.url }}{{ site.baseurl }}/assets/images/tadxbof1.png)
+
 ![on était bien en 242]({{ site.url }}{{ site.baseurl }}/assets/images/tadxbof2.png)
+
 ![les participants]({{ site.url }}{{ site.baseurl }}/assets/images/tadxbof3.png)
 
 ### BOF Duchess France
@@ -429,3 +431,259 @@ Très bon moment là encore, passé à échanger sur la multiplicité des profil
 On parle syndrôme de l'imposteur (qui à mon sens ne doit pas totalement disparaître pour permettre de rester humble dans son partage), études, partage de connaissances auprès des étudiants et étudiantes, encouragements, mentoring, entraide, mixité... Merci !! Ce fut très précieux pour moi pour la fin de cette deuxième journée intense !
 
 ![le bof des duchess]({{ site.url }}{{ site.baseurl }}/assets/images/duchessbof.png)
+
+
+## Vendredi 22 Avril : ne te découvre pas d'un fil !
+
+Bon, il faut se l'avouer, le vendredi matin est sans doute la journée la plus compliquée... la fatigue est réelle et il faut une vraie motivation pour arriver avant 9h au Palais des Congrès. Pour cela j'ai un respect incroyable pour les gilets rouges !
+
+Je zappe donc volontairement les premières keynotes et en profite pour discuter par-ci par-là (on est aussi là pour réseauter) et prendre quelques goodies !
+
+### 10 ans de Devoxx FR et de Java - Jean-Michel DOUDOUX
+
+Il y a des gens qu'on rêve de voir un jour en conférence, en vrai. Jean-Michel DOUDOUX en fait partie.
+Et je ne suis pas déçue : un incroyable condensé de savoir dilué avec gentillesse et humour pendant 45 minutes.
+
+![10 ans de Java]({{ site.url }}{{ site.baseurl }}/assets/images/10java1.png)
+
+Je salue particulièrement le difficile exercice de choisir les choix cornéliens de sujets à aborder sur les dix dernières années de la vie de Java.
+
+J'ai retenu surtout :
+- Java 8 et les lambdas, l'API Date & Time
+- Java 9 en 2017 avec le try with resources et JShell, et les modules... qui ne font pas l'unanimité ! mais qui d'après Jean-Michel, devrait être une cible, pour des raisons de maintenabilité, performance mais aussi sécurité !
+- Java 10 et l'instruction var
+- Java 11 en 2018 avec l'API HTTP Client supportant HTTP 1.1 et 2
+- Java 14 et les switch expressions
+- Java 15 et la gestion de chaîne de caractères multiligne (enfin !), avec gestion de l'indentation s'il vous plaît ! et... le NullPointerException 😇
+- Java 16 et les records
+- Java 17 avec les classes scellées
+- Java 18 en 2022
+
+Bilan ? Java reste verbeus, mais se modernise et se simpifie.
+
+Lorsque l'on parle migration sur une des LTS 11 ou 17, il faut motiver les raisons : oui c'est sympa mais ça ne suffit pas.
+Il faut alors parler de la JVM, qui évolue au niveau de la performance et la sécurité, notamment de nouveaux algo de crytographie. On rallie ainsi les ops.
+Et on peut aussi parler coût en parlant déplacement dans le cloud. On rallie ainsi la stratégie.
+
+Il vous faut d'autres arguments ? Si vous voulez garder et attirer de nouveaux développeurs heureux : faites-les bosser sur des stacks qui ne sont pas obsolètes !
+
+Et plus concrètement, aidez-vous de jdeps pour migrer en plus des outils et des dépendances nécessaires. Sachez qu'il n'est pas obligatoire de modulariser votre code, bien que ce soit conseillé. Donc plus d'excuses !!!
+
+Attention cependant : depuis Java 11, il y a des API qui disparaissent ! alors oui c'est documenté, mais il faut s'y pencher pour être sûr que ça continue de compiler. Aidez-vous de javaalmanac.io par exemple.
+
+Pour les détails de migration d'une version à une autre, je vous invite vivement à regarder la conf retransmise sur la chaîne Youtube de DevoxxFR, car Jean-Michel vous met en garde et précise les points de vigilance à avoir (notamment la gestion des warnings gniark gniark). et si vous voulez faire le grand saut de Java 8 à Java 17, le conseil est de morceller en deux étapes : d'abord passage à Java 11 avant Java 17.
+
+Oyez oyez : Java 19 en 2023 !
+
+et rendez-vous en 2032 pour faire le bilan !
+
+![Jean-Michel DOUDOUX on stage]({{ site.url }}{{ site.baseurl }}/assets/images/10java2.png)
+
+Pour suivre Jean-Michel, ça se passe par là : [@jmdoudoux](https://twitter.com/jmdoudoux)
+et bien sûr son site qui a fêté ses 20 ans il y a quelques mois : TODO site
+
+
+### Le scale-up, l'autonomie et le sous-marin nucléaire - Pauline JAMIN et Thomas PIERRAIN
+
+C'est quoi une scale-up ? c'est une start-up qui a validé son business model et qui est en pleine extension. Dans ces cas-là : quel est le process de validation des choix ? C'est là que l'autonomie entre en jeu.
+
+![Pauline et Thomas sont prêts]({{ site.url }}{{ site.baseurl }}/assets/images/scaleup1.png)
+
+Une entreprise devrait pouvoir prendre des décisions rapidement.
+
+Dans les faits, quand les équipes parviennent à atteindre un certain niveau d'autonomie, des limites apparaissent : faire les choses dans son coin sans en faire bénéficier les autres, se lancer dans des solutions pas forcément plus maintenable que l'existant, ...
+
+Sur la base de la référence "Turn the ship around" de David Marquet, on découvre le mode de management de la Navy, entre attentisme et suivi aveugle des ordres.
+Comment faire plus efficace ?
+- déléguer les responsabilités
+- légitimer les équipes à être force de proposition
+- donner des objectifs plus que des instructions ou des procédures
+- créer un espace pour échanger
+
+Dans le contexte d'Agicap, le challenge est de passer d'une start-up à une scale-up.
+Mais avant d'appliquer tout cela, il faut prendre en compte certains éléments logiques et humains : la crainte du changement pour commencer.
+
+![Le plan d'action sur le terrain]({{ site.url }}{{ site.baseurl }}/assets/images/scaleup2.png)
+
+Ce qui a été testé chez Agicap : Domain Driven Sesign (DDD), la réflexion commune sur le repositionnement de chacune et chacun, la participation aux sujets de refactoring sur la base du choix, la définition d'OKR (Objectives & Key results) pour annoncer ce qui sera mesuré, mais sans préciser le comment pour laisser libre les équipes de choisir par elles-mêmes. S'ajoute aussi le lancement d'une initiative SRE.
+
+La problématique discutée est réellement propre à la situation d'une start-up qui grossit : les applications en grosse entreprise ou chez le client ne sont pas évoquées. Cela permet néanoins de se dire que tout est possible et de rêver un peu : merci !
+
+Pour suivre Pauline et Thomas, ça se passe par là : [@jaminpauline](https://twitter.com/jaminpauline) et [@tpierrain](https://twitter.com/tpierrain)
+
+
+### Rendez vos interfaces fiables en faisant aimer les tests à votre équipe - Jean-Lou PIERME et Jonathan MEUNIER
+
+"tester ce que les utilisateurs ont et pas ce que notre coder fait"
+
+![Jean-Lou et Jonathan en place]({{ site.url }}{{ site.baseurl }}/assets/images/interf1.png)
+
+Ils nous présentent leur contexte : 100% de couverture de tests (sic), méthodes testées unitairement, 
+La notion de 100% de couverture n'est pas un gage de sécurité, ce n'est pas forcément fiable, et au final "c'est très facile d'atteindre un taux de couverture de 100%" il suffit de filouter ^^
+
+Ecrire un code "parfait" c'est chouette mais ça ne garantie pas le service qu'il fournit.
+L'exemple est pris d'un scénario écrit en Gherkin : cela permet de lire en langage naturel le code dans une pull request. La documentation qui peut en découler est facilement partageable.
+
+L'avantage de ne tester que les scénarios d'usage, c'est qu'on va avoir du code non couvert de révéler, et nous aurons ainsi l'occasion de se poser la question : est-ce du code mort ? et d'intelligement le gérer.
+
+Pour tester, on y va par étape. A chaque bug relevé :
+- on écrit un test pour qu'il passe rouge à la relance 
+- on corrige le bug
+- on vérifie que le test passe au vert
+C'est du TDD appliqué à la correction d'un bug. Et on va essayé d'écrire des tests les plus petits possibles.
+
+Lorsque l'on travaille sur du legacy, il ne faut pas tomber dans le piège de vouloir ajouter des tests sur notre nouvelle fonctionnalité et tout le reste autour. Il faut se concentrer sur notre fonctionnalité et éventuellement les branchements et les impacts avec l'existant, mais on ne va pas créer une pieuvre inmaintenable.
+
+Un composant intéressant à utiliser pour mettre en place des tests à la base : SnapshotDiff.
+Puis viennent les tests unitaires, avec mock possible puisqu'on veut tester la partie technique de notre code.
+Ensuite, les tests d'intégration pour tester l'utilisation par l'utilisateur : on ne vérifie pas l'appel des fonctions, mais on teste le comportement, les clics, les affichages... 
+Enfin, les tests end-to-end, sans mocks cette fois-ci pour jouer le jeu de traverser les différentes couches.
+La démo qui suit consiste à encapsuler toutes ces couches de tests dans du Gherkin, utilisé en javascript pour l'occasion.
+
+Ce qu'il faut retenir :
+- un développeur ou une développeuse doit maîtriser son environnement technique pour pouvoir écrire les tests confortablement.
+- commencer par bien comprendre le besoin avant de le développer, puis d'écrire le test, refactorer, améliorer les tests
+- on construit des composants légers : les tests les seront aussi
+- on pense à l'asynchronisme
+- on embarque correctement les nouveaux développeurs dans la démarche : "on passe autant de temps sur les tests que sur les développements".
+
+Pour suivre Jean-Lou et Jonathan, ça se passe par là : [@jloupiote](https://twitter.com/loupiote) et [@MonsieurNohj](https://twitter.com/MonsieurNohj)
+
+
+### Comment permettre 100 millions de logins sans interruption de service ? Betclic raconte son Euro 2020 de football - Nicolas JOZWIAK et Etienne PUISSANT
+
+![Nicolas et Etienne en place]({{ site.url }}{{ site.baseurl }}/assets/images/betclic1.png)
+
+Il y a eu un avant et un après Euro 2020. Après avoir frôlé la faillite en 2017, Betclic a été repris par de nouveaux investisseurs exigeant le regroupement du SI (système d'informations) abandonné à Bordeaux.
+
+L'objectif de Betclic étant d'offrir une expérience utilisateur la plus fluide possible peu importe le nombre de match possible (tout sport condonfu), la réactivité attendue de l'application est très forte. Durant toute la journée, ce ne sont pas les mêmes API qui sont sollicitées : paris, retraits, la validation des paris... c'est donc potentiellement un traffic permanent qu'il faut gérer. Appdynamics est un des deux outils qui sont utilisés pour suivre les indicateurs principaux et le monitoring front. L'autre est Datadog, qui permet de l'alerting en fonction de seuil déterminés.
+
+Avant l'Euro 2020, s'accumulait le legacy du SI et les règles exigeantes de l'environnement des paris, notamment les notions règlementaires, propres à chaque pays de présence de Betclic (France, Pologne, Italie et Portugal). Certaines soirées faisaient tomber l'application. Sont alors nées les war-room, mettant ensemble les domaines transverses. Comprendre les bugs, prioriser les sujets : beaucoup d'améliorations sont déjà apportées en mode quick-win mais aussi plus profondément en passant d'un monolithe à du micro-services.
+
+![schéma évolutif]({{ site.url }}{{ site.baseurl }}/assets/images/betclic2.png)
+
+Les principaux points de contentieux étaient côté base de données. Un cache Redis a permis de les soulager, un cash VArnish côté front et Kong, une API gateway pour ajouter de la sécurité et de l'authentification.
+
+Début 2020, AWS a été choisi pour passer sur le Cloud afin de passer du sentiment de "subir" les soirées de match, à l'action d'anticipation.
+Les premiers tests de charge ont été faits en... production !
+
+Avec Gatling, on vient coder les différents workflow d'API pour définir des scénarios à faire ingérer à Gatling. Grâce au monitoring des simulations, toutes les équipes ont accès à l'information via un portail. Le test de charge rentre alors dans leurs habitudes et beaucoup d'améliorations niveau réseau sont apportées grâce aux tests de rupture. 
+
+Deux semaines avant l'Euro 2020, les tests de charge sont terminés. 
+Au final, c'est 1 million de joueurs, 100 millions de login, 0 incident majeur, 0 war room. BRAVO !
+
+"on est plutôt sereins"
+
+Et mieux : un collectif humain s'est créé, une culture d'entreprise où chacun apporte sa contribution.
+
+Pour la suite, il est prévu de parler auto-scaling, Azure pour le SQL Server, chaos monkey
+
+![présentation en cours]({{ site.url }}{{ site.baseurl }}/assets/images/betclic3.png)
+
+Pour suivre Nicolas et Etienne, ça se passe par là : [@njozwiak](https://twitter.com/njozwiak) et [@TODO](https://twitter.com/TODO)
+
+
+
+### CI/CD, le divorce serait-il prononcé ? - Nicolas GIRAUD et Yann SCHEPENS
+
+![Nicolas et Yann en place]({{ site.url }}{{ site.baseurl }}/assets/images/cicd1.png)
+
+A l'origine, l'intégration continue visait à améliorer le build, pour passer du code à un binaire.
+Avec le CD, la première étape, le delivery consiste à transformer le binaire en livrable (la partie release) mais très vite, ça devient du déploiement pour mettre l'application en production.
+Avec la multiplication des livraisons, on livre un service aux utilisateurs, souvent et en direct.
+
+La CI et la CD sont donc différents mais complémentaires. Mais leur automatisation n'est pas facile et rapide tout le temps.
+
+On parle pipeline, dans sa définition visuelle : c'est un graphe, qui sert à mettre tout le monde d'accord. Mais dans l'ensemble, pour bien le concevoir, voici des étapes clés :
+- définir l'objectif du pipeline
+- prendre en compte l'existant pour le faire évoluer
+- y aura-t-il des étapes clés de validation ?
+
+Un atelier d'event storming va permettre de répondre à ces trois premières questions
+
+- définir des feedbacks pour chacune des étapes
+- comment cadencer ? définir les tâches à automatiser
+- choisir les outils : côté CI on est assez indépendants mais côté CD on est dépendants de l'infrastructure de l'entreprise. En choisir un seul ? plusieurs en fonction des domaines ?
+
+Les pipelines sont évolutifs, ils suivent le même schéma d'évolution agile que le code source, pour toujours être adapté aux usages.
+
+L'élément perturbateur est le everything as code : on met tout dans le livrable. Code, infra, doc, pipeline... ça devient vite le bazard.
+Le CI va avoir un impact sur la prod et la CD doit comprendre les aléas du code.
+La notion de DRY = don't repeat yourself va permettre de factoriser les étapes communes... mais pas trop ! On se pose ensuite la question de savoir si les principes SOLID du dev peuvent être adaptés aux pipelines.
+
+Il faut au maximum éviter de devoir TOUT relancer dans un pipeline pour le faire passer au vert quand une étape échoue mais toujours en observant le principe KISS (keep it simple and stupid).
+
+Intervient la logique DevOps. Sauf qu'au lieu de simplifier la collaboration en les pratiques DEV et les pratiques OPS, on rajoute un troisième élément à part.
+
+"Choisir c'est renoncer"
+
+Alors, on sépare la CI et la CD ? on se répartit les responsabilités ?
+Ou bien se rassembler tous ensemble ?
+
+Faisons à minima l'effort de se connaître les uns les autres, soyons empathiques, communiquons !
+
+J'ai adoré et la forme et le fond : Nicolas et Yann sont parvenus à tenir le public éveillé à un créneau particulièrement pas facile : très belle rencontre !
+
+![fusion de la CI et de la CD ?]({{ site.url }}{{ site.baseurl }}/assets/images/cicd2.png)
+
+Pour suivre Nicolas et Yann, ça se passe par là : [@nicgiro](https://twitter.com/nicgiro) et [@YannSchepens](https://twitter.com/YannSchepens)
+
+### Les Cast Codeurs en 💺 et en 🦴️ - Emmanuel BERNARD, Guillaume LAFORGE, Antonio GONCALVES et Arnaud HERITIER
+
+Tic-tac, tic-tac, il ne reste plus beaucoup de temps avant de prendre le train, les stands commencent à être démontés mais... il faut absolument que j'aille voir ces 4 sacrés personnages en vrai et en marinière !
+Il y a foule, c'est bien la preuve que le partage est aussi une histoire d'affect et de personnages.
+
+![Les Cast Codeurs on stage]({{ site.url }}{{ site.baseurl }}/assets/images/cast1.png)
+
+Ils sont fatigués, interrompus par les gilets rouges prêts à les suivre n'importe où, fous aussi, mais aussi assez humbles pour être reconnaissants et plein d'humour.
+On ne leur dira jamais assez merci, MERCI, M-E-R-C-I !! c'est incroyable ce que vous réalisez !!
+
+![Les gilets rouges manifestent]({{ site.url }}{{ site.baseurl }}/assets/images/cast2.png)
+
+Hélas tic-tac, tic-tac... il faut prendre le train. Ma consolation est d'apprendre que les dates de 2023 sont déjà fixées... rendez-vous les 12, 13 et 14 avril 2023 ❤️️
+
+
+## C'est le bilan !
+
+Le moins que l'on puisse dire, c'est que cette année, j'ai pu profiter un MAX !!
+
+Donner une conférence en présence de collègues d'[Apside](https://apside.com/) et d'amis a été une expérience A-MA-ZING !
+Avoir été accomapgnée et soutenue par des gens adorables et passionnés (mention spéciale à Arnaud HERITIER, Adrien et Estelle LANDRY ainsi que les techniciens).
+
+Les conférences et keynotes ont été ultra-variées : un grand merci à tous les speakers et au comité de sélection !
+
+Enfin, un plus qu'énorme merci à mon amoureux Stéphane, qui m'a motivée à préparer, soumettre, qui m'a écoutée (beaucoup beaucoup...), accompagnée, coachée et qui a été tout aussi stressé que moi ❤️️
+
+Je vous laisse avec d'autres photos souvenirs, n'hésitez pas à me les demander en 'joli' format si elles vous intéressent.
+
+Les goodies de l'année dans un super sac :
+![Les goodies de l'année dans un super sac]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir1.png)
+
+Qui qui finit 1ère du Kahoot d'OVHCloud ?
+![Le concours OVHCloud]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir2.png)
+
+L'avant TADx :
+![l'avant TADx]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir3.png)
+
+Mon coach, [Stéphane](https://twitter.com/wildagsx) :
+![coach Stéphane]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir4.png)
+
+[Aurélie](https://twitter.com/aurelievache) juste avant le talk de [Sonia](https://twitter.com/sonia_seddiki) :
+![Aurélie et Sonia]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir5.png)
+
+[Julien](https://twitter.com/jlengrand) un peu avec nous malgré tout :
+![petits cadeaux de Julien]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir6.png)
+
+[Arnaud](https://twitter.com/aheritier) et [Katia](https://twitter.com/karesti) présentant les keynotes :
+![Arnaud et Katia]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir7.png)
+
+Le dîner des speakers (je me sens toute petite) :
+![dîner des speakers]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir8.png)
+
+[Gaëlle](https://twitter.com/Gaelleacas) et [Aurélie](https://twitter.com/aurelievache) accompagnées par [Estelle](https://twitter.com/estelandry) pour leur talk :
+![Gaëlle, Aurélie et Estelle]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir9.png)
+
+Juste merciiiiii !!!
+![kiff]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir10.png)
+
+PS : J'ai peut-être fait des fautes, écrit des bêtises => je vous invite à m'en faire part pour améliorer mon contenu !
