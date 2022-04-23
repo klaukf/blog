@@ -82,7 +82,7 @@ Le nom des fonctions doit signifier ce que fait la fonction : on s'allège ainsi
 
 Enfin, on centralise le fonctionnel et sa complexité : on arrête de la disperser un peu partout dans notre architecture ! (à bon entendeur...)
 
-Le but de l'architecture hesagonale, est donc d'inverser le sens de la dépendance entre la couche domain et la couche de persistence, normalement rencontré dans le modèle classique.
+Le but de l'architecture hexagonale, est donc d'inverser le sens de la dépendance entre la couche domain et la couche de persistence, normalement rencontré dans le modèle classique.
 
 Controller ->use-> Domain <-use<- Persistence
 
