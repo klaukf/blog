@@ -7,13 +7,13 @@ tags: [ devoxx ]
 image: assets/images/devoxxFR2.png
 ---
 
-*ENFIN !! je crois que c'est le mot qui résume le plus l'attente (3 ans quand même !), les retrouvailles, les allers et venues dans les couloirs Neuilly et Paris, l'arrêt aux stands, les discussions avec les copains et les copines... Que ça fait du bien !
+ENFIN !! je crois que c'est le mot qui résume le plus l'attente (3 ans quand même !), les retrouvailles, les allers et venues dans les couloirs Neuilly et Paris, l'arrêt aux stands, les discussions avec les copains et les copines... Que ça fait du bien !
 Retour en images et en texte de cette spéciale 10 ans de DevoxxFR...
 
 ## Mardi 19 avril : prépa physique et mentale
 
 Cela fait deux jours que le stress gagne chacun de mes organes vitaux et m'empêche de correctement dormir et manger.
-Il y a quelques jours j'apprends que je donnerai ma conférence "Rendez l'agilité aux développeurs et développeuses !" en amphi bleu. Le grand amphi cleu. L'ENORME amphi bleu. Il n'y a plus qu'à espérer que les spots m'aveuglent suffisamment pour que je n'y voie rien !
+Il y a quelques jours j'apprends que je donnerai ma conférence "Rendez l'agilité aux développeurs et développeuses !" en amphi bleu. Le grand amphi bleu. L'ENORME amphi bleu. Il n'y a plus qu'à espérer que les spots m'aveuglent suffisamment pour que je n'y voie rien !
 
 Après un faux départ (oubli de chargeur de portable, c'eut été dommage...), en route pour Paris depuis Saint Pierre des Corps (à 4km de Tours 😜).
 
@@ -116,7 +116,7 @@ Grâce à une super organisation des talks, j'ai pu assister à cette présentat
 
 Des gophers et une partie théorique plus tard (ou on se rend compte que l'important dans kubectl, ce n'est pas de savoir le prononcer, mais bien de l'utiliser !), place à la pratique : live-coding !!
 La présentation est fun et accessible : on apprend autant qu'on passe un bon moment.
-Le bon conseil : ne pas hésitez à partager ses trouvailles par des index à défaut de pouvoir l'ajouter dans le Krew index : tout est utile !
+Le bon conseil : ne pas hésitez à partager ses trouvailles par des index Krew personnels à défaut de pouvoir l'ajouter dans le Krew index : tout est utile !
 
 ![Gaelle et Aurélie]({{ site.url }}{{ site.baseurl }}/assets/images/kube2.png)
 
@@ -331,14 +331,14 @@ Pour suivre Gaëtan, ça se passe par là : [@egaetan](https://twitter.com/egaet
 
 Retour d'expérience : lors de l'apprentissage de la lecture, les enfants décortiquent les syllabes une à une. Un des outils magiques qui exitent est le digital. Le doigt quoi ! pointer son texte pour focuser son attention est une aide précieuse pour le déchiffrage.
 
-Challenge : imaginer une solution qui aide à la lecture en déchiffrant une voix d'enfant alimentant une application web faisant marcher un speed-to-text like.
+Challenge : imaginer une solution qui aide à la lecture en déchiffrant une voix d'enfant alimentant une application web faisant marcher un speech-to-text like.
 Rencontrer des orthophonistes a permis de comprendre les phases de l'apprentissage de la lecture afin de coller au mieux à l'habileté mentale du cerveau qui apprend.
 
 ![Vincent dans la salle Maillot]({{ site.url }}{{ site.baseurl }}/assets/images/lecture.png)
 
 Le français, c'est pas facile : 26 lettres de l'alphabet, 36 phonèmes, 190 graphèmes associés... les combinaisons sont ultra-nombreuses !
 
-Et le machine learning dans tout ça ? Il faut trouver des modèles de données en entrée de base, comprendre le fonctionnement du speed-to-text (donner du son court en entrée, puis traiter le signal pour ensuite dissocier la partie lexicale et le langage).
+Et le machine learning dans tout ça ? Il faut trouver des modèles de données en entrée de base, comprendre le fonctionnement du speech-to-text (donner du son court en entrée, puis traiter le signal pour ensuite dissocier la partie lexicale et le langage).
 Mais la complexité de l'affaire est de s'adapter à la tessiture des voix d'enfants, pour lesquelles les datasets d'entrée sont beaucoup plus rares.
 
 Deux possibilités de modèles :
