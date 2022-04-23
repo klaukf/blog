@@ -459,7 +459,7 @@ J'ai retenu surtout :
 - Java 17 avec les classes scellées
 - Java 18 en 2022
 
-Bilan ? Java reste verbeus, mais se modernise et se simpifie.
+Bilan ? Java reste verbeux, mais se modernise et se simpifie.
 
 Lorsque l'on parle migration sur une des LTS 11 ou 17, il faut motiver les raisons : oui c'est sympa mais ça ne suffit pas.
 Il faut alors parler de la JVM, qui évolue au niveau de la performance et la sécurité, notamment de nouveaux algo de crytographie. On rallie ainsi les ops.
@@ -579,6 +579,8 @@ Et mieux : un collectif humain s'est créé, une culture d'entreprise où chacun
 Pour la suite, il est prévu de parler auto-scaling, Azure pour le SQL Server, chaos monkey
 
 ![présentation en cours]({{ site.url }}{{ site.baseurl }}/assets/images/betclic3.png)
+
+Un grand merci messieurs, on a eu l'impression de vivre un peu l'aventure avec vous !
 
 Pour suivre Nicolas et Etienne, ça se passe par là : [@njozwiak](https://twitter.com/njozwiak) et [@TODO](https://twitter.com/TODO)
 
