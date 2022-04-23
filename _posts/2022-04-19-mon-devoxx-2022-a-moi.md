@@ -161,7 +161,7 @@ Encore un grand merci !
 ### 10 ans de tech à travers le podcast Niptech - Benoît CURDY, Michael MONNEY et Baptiste FREYDT
 
 Il existe des groupes qui fonctionnent parce qu'ils ont tout compris : partager dans la bonne humeur.
-C'est exactement le cas de Niptech ! Au travers de leur rétrospective, de leur réussite, des aléas de la vie, des tentatives d'innovations, des retours aux valeurs sûres : on partage avec bonheur nos propres tentative de maintien de communauté, pour toujours plus lui apporter et la garder précieusement. Car oui : c'est un vrai plaisir de partager !
+C'est exactement le cas de Niptech ! Au travers de leur rétrospective, de leur réussite, des aléas de la vie, des tentatives d'innovations, des retours aux valeurs sûres : on partage avec bonheur nos propres tentatives de maintien de communauté, pour toujours plus lui apporter et la garder précieusement. Car oui : c'est un vrai plaisir de partager !
 
 Merci à tous les trois !
 
@@ -236,7 +236,7 @@ Pour faire bref : c'est compliqué ! et souvent les choix semblent radicaux et p
 Et c'est bien : cela fait se poser les bonnes questions et reflète les problématiques ambiantes qu'on n'aime pas trop mettre à jour.
 Peu de procès et de jurisprudence pour le moment, du fait de la récence des licences, donc les ressources juridiques sont encore peu étoffées.
 
-Je rajoute ma propre morale : on a tous un rôle à jouer dans l'éthique des entreprises, y compris quand on est développeuse ou développeur. Et là je vous conseille de re-visionner une des keynotes qui m'avait marqué à DevoxxFR en 2017 : De la responsabilité des ingénieurs d'Eric Sadin, à voir ici : https://www.youtube.com/watch?v=jpvMOIVU-Z4
+Je rajoute ma propre morale : on a tous un rôle à jouer dans l'éthique des entreprises, y compris quand on est développeuse ou développeur. Et là je vous conseille de re-visionner une des keynotes qui m'avait marqué à DevoxxFR en 2017 : De la responsabilité des ingénieurs d'Eric Sadin, à voir [ici](https://www.youtube.com/watch?v=jpvMOIVU-Z4)
 
 Pour suivre Pierre-Yves, ça se passe par là : [@pylapp](https://twitter.com/pylapp) 
 
