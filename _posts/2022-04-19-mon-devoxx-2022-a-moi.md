@@ -13,11 +13,11 @@ Retour en images et en texte de cette spéciale 10 ans de DevoxxFR...
 ## Mardi 19 avril : prépa physique et mentale
 
 Cela fait deux jours que le stress gagne chacun de mes organes vitaux et m'empêche de correctement dormir et manger.
-Il y a quelques jours j'apprends que je donnerai ma conférence "Rendez l'agilité aux développeurs et développeuses !" en amphi bleu. Le grand amphi cleu. L'ENORME amphi bleu. Il n'y a plus qu'à espérer que les spots m'aveuglent suffisamment pour que je n'y voie rien !
+Il y a quelques jours j'apprends que je donnerai ma conférence "Rendez l'agilité aux développeurs et développeuses !" en amphi bleu. Le grand amphi bleu. L'ÉNORME amphi bleu. Il n'y a plus qu'à espérer que les spots m'aveuglent suffisamment pour que je n'y voie rien !
 
 Après un faux départ (oubli de chargeur de portable, c'eut été dommage...), en route pour Paris depuis Saint Pierre des Corps (à 4km de Tours 😜).
 
-On retrouve les potos pour partager un repas sympathique et on oublie la pression, car commme dirait un grand homme, qui vit avec moi : "La pression ça se boit !"
+On retrouve les potos pour partager un repas sympathique et on oublie la pression, car comme dirait un grand homme, qui vit avec moi : "La pression ça se boit !"
 
 ## Mercredi 20 avril : tranquille !
 
@@ -44,7 +44,7 @@ Les couloirs sont jonchés de photos souvenirs des années précédentes, depuis
 Première université de 3h pour ce mercredi matin.
 Ce que j'apprécie avec ces deux grands messieurs, c'est que ce sont des gens intelligents qui ne vous font pas sentir bêtes (merci à eux !) : je comprends quand ils m'expliquent quelque-chose 😁
 
-Ca parle Flash, ActiveX, applets Java, bref, ça ravive des souvenirs lointains.
+Ça parle Flash, ActiveX, applets Java, bref, ça ravive des souvenirs lointains.
 On arrive au Javascript mais en termes de design et de graphisme, c'est à parfaire => qu'est-ce qui peut nous sauver ?
 EMScripten avec asm.js ? joli essai.
 WebAssembly !! le fameux wasm : on va régler les soucis des navigateurs, sans remplacer Javascript pour autant, ne confondons pas !
@@ -55,7 +55,7 @@ et parle toutes les langues : C/C++, Rust, Golang, Swift... et se voit dédié c
 Je vous invite à regarder la slide 35 qui récapitule tout bien => j'indiquerai le lien vers la présentation ASAP.
 
 Ensuite nous passons à la partie démo, vous la trouverez dans la vidéo YouTube sur la chaîne DevoxxFR : à venir.
-ça parle de pointeurs de mémoire (oups!), d'emojis 😉, d'accès au système d'exploit avec WASI (spoiler : jeu de mot pictural à suivre), wasmer, wasmtime, wasmedge... 
+ça parle de pointeurs de mémoire (oups!), d'émojis 😉, d'accès au système d'exploit avec WASI (spoiler : jeu de mot pictural à suivre), wasmer, wasmtime, wasmedge... 
 
 ![WASI]({{ site.url }}{{ site.baseurl }}/assets/images/wasm5.png)
 
@@ -73,7 +73,7 @@ Première biopsie clean-codienne : on clarifie notre code !
 ![Les mains sont propres, on peut commencer l'opération dans le bloc]({{ site.url }}{{ site.baseurl }}/assets/images/nodejs1.png)
 
 On précise nos paramètres, on refactore doucement mais sûrement, on reboote le patient (si ! si ! c'est possible !) et on redonne du sens pour éclaircir la compréhension du code.
-Même les tests d'intégration présents sont piègeux ! et les changements en codebase ne sont pas trackés => comment faire ?
+Même les tests d'intégration présents sont piégeux ! et les changements en codebase ne sont pas trackés => comment faire ?
 
 Non, on n'utilise pas un bistouri, on va casser l'ordinateur... Non, on va plutôt s'intéresser au comportement attendu des APIs et créer des approval tests. Et on teste régulièrement ! à chaque modification ! le pas à pas.
 On supprime les undefined et les null.
@@ -82,7 +82,7 @@ Le nom des fonctions doit signifier ce que fait la fonction : on s'allège ainsi
 
 Enfin, on centralise le fonctionnel et sa complexité : on arrête de la disperser un peu partout dans notre architecture ! (à bon entendeur...)
 
-Le but de l'architecture hesagonale, est donc d'inverser le sens de la dépendance entre la couche domain et la couche de persistence, normalement rencontré dans le modèle classique.
+Le but de l'architecture hexagonale, est donc d'inverser le sens de la dépendance entre la couche domain et la couche de persistence, normalement rencontré dans le modèle classique.
 
 Controller ->use-> Domain <-use<- Persistence
 
@@ -99,7 +99,7 @@ Inscriptions pour faire partie du public-jury du tremplin le 3 mai => [lien even
 ### Rendez l'agilité aux développeurs et développeuses ! - votre humble serviteuse
 
 Le palpitant accélère petit à petit depuis la fin de la dernière université (peut-être même pendant). Trop pour me concentrer sur une autre conférence.
-248 inscrits sur l'application Devoxx, syndrôme de l'imposteur au max, je pense à mon premier jury de guitare classique quand j'étais au CP : même envie irresistible de monter sur scène mais pour faire une blague et repartir aussitôt.
+248 inscrits sur l'application Devoxx, syndrome de l'imposteur au max, je pense à mon premier jury de guitare classique quand j'étais au CP : même envie irrésistible de monter sur scène mais pour faire une blague et repartir aussitôt.
 
 J'attends sagement mon tour, entourée des personnes adorables (Stéphane en premier mais aussi Jérémy, Faustine, Corentin, Yann-Thomas, Olivier, Christophe, Thibault, et j'en oublie ! pardon...). Je passe dans les mains du technicien (adorable aussi), Adrien et Arnaud me rassurent à la dernière minute : merci à tous !
 
@@ -110,7 +110,7 @@ J'ai adoré la prise de risque, j'ai aimé préparer, répéter, partager, renco
 
 ### Créer & distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! - Aurélie VACHE et Gaëlle ACAS
 
-Grâce à une super organisation des talks, j'ai pu assister à cette présentation péchue et accessible pour nous autres communs des mortels !
+Grâce à une super organisation des talks, j'ai pu assister à cette présentation pêchue et accessible pour nous autres communs des mortels !
 
 ![En place]({{ site.url }}{{ site.baseurl }}/assets/images/kube1.png)
 
@@ -146,7 +146,7 @@ Beaucoup plus de monde à l'entrée, l'amphi Bleu se remplit en quelques minutes
 
 ### Première Keynote : les 10 ans de DevoxxFR !!!
 
-Revival ! montée sur scène façon concert de rock : éclairage, fumée, et... rockstars !! Nicolas, Antonio et Zouheib nous partagent les coulisses de DevoxxFR, depuis sa germination, sa naissance, son annonce et son expansion !
+Revival ! montée sur scène façon concert de rock : éclairage, fumée, et... rockstars !! Nicolas, Antonio et Zouheir nous partagent les coulisses de DevoxxFR, depuis sa germination, sa naissance, son annonce et son expansion !
 
 ![devoxxfr les 10 ans]({{ site.url }}{{ site.baseurl }}/assets/images/devoxx10ans1.png)
 
@@ -161,7 +161,7 @@ Encore un grand merci !
 ### 10 ans de tech à travers le podcast Niptech - Benoît CURDY, Michael MONNEY et Baptiste FREYDT
 
 Il existe des groupes qui fonctionnent parce qu'ils ont tout compris : partager dans la bonne humeur.
-C'est exactement le cas de Niptech ! Au travers de leur rétrospective, de leur réussite, des aléas de la vie, des tentatices d'innovations, des retours aux valeurs sûres : on partage avec bonheur nos propres tentative de maintien de communauté, pour toujours plus lui apporter et la garder précieusement. Car oui : c'est un vrai plaisir de partager !
+C'est exactement le cas de Niptech ! Au travers de leur rétrospective, de leur réussite, des aléas de la vie, des tentatives d'innovations, des retours aux valeurs sûres : on partage avec bonheur nos propres tentative de maintien de communauté, pour toujours plus lui apporter et la garder précieusement. Car oui : c'est un vrai plaisir de partager !
 
 Merci à tous les trois !
 
@@ -176,7 +176,7 @@ On évoque l'éco-conception, mais surtout de la Slowtech.
 
 Slow.tech  (low + high).tech
 
-Le numérique étant une ressource non renouvelable car à notre rythme de consommation de matières premières, on ne pourra plus fabriquer d'ordinateur (le truc que je suis en train d'utiliser pour écrire ce blog...). Accepter de rendre son service moins hightech, c'est aussi accepter de le rendre plus accessible potentiellement : rendre plus simple l'accès aux informations.
+Le numérique étant une ressource non renouvelable car à notre rythme de consommation de matières premières, on ne pourra plus fabriquer d'ordinateur (le truc que je suis en train d'utiliser pour écrire ce blog...). Accepter de rendre son service moins high-tech, c'est aussi accepter de le rendre plus accessible potentiellement : rendre plus simple l'accès aux informations.
 
 Conclusion : concentrons-nous sur ce que la tech sert vraiment, et pour tout le reste, gardons notre bon sens !
 
@@ -192,7 +192,7 @@ Pour cela, on découpe trois domaine :
 
 ![Quentin et Pierre in stage]({{ site.url }}{{ site.baseurl }}/assets/images/ressourcenrj.png)
 
-Concernant le run : le pilotage de la consommation mais aussi de la production, intégrer la notion de l'heure et de la localisation à la startégie de calcul, permettraient de corriger la marge d'erreur des calculs unitaires et communiqués actuels.
+Concernant le run : le pilotage de la consommation mais aussi de la production, intégrer la notion de l'heure et de la localisation à la stratégie de calcul, permettraient de corriger la marge d'erreur des calculs unitaires et communiqués actuels.
 
 On compare la consommation des différents , mais aussi les pays, les secteurs économiques : on apprend plein de choses concrètes.
 
@@ -200,7 +200,7 @@ La morale est de prendre du recul sur les réels impacts : éteindre un composan
 
 La métrique idéale qui nous permettrait de facilement nous positionner est beaucoup plus complexe que le simple Watt par Gigaoctet.
 
-Concernant la fabrication, il ne faut pas ignorer le risque d'amoidrissement des matières premières. L'idée là est de se dire que pour chaque problématique de multiples solutions de contournement existe. Et que l'impact écologique étant un problème, il faut se pencher sur les solutions de contournement.
+Concernant la fabrication, il ne faut pas ignorer le risque d'amoindrissement des matières premières. L'idée là est de se dire que pour chaque problématique de multiples solutions de contournement existe. Et que l'impact écologique étant un problème, il faut se pencher sur les solutions de contournement.
 
 L'idée est de pérenniser nos utilisations : investir sur des objets qui tiennent dans le temps plutôt que de multiplier les achats d'objets de piètre qualité.
 Cela me rappelle une discussion super intéressante avec un collègue, un jour où je me posais la question de revendre ma voiture essence encore en bon état pour une voiture neuve électrique, je me suis vue répondre : "la meilleure voiture est celle que tu n'achètes pas. Pousse ta voiture tant qu'elle fonctionne, et repose toi la question plus tard : peut-être alors qu'encore d'autres solutions apparaîtront entre temps".
@@ -214,7 +214,7 @@ Pour suivre Quentin et Pierre, ça se passe par là : [@waxzce](https://twitter.
 
 ###  Licences open source : entre guerre de clochers et radicalité - Pierre-Yves Lapersonne
 
-Quelle est la meilleure ou la pire license opensource ? Pas facile.
+Quelle est la meilleure ou la pire licence opensource ? Pas facile.
 
 ![licences opensource]({{ site.url }}{{ site.baseurl }}/assets/images/licenseos.png)
 
@@ -240,16 +240,16 @@ Je rajoute ma propre morale : on a tous un rôle à jouer dans l'éthique des en
 
 Pour suivre Pierre-Yves, ça se passe par là : [@pylapp](https://twitter.com/pylapp) 
 
-### Simplifiez vos revues de code avec le rebase intéractif - Sonia SEDDIKI
+### Simplifiez vos revues de code avec le rebase interactif - Sonia SEDDIKI
 
 Une première pour Sonia, et en salle Maillot s'il vous plaît !
 
 ![c'est parti]({{ site.url }}{{ site.baseurl }}/assets/images/rebase1.png)
 
-On parle amélioration de revue de code : pouvant être vue comme laborieuse, elle intervient souvent en fin de longue période de développement dnas un temps limité et donc avec peu de marge de manoeuvre pour corriger au besoin.
-A cela s'ajoutent les différents niveaux de revue à vérifier pour augmenter la qualité et la clareté de merge request.
+On parle amélioration de revue de code : pouvant être vue comme laborieuse, elle intervient souvent en fin de longue période de développement dans un temps limité et donc avec peu de marge de manoeuvre pour corriger au besoin.
+A cela s'ajoutent les différents niveaux de revue à vérifier pour augmenter la qualité et la clarté de merge request.
 
-Condition : avoir une MR avec des commits clairs et cohérents. Intervient alors le rebase intéractif !
+Condition : avoir une MR avec des commits clairs et cohérents. Intervient alors le rebase interactif !
 
 Commit du vendredi, TDD en faisant les tests en aval : on partage forcément des souffrances de tous les jours...
 
@@ -286,23 +286,23 @@ Dans un flux réactif, on trouve un publisher et un subscriber. Et pas de pressu
 En termes de librairies, on est larges. Pour la présentation, c'est Spring qui est utilisé.
 En nous aidant des marble diagrams, on s'y retrouve un peu mieux que l'énorme javadoc disponible.
 
-La syntaxe peut nous perdre : on ne sait pas toujours la répartition des threads, on tatonne, mais c'est normal ! c'est comme tout : lancez-vous, testez et le métier viendra ;-)
+La syntaxe peut nous perdre : on ne sait pas toujours la répartition des threads, on tâtonne, mais c'est normal ! c'est comme tout : lancez-vous, testez et le métier viendra ;-)
 
 On aborde ensuite WebMVC et WebFlux. On est vigilants aux imports, aux flux, aux monos : même si le code semble sensiblement identique de l'impératif, il y a ces modifications précieuses à apporter. On utiliser R2DBC en lieu et place de JDBC bloquant.
 
 Mais attention : pas de pagination et, plus logique, pas de jointure autorisées : eh oui ! car qui dit jointure, dit blocage d'appel de requête ! On s'en sort cependant avec AfterConvertCallback, qui associe la jointure systématiquement, donc c'est tout ou rien.
 Pas de fetch non plus en automatique : c'est à coder par nous-même côté Hibernate.
 
-Autres petits oups : on doit veiller à travailler avec des flux non bloquants, et il y en a ! Dès lors qu'on va vouloir logguer par exemple, il va falloir être vigilant. Pour cela, il existe BlockHound qui nous permet de déterminer si un appel bloquant est détectée dans le code. Ca nous évite de lire avec nos petits yeux tout myopes les nombreuses lignes de code à vérifier !
+Autres petits oups : on doit veiller à travailler avec des flux non bloquants, et il y en a ! Dès lors qu'on va vouloir loguer par exemple, il va falloir être vigilant. Pour cela, il existe BlockHound qui nous permet de déterminer si un appel bloquant est détectée dans le code. Ça nous évite de lire avec nos petits yeux tout myopes les nombreuses lignes de code à vérifier !
 
 Quand on est prêt à déployer en production, on peut continuer d'utiliser Actuator qui permet de récupérer les informations utiles et nécessaires pour satisfaire les bonnes pratique DevOps.
 
 Alors, on migre ou pas là ?
-Un grand oui si vous visez la scalabilité plus que la rapidité. La syntaxe est particulière et nécessite un peu d'apprentissage et d'habitude. En termes de persistence, on est limités mais les solutions telles que le NoSQL existent. Par contre c'est DevOps friendly.
+Un grand oui si vous visez la scalabilité plus que la rapidité. La syntaxe est particulière et nécessite un peu d'apprentissage et d'habitude. En termes de persistance, on est limités mais les solutions telles que le NoSQL existent. Par contre c'est DevOps friendly.
 
 ![Christophe Jollivet]({{ site.url }}{{ site.baseurl }}/assets/images/reactif3.png)
 
-J'ai adoré la présentation step by step en comparaison avec ce que l'on connait de l'impératif : cela permet d'appréhender facilement et rapidement les concepts du reactif.
+J'ai adoré la présentation step by step en comparaison avec ce que l'on connaît de l'impératif : cela permet d'appréhender facilement et rapidement les concepts du réactif.
 
 Pour suivre Christophe, ça se passe par là : [@jollivetc](https://twitter.com/jollivetc) 
 
@@ -313,15 +313,15 @@ Savoir coder, ce n'est pas être développeur."
 
 ![Gaetan en amphi bleu]({{ site.url }}{{ site.baseurl }}/assets/images/devgrand.png)
 
-Le rôle du dévéloppeur ou de la développeuse n'est pas seulement de répondre à un besoin par du code, mais assurer un service pérenne et de manière qualitative. Il faut pour cela s'astreindre à aller au-delà du simple code : creuser la qualité, améliorer la communication des équipes. C'est ainsi que Jeff Kent, un des signataires du manifeste agile, propose 9 règles de callisthénie.
+Le rôle du développeur ou de la développeuse n'est pas seulement de répondre à un besoin par du code, mais assurer un service pérenne et de manière qualitative. Il faut pour cela s'astreindre à aller au-delà du simple code : creuser la qualité, améliorer la communication des équipes. C'est ainsi que Jeff Kent, un des signataires du manifeste agile, propose 9 règles de callisthénie.
 
 On parle agilité, craftmanship : des manifestes qui mettent en exergue des pratiques déjà existantes, notamment la boucle de feedback la plus rapide possible et qui permette de toujours plus améliorer les pratiques de chacun. Ont été évoqués les principes SOLID, les propriétés CUPID.
 
 Pour grandir, les 25 millions de développeurs dans le monde, il faut se préoccuper de la communication.
 
-La notion même d'expérience, de séniorité est de plus en plus complexe : le nombre de technos explose et il est de plus en plus difficile de maîtriser toute une stack technique. Alors on est déjà bien content lorque nous comprenons la stack. On n'est pas forcément un développeur ou une développeuse sénior arpès 6 ans d'expérience : on n'a pas forcément pu tout voir ou voir suffisamment de choses pour nous considérer comme sénior.
+La notion même d'expérience, de séniorité est de plus en plus complexe : le nombre de technos explose et il est de plus en plus difficile de maîtriser toute une stack technique. Alors on est déjà bien content lorsque nous comprenons la stack. On n'est pas forcément un développeur ou une développeuse senior après 6 ans d'expérience : on n'a pas forcément pu tout voir ou voir suffisamment de choses pour nous considérer comme senior.
 
-Eviter les pièges du super-héros, essayer d'agrandir sa zone de confort, expliquer le pourquoi on fait les choses, créer une culture véritablement bienveillante : autant de choses qui nous permettrons d'oser nous surpasser ou de tenter des nouveautés.
+Éviter les pièges du super-héros, essayer d'agrandir sa zone de confort, expliquer le pourquoi on fait les choses, créer une culture véritablement bienveillante : autant de choses qui nous permettrons d'oser nous surpasser ou de tenter des nouveautés.
 
 Je n'ai pas toujours réussi à comprendre le lien entre toutes les parties, j'ai dû louper des étapes (fatigue ?), aussi mes notes sont un peu un cumul d'idées éparses.
 
@@ -329,7 +329,7 @@ Pour suivre Gaëtan, ça se passe par là : [@egaetan](https://twitter.com/egaet
 
 ### Comment j'ai aidé ma fille à lire avec le machine learning - Vincent OGLOBLINSKY
 
-Retour d'expérience : lors de l'apprentissage de la lecture, les enfants décortiquent les syllabes une à une. Un des outils magiques qui exitent est le digital. Le doigt quoi ! pointer son texte pour focuser son attention est une aide précieuse pour le déchiffrage.
+Retour d'expérience : lors de l'apprentissage de la lecture, les enfants décortiquent les syllabes une à une. Un des outils magiques qui existent est le digital. Le doigt quoi ! pointer son texte pour focuser son attention est une aide précieuse pour le déchiffrage.
 
 Challenge : imaginer une solution qui aide à la lecture en déchiffrant une voix d'enfant alimentant une application web faisant marcher un speed-to-text like.
 Rencontrer des orthophonistes a permis de comprendre les phases de l'apprentissage de la lecture afin de coller au mieux à l'habileté mentale du cerveau qui apprend.
@@ -342,10 +342,10 @@ Et le machine learning dans tout ça ? Il faut trouver des modèles de données 
 Mais la complexité de l'affaire est de s'adapter à la tessiture des voix d'enfants, pour lesquelles les datasets d'entrée sont beaucoup plus rares.
 
 Deux possibilités de modèles :
-- un modèle déjà entrainé, moins maitrisé mais existant
+- un modèle déjà entraîné, moins maîtrisé mais existant
 - un modèle à construire à partir de rien et donc avec besoin de beaucoup plus de données initiales pour pouvoir l'entraîner
 
-C'est la première qui a été choisie, depuis tensorflow. Ajoutez du Python en local et déployez en javascript et ainsi le modèle pourra être utilisé dans le navigateur.
+C'est la première qui a été choisie, depuis tensorflow. Ajoutez du Python en local et déployez en JavaScript et ainsi le modèle pourra être utilisé dans le navigateur.
 Pour la collecte, l'interface propose d'enregistrer le son, le vérifier (donc le ré-écouter) et d'envoyer le fichier natif pour les nettoyer, les raccourcir...
 
 Ensuite, on entraîne le modèle, et ... on l'utilise ! on écoute en continu, on récupère la fréquence, on compare et on valide, ou pas !
@@ -359,7 +359,7 @@ Pour suivre Vincent, ça se passe par là : [@vogloblinsky](https://twitter.com/
 
 ### Accéder à mon cerveau par une API - Sébastien BLANC
 
-ENORME ! une entrée en matière sonore, visuelle et tellement tordante !
+ÉNORME ! une entrée en matière sonore, visuelle et tellement tordante !
 
 ![rock star]({{ site.url }}{{ site.baseurl }}/assets/images/cerveau1a.png)
 
@@ -378,15 +378,15 @@ Et c'est plutôt très clair : cela indique qu'il est génial et que sa présent
 
 Plusieurs types d'ondes existent :
 - Delta : c'est quand on dort
-- theta : lorsqu'on est en mode méditation
+- thêta : lorsqu'on est en mode méditation
 - alpha : quand on est en mode relaxation
-- beta : quand on est focus
+- bêta : quand on est focus
 - gamma : on le saura un jour plus précisément qu'aujourd'hui peut-être
 
 On utilise Docker / Kafka pour... voir les données du cerveau de Sébastien sur un topic Kafka, et ça... ça n'a pas de prix !
-On teste le calm, le focus mais surtout on commence à réellement utiliser les cas d'application : en fonction de ces taux de calm ou de focus, on va pouvoir lancer des commandes particulières. Il n'en faut pas plus pour laisser libre court à l'imagintation de Sébastien pour la suite.
+On teste le calm, le focus mais surtout on commence à réellement utiliser les cas d'application : en fonction de ces taux de calm ou de focus, on va pouvoir lancer des commandes particulières. Il n'en faut pas plus pour laisser libre court à l'imagination de Sébastien pour la suite.
 
-Il va construire un modèle et l'entraîner : mode deep learning ON via neurosity. Et on va parler Kinesis pour intéragir avec son cerveau.
+Il va construire un modèle et l'entraîner : mode deep learning ON via neurosity. Et on va parler Kinesis pour interagir avec son cerveau.
 
 Nouvel exemple : via Brainflow, qui peut se connecter aussi au casque.
 Et enfin... tir de boulets de canon... par la pensée !!
@@ -400,7 +400,7 @@ Pour suivre Sébastien, ça se passe par là : [@sebi2706](https://twitter.com/s
 Quand on discute sur _Underscore_ on peut parfois se retrouver à se lancer dans des aventures impressionnantes mais tellement challengeantes ! 
 Le POC présenté consiste à pouvoir donner des instructions au bot sous Minecraft via une intelligence artificielle (IA ou AI pour les english).
 
-Après un rappel de ce qu'est le géniallissime jeu Minecraft, les NPC (non-player characters), on voit comment intéragir avec ces derniers grâce à OpenAI, GPT-3 qui, après un entraînement de folie, a donné Codex. Github Copilot lui, est capable de proposer des blocs de codes en fonction de ce qu'on souhaite faire faire à la fonction. J'aimerai clairement que ça existe pour les compte-rendus de réunions de 3h...
+Après un rappel de ce qu'est le génialissime jeu Minecraft, les NPC (non-player characters), on voit comment interagir avec ces derniers grâce à OpenAI, GPT-3 qui, après un entraînement de folie, a donné Codex. Github Copilot lui, est capable de proposer des blocs de codes en fonction de ce qu'on souhaite faire faire à la fonction. J'aimerai clairement que ça existe pour les compte-rendus de réunions de 3h...
 
 Bref, le joueur va donner une instruction, envoyée à Codex associée à un contexte.
 
@@ -408,7 +408,7 @@ On fait le tour du code, puis on passe à la partie démo, car nos deux speakers
 
 Vous êtes intéressé(e)s ? le code github sera open-sourcé ce soir 😇
 
-Pour suivre Wassimm et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterrej)
+Pour suivre Wassim et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterrej)
 
 
 ### BOF TADx - Mais au fait DevRel c'est vraiment qu'un lanceur de paillettes ?
@@ -428,7 +428,7 @@ Merci à toutes et tous !
 ### BOF Duchess France
 
 Très bon moment là encore, passé à échanger sur la multiplicité des profils, des parcours, des valeurs...
-On parle syndrôme de l'imposteur (qui à mon sens ne doit pas totalement disparaître pour permettre de rester humble dans son partage), études, partage de connaissances auprès des étudiants et étudiantes, encouragements, mentoring, entraide, mixité... Merci !! Ce fut très précieux pour moi pour la fin de cette deuxième journée intense !
+On parle syndrome de l'imposteur (qui à mon sens ne doit pas totalement disparaître pour permettre de rester humble dans son partage), études, partage de connaissances auprès des étudiants et étudiantes, encouragements, mentoring, entraide, mixité... Merci !! Ce fut très précieux pour moi pour la fin de cette deuxième journée intense !
 
 ![le bof des duchess]({{ site.url }}{{ site.baseurl }}/assets/images/duchessbof.png)
 
@@ -459,7 +459,7 @@ J'ai retenu surtout :
 - Java 17 avec les classes scellées
 - Java 18 en 2022
 
-Bilan ? Java reste verbeux, mais se modernise et se simpifie.
+Bilan ? Java reste verbeux, mais se modernise et se simplifie.
 
 Lorsque l'on parle migration sur une des LTS 11 ou 17, il faut motiver les raisons : oui c'est sympa mais ça ne suffit pas.
 Il faut alors parler de la JVM, qui évolue au niveau de la performance et la sécurité, notamment de nouveaux algo de crytographie. On rallie ainsi les ops.
@@ -471,7 +471,7 @@ Et plus concrètement, aidez-vous de jdeps pour migrer en plus des outils et des
 
 Attention cependant : depuis Java 11, il y a des API qui disparaissent ! alors oui c'est documenté, mais il faut s'y pencher pour être sûr que ça continue de compiler. Aidez-vous de javaalmanac.io par exemple.
 
-Pour les détails de migration d'une version à une autre, je vous invite vivement à regarder la conf retransmise sur la chaîne Youtube de DevoxxFR, car Jean-Michel vous met en garde et précise les points de vigilance à avoir (notamment la gestion des warnings gniark gniark). et si vous voulez faire le grand saut de Java 8 à Java 17, le conseil est de morceller en deux étapes : d'abord passage à Java 11 avant Java 17.
+Pour les détails de migration d'une version à une autre, je vous invite vivement à regarder la conf retransmise sur la chaîne Youtube de DevoxxFR, car Jean-Michel vous met en garde et précise les points de vigilance à avoir (notamment la gestion des warnings gniark gniark). et si vous voulez faire le grand saut de Java 8 à Java 17, le conseil est de morceler en deux étapes : d'abord passage à Java 11 avant Java 17.
 
 Oyez oyez : Java 19 en 2023 !
 
@@ -507,7 +507,7 @@ Mais avant d'appliquer tout cela, il faut prendre en compte certains éléments 
 
 Ce qui a été testé chez Agicap : Domain Driven Sesign (DDD), la réflexion commune sur le repositionnement de chacune et chacun, la participation aux sujets de refactoring sur la base du choix, la définition d'OKR (Objectives & Key results) pour annoncer ce qui sera mesuré, mais sans préciser le comment pour laisser libre les équipes de choisir par elles-mêmes. S'ajoute aussi le lancement d'une initiative SRE.
 
-La problématique discutée est réellement propre à la situation d'une start-up qui grossit : les applications en grosse entreprise ou chez le client ne sont pas évoquées. Cela permet néanoins de se dire que tout est possible et de rêver un peu : merci !
+La problématique discutée est réellement propre à la situation d'une start-up qui grossit : les applications en grosse entreprise ou chez le client ne sont pas évoquées. Cela permet néanmoins de se dire que tout est possible et de rêver un peu : merci !
 
 Pour suivre Pauline et Thomas, ça se passe par là : [@jaminpauline](https://twitter.com/jaminpauline) et [@tpierrain](https://twitter.com/tpierrain)
 
@@ -521,10 +521,10 @@ Pour suivre Pauline et Thomas, ça se passe par là : [@jaminpauline](https://tw
 Ils nous présentent leur contexte : 100% de couverture de tests (sic), méthodes testées unitairement, 
 La notion de 100% de couverture n'est pas un gage de sécurité, ce n'est pas forcément fiable, et au final "c'est très facile d'atteindre un taux de couverture de 100%" il suffit de filouter ^^
 
-Ecrire un code "parfait" c'est chouette mais ça ne garantie pas le service qu'il fournit.
+Écrire un code "parfait" c'est chouette mais ça ne garantie pas le service qu'il fournit.
 L'exemple est pris d'un scénario écrit en Gherkin : cela permet de lire en langage naturel le code dans une pull request. La documentation qui peut en découler est facilement partageable.
 
-L'avantage de ne tester que les scénarios d'usage, c'est qu'on va avoir du code non couvert de révéler, et nous aurons ainsi l'occasion de se poser la question : est-ce du code mort ? et d'intelligement le gérer.
+L'avantage de ne tester que les scénarios d'usage, c'est qu'on va avoir du code non couvert de révéler, et nous aurons ainsi l'occasion de se poser la question : est-ce du code mort ? et d'intelligemment le gérer.
 
 Pour tester, on y va par étape. A chaque bug relevé :
 - on écrit un test pour qu'il passe rouge à la relance 
@@ -538,7 +538,7 @@ Un composant intéressant à utiliser pour mettre en place des tests à la base 
 Puis viennent les tests unitaires, avec mock possible puisqu'on veut tester la partie technique de notre code.
 Ensuite, les tests d'intégration pour tester l'utilisation par l'utilisateur : on ne vérifie pas l'appel des fonctions, mais on teste le comportement, les clics, les affichages... 
 Enfin, les tests end-to-end, sans mocks cette fois-ci pour jouer le jeu de traverser les différentes couches.
-La démo qui suit consiste à encapsuler toutes ces couches de tests dans du Gherkin, utilisé en javascript pour l'occasion.
+La démo qui suit consiste à encapsuler toutes ces couches de tests dans du Gherkin, utilisé en JavaScript pour l'occasion.
 
 Ce qu'il faut retenir :
 - un développeur ou une développeuse doit maîtriser son environnement technique pour pouvoir écrire les tests confortablement.
@@ -556,9 +556,9 @@ Pour suivre Jean-Lou et Jonathan, ça se passe par là : [@jloupiote](https://tw
 
 Il y a eu un avant et un après Euro 2020. Après avoir frôlé la faillite en 2017, Betclic a été repris par de nouveaux investisseurs exigeant le regroupement du SI (système d'informations) abandonné à Bordeaux.
 
-L'objectif de Betclic étant d'offrir une expérience utilisateur la plus fluide possible peu importe le nombre de match possible (tout sport condonfu), la réactivité attendue de l'application est très forte. Durant toute la journée, ce ne sont pas les mêmes API qui sont sollicitées : paris, retraits, la validation des paris... c'est donc potentiellement un traffic permanent qu'il faut gérer. Appdynamics est un des deux outils qui sont utilisés pour suivre les indicateurs principaux et le monitoring front. L'autre est Datadog, qui permet de l'alerting en fonction de seuil déterminés.
+L'objectif de Betclic étant d'offrir une expérience utilisateur la plus fluide possible peu importe le nombre de match possible (tout sport condonfu), la réactivité attendue de l'application est très forte. Durant toute la journée, ce ne sont pas les mêmes API qui sont sollicitées : paris, retraits, la validation des paris... c'est donc potentiellement un trafic permanent qu'il faut gérer. Appdynamics est un des deux outils qui sont utilisés pour suivre les indicateurs principaux et le monitoring front. L'autre est Datadog, qui permet de l'alerting en fonction de seuil déterminés.
 
-Avant l'Euro 2020, s'accumulait le legacy du SI et les règles exigeantes de l'environnement des paris, notamment les notions règlementaires, propres à chaque pays de présence de Betclic (France, Pologne, Italie et Portugal). Certaines soirées faisaient tomber l'application. Sont alors nées les war-room, mettant ensemble les domaines transverses. Comprendre les bugs, prioriser les sujets : beaucoup d'améliorations sont déjà apportées en mode quick-win mais aussi plus profondément en passant d'un monolithe à du micro-services.
+Avant l'Euro 2020, s'accumulait le legacy du SI et les règles exigeantes de l'environnement des paris, notamment les notions réglementaires, propres à chaque pays de présence de Betclic (France, Pologne, Italie et Portugal). Certaines soirées faisaient tomber l'application. Sont alors nées les war-room, mettant ensemble les domaines transverses. Comprendre les bugs, prioriser les sujets : beaucoup d'améliorations sont déjà apportées en mode quick-win mais aussi plus profondément en passant d'un monolithe à du micro-services.
 
 ![schéma évolutif]({{ site.url }}{{ site.baseurl }}/assets/images/betclic2.png)
 
@@ -650,7 +650,7 @@ Hélas tic-tac, tic-tac... il faut prendre le train. Ma consolation est d'appren
 Le moins que l'on puisse dire, c'est que cette année, j'ai pu profiter un MAX !!
 
 Donner une conférence en présence de collègues d'[Apside](https://apside.com/) et d'amis a été une expérience A-MA-ZING !
-Avoir été accomapgnée et soutenue par des gens adorables et passionnés (mention spéciale à Arnaud HERITIER, Adrien et Estelle LANDRY ainsi que les techniciens).
+Avoir été accompagnée et soutenue par des gens adorables et passionnés (mention spéciale à Arnaud HERITIER, Adrien et Estelle LANDRY ainsi que les techniciens).
 
 Les conférences et keynotes ont été ultra-variées : un grand merci à tous les speakers et au comité de sélection !
 
