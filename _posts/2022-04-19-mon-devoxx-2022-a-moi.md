@@ -236,7 +236,7 @@ Pour faire bref : c'est compliqué ! et souvent les choix semblent radicaux et p
 Et c'est bien : cela fait se poser les bonnes questions et reflète les problématiques ambiantes qu'on n'aime pas trop mettre à jour.
 Peu de procès et de jurisprudence pour le moment, du fait de la récence des licences, donc les ressources juridiques sont encore peu étoffées.
 
-Je rajoute ma propre morale : on a tous un rôle à jouer dans l'éthique des entreprises, y compris quand on est développeuse ou développeur. Et là je vous conseille de re-visionner une des keynotes qui m'avait marqué à DevoxxFR en 2017 : De la responsabilité des ingénieurs d'Eric Sadin, à voir ici : https://www.youtube.com/watch?v=jpvMOIVU-Z4
+Je rajoute ma propre morale : on a tous un rôle à jouer dans l'éthique des entreprises, y compris quand on est développeuse ou développeur. Et là je vous conseille de re-visionner une des keynotes qui m'avait marqué à DevoxxFR en 2017 : De la responsabilité des ingénieurs d'Eric Sadin, à voir [ici](https://www.youtube.com/watch?v=jpvMOIVU-Z4)
 
 Pour suivre Pierre-Yves, ça se passe par là : [@pylapp](https://twitter.com/pylapp) 
 
