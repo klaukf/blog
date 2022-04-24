@@ -480,7 +480,7 @@ et rendez-vous en 2032 pour faire le bilan !
 ![Jean-Michel DOUDOUX on stage]({{ site.url }}{{ site.baseurl }}/assets/images/10java2.png)
 
 Pour suivre Jean-Michel, ça se passe par là : [@jmdoudoux](https://twitter.com/jmdoudoux)
-et bien sûr son site qui a fêté ses 20 ans il y a quelques mois : TODO site
+et bien sûr [son site](https://www.jmdoudoux.fr/accueil_java.htm) qui a fêté ses 20 ans il y a quelques mois.
 
 
 ### Le scale-up, l'autonomie et le sous-marin nucléaire - Pauline JAMIN et Thomas PIERRAIN
