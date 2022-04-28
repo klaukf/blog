@@ -113,7 +113,7 @@ J'attends sagement mon tour, entourée des personnes adorables (Stéphane en pre
 J'ai adoré la prise de risque, j'ai aimé préparer, répéter, partager, rencontrer des gens grâce à ce partage... Un grand merci aux organisateurs et aux membres du comité de sélection de m'avoir offert cette occasion unique !
 
 Pour me suivre, ça se passe par là : [@klf37](https://twitter.com/klf37)  
-Lien vers les slides - _à venir_  
+Lien vers les [slides](https://noti.st/klaukf/nycPFx/rendez-lagilite-aux-developpeur-se-s)  
 Lien vers la vidéo - _à venir_
 
 ### Créer & distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! - Aurélie VACHE et Gaëlle ACAS
