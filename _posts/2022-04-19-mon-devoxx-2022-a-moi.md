@@ -61,7 +61,9 @@ Ensuite nous passons à la partie démo, vous la trouverez dans la vidéo YouTub
 
 On passe un très bon moment : merci à tous les deux !
 
-Pour suivre Laurent et Philippe sur twitter, ça se passe par là : [@ldoguin](https://twitter.com/ldoguin) et [@k33g_org](https://twitter.com/k33g_org)
+Pour suivre Laurent et Philippe sur twitter, ça se passe par là : [@ldoguin](https://twitter.com/ldoguin) et [@k33g_org](https://twitter.com/k33g_org)  
+Lien vers les [slides](https://docs.google.com/presentation/d/1XvZZK9JK7MDgbVxy5J-sGHdym6AzVwXQ4dc-Sft9iko/edit?usp=drivesdk)  
+Lien vers la vidéo - _à venir_
 
 ![Nous sommes en salle Neuilly 252 AB et il y a beaucoup de monde]({{ site.url }}{{ site.baseurl }}/assets/images/wasm3.png)
 
@@ -88,7 +90,10 @@ Controller ->use-> Domain <-use<- Persistence
 
 Domain devient un hexagone où les objets métiers sont centralisés.
 
-Pour suivre Jordan, Adrien et Julien, ça se passe par là : [@JkNourry](https://twitter.com/JkNourry) , [@adrienjoly](https://twitter.com/adrienjoly) et [@JulienTopcu](https://twitter.com/JulienTopcu)
+Pour suivre Jordan, Adrien et Julien, ça se passe par là : [@JkNourry](https://twitter.com/JkNourry) , [@adrienjoly](https://twitter.com/adrienjoly) et [@JulienTopcu](https://twitter.com/JulienTopcu)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
+
 
 ![Nous sommes en salle Neuilly 252 AB et il y a beaucoup de monde.]({{ site.url }}{{ site.baseurl }}/assets/images/nodejs2.png)
 
@@ -107,6 +112,9 @@ J'attends sagement mon tour, entourée des personnes adorables (Stéphane en pre
 
 J'ai adoré la prise de risque, j'ai aimé préparer, répéter, partager, rencontrer des gens grâce à ce partage... Un grand merci aux organisateurs et aux membres du comité de sélection de m'avoir offert cette occasion unique !
 
+Pour me suivre, ça se passe par là : [@klf37](https://twitter.com/klf37)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
 
 ### Créer & distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! - Aurélie VACHE et Gaëlle ACAS
 
@@ -124,7 +132,9 @@ Et pour les commandes ou plugins utiles et les bonnes pratiques : revisionnez à
 
 J'ai beau avoir déjà vu la présentation à la [TADx](https://www.tadx.fr) de février 2021 à distance et au JugSummerCamp de septembre 2021, je ne me lasse pas : Gaëlle et Aurélie sont à voir et à connaître absolument !
 
-Pour suivre Aurélie et Gaëlle, ça se passe par là : [@aurelievache](https://twitter.com/aurelievache) et [@Gaelleacas](https://twitter.com/Gaelleacas)
+Pour suivre Aurélie et Gaëlle, ça se passe par là : [@aurelievache](https://twitter.com/aurelievache) et [@Gaelleacas](https://twitter.com/Gaelleacas)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
 
 Be jealous : j'ai un sticker collector !!
 ![Be jealous : j'ai un sticker collector]({{ site.url }}{{ site.baseurl }}/assets/images/kube3.png)
@@ -209,7 +219,9 @@ Retenir : une mesure sans marge d'erreur, n'est pas une mesure.
 
 Vous voulez en savoir plus ? bien-sûr je vous invite à aller voir la vidéo de retransmission mais aussi les émissions de Monsieur Bidouille (lien à venir).
 
-Pour suivre Quentin et Pierre, ça se passe par là : [@waxzce](https://twitter.com/waxzce) et [@pbeyssac](https://twitter.com/pbeyssac)
+Pour suivre Quentin et Pierre, ça se passe par là : [@waxzce](https://twitter.com/waxzce) et [@pbeyssac](https://twitter.com/pbeyssac)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
 
 
 ###  Licences open source : entre guerre de clochers et radicalité - Pierre-Yves Lapersonne
@@ -238,7 +250,10 @@ Peu de procès et de jurisprudence pour le moment, du fait de la récence des li
 
 Je rajoute ma propre morale : on a tous un rôle à jouer dans l'éthique des entreprises, y compris quand on est développeuse ou développeur. Et là je vous conseille de re-visionner une des keynotes qui m'avait marqué à DevoxxFR en 2017 : De la responsabilité des ingénieurs d'Eric Sadin, à voir [ici](https://www.youtube.com/watch?v=jpvMOIVU-Z4)
 
-Pour suivre Pierre-Yves, ça se passe par là : [@pylapp](https://twitter.com/pylapp) 
+Pour suivre Pierre-Yves, ça se passe par là : [@pylapp](https://twitter.com/pylapp)  
+Lien vers les [slides](https://speakerdeck.com/pylapp/licences-open-source-entre-guerre-de-clochers-et-radicalite)  
+Lien vers la vidéo - _à venir_
+
 
 ### Simplifiez vos revues de code avec le rebase interactif - Sonia SEDDIKI
 
@@ -265,7 +280,9 @@ Très belle découverte : merci Sonia, et bravo !
 
 ![nous sommes en salle Maillot]({{ site.url }}{{ site.baseurl }}/assets/images/rebase2.png)
 
-Pour suivre Sonia, ça se passe par là : [@sonia_seddiki](https://twitter.com/sonia_seddiki) 
+Pour suivre Sonia, ça se passe par là : [@sonia_seddiki](https://twitter.com/sonia_seddiki)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
 
 
 ### Dois-je migrer en Reactive et comment ? - Christophe JOLLIVET
@@ -304,7 +321,10 @@ Un grand oui si vous visez la scalabilité plus que la rapidité. La syntaxe est
 
 J'ai adoré la présentation step by step en comparaison avec ce que l'on connaît de l'impératif : cela permet d'appréhender facilement et rapidement les concepts du réactif.
 
-Pour suivre Christophe, ça se passe par là : [@jollivetc](https://twitter.com/jollivetc) 
+Pour suivre Christophe, ça se passe par là : [@jollivetc](https://twitter.com/jollivetc)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
+
 
 ### Etre développeur : grandir et se développer - Gaëtan ELEOUET
 
@@ -325,7 +345,10 @@ La notion même d'expérience, de séniorité est de plus en plus complexe : le 
 
 Je n'ai pas toujours réussi à comprendre le lien entre toutes les parties, j'ai dû louper des étapes (fatigue ?), aussi mes notes sont un peu un cumul d'idées éparses.
 
-Pour suivre Gaëtan, ça se passe par là : [@egaetan](https://twitter.com/egaetan)
+Pour suivre Gaëtan, ça se passe par là : [@egaetan](https://twitter.com/egaetan)  
+Lien vers les [slides](https://speakerdeck.com/egaetan/etre-developpeur-grandir-et-se-developper)  
+Lien vers la vidéo - _à venir_
+
 
 ### Comment j'ai aidé ma fille à lire avec le machine learning - Vincent OGLOBLINSKY
 
@@ -355,7 +378,10 @@ L'utilisation est ludique et laisse des perspectives d'ouverture multiples.
 
 Intéressé(e)s ? essayez vous même avec teachablemachine
 
-Pour suivre Vincent, ça se passe par là : [@vogloblinsky](https://twitter.com/vogloblinsky)
+Pour suivre Vincent, ça se passe par là : [@vogloblinsky](https://twitter.com/vogloblinsky)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
+
 
 ### Accéder à mon cerveau par une API - Sébastien BLANC
 
@@ -393,7 +419,10 @@ Et enfin... tir de boulets de canon... par la pensée !!
 
 BRAVO !
 
-Pour suivre Sébastien, ça se passe par là : [@sebi2706](https://twitter.com/sebi2706)
+Pour suivre Sébastien, ça se passe par là : [@sebi2706](https://twitter.com/sebi2706)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
+
 
 ### Jouer à Minecraft avec une IA générée par GPT-3 - Wassim CHEGHAM et Tiffany SOUTERRE
 
@@ -408,7 +437,9 @@ On fait le tour du code, puis on passe à la partie démo, car nos deux speakers
 
 Vous êtes intéressé(e)s ? le code github sera open-sourcé ce soir 😇
 
-Pour suivre Wassim et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterrej)
+Pour suivre Wassim et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterrej)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
 
 
 ### BOF TADx - Mais au fait DevRel c'est vraiment qu'un lanceur de paillettes ?
@@ -480,7 +511,9 @@ et rendez-vous en 2032 pour faire le bilan !
 ![Jean-Michel DOUDOUX on stage]({{ site.url }}{{ site.baseurl }}/assets/images/10java2.png)
 
 Pour suivre Jean-Michel, ça se passe par là : [@jmdoudoux](https://twitter.com/jmdoudoux)
-et bien sûr [son site](https://www.jmdoudoux.fr/accueil_java.htm) qui a fêté ses 20 ans il y a quelques mois.
+et bien sûr [son site](https://www.jmdoudoux.fr/accueil_java.htm) qui a fêté ses 20 ans il y a quelques mois.  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
 
 
 ### Le scale-up, l'autonomie et le sous-marin nucléaire - Pauline JAMIN et Thomas PIERRAIN
@@ -509,7 +542,9 @@ Ce qui a été testé chez Agicap : Domain Driven Sesign (DDD), la réflexion co
 
 La problématique discutée est réellement propre à la situation d'une start-up qui grossit : les applications en grosse entreprise ou chez le client ne sont pas évoquées. Cela permet néanmoins de se dire que tout est possible et de rêver un peu : merci !
 
-Pour suivre Pauline et Thomas, ça se passe par là : [@jaminpauline](https://twitter.com/jaminpauline) et [@tpierrain](https://twitter.com/tpierrain)
+Pour suivre Pauline et Thomas, ça se passe par là : [@jaminpauline](https://twitter.com/jaminpauline) et [@tpierrain](https://twitter.com/tpierrain)  
+Lien vers les [slides](https://fr.slideshare.net/ThomasPierrain/la-scaleup-lautonomie-et-le-sousmarin-nuclaire)  
+Lien vers la vidéo - _à venir_
 
 
 ### Rendez vos interfaces fiables en faisant aimer les tests à votre équipe - Jean-Lou PIERME et Jonathan MEUNIER
@@ -547,7 +582,9 @@ Ce qu'il faut retenir :
 - on pense à l'asynchronisme
 - on embarque correctement les nouveaux développeurs dans la démarche : "on passe autant de temps sur les tests que sur les développements".
 
-Pour suivre Jean-Lou et Jonathan, ça se passe par là : [@jloupiote](https://twitter.com/loupiote) et [@MonsieurNohj](https://twitter.com/MonsieurNohj)
+Pour suivre Jean-Lou et Jonathan, ça se passe par là : [@jloupiote](https://twitter.com/loupiote) et [@MonsieurNohj](https://twitter.com/MonsieurNohj)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
 
 
 ### Comment permettre 100 millions de logins sans interruption de service ? Betclic raconte son Euro 2020 de football - Nicolas JOZWIAK et Etienne PUISSANT
@@ -582,8 +619,9 @@ Pour la suite, il est prévu de parler auto-scaling, Azure pour le SQL Server, c
 
 Un grand merci messieurs, on a eu l'impression de vivre un peu l'aventure avec vous !
 
-Pour suivre Nicolas et Etienne, ça se passe par là : [@njozwiak](https://twitter.com/njozwiak) et [@TODO](https://twitter.com/TODO)
-
+Pour suivre Nicolas et Etienne, ça se passe par là : [@njozwiak](https://twitter.com/njozwiak) et [@TODO](https://twitter.com/TODO)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
 
 
 ### CI/CD, le divorce serait-il prononcé ? - Nicolas GIRAUD et Yann SCHEPENS
@@ -628,7 +666,10 @@ J'ai adoré et la forme et le fond : Nicolas et Yann sont parvenus à tenir le p
 
 ![fusion de la CI et de la CD ?]({{ site.url }}{{ site.baseurl }}/assets/images/cicd2.png)
 
-Pour suivre Nicolas et Yann, ça se passe par là : [@nicgiro](https://twitter.com/nicgiro) et [@YannSchepens](https://twitter.com/YannSchepens)
+Pour suivre Nicolas et Yann, ça se passe par là : [@nicgiro](https://twitter.com/nicgiro) et [@YannSchepens](https://twitter.com/YannSchepens)  
+Lien vers les slides - _à venir_  
+Lien vers la vidéo - _à venir_
+
 
 ### Les Cast Codeurs en 💺 et en 🦴️ - Emmanuel BERNARD, Guillaume LAFORGE, Antonio GONCALVES et Arnaud HERITIER
 
@@ -643,6 +684,8 @@ On ne leur dira jamais assez merci, MERCI, M-E-R-C-I !! c'est incroyable ce que 
 ![Les gilets rouges manifestent]({{ site.url }}{{ site.baseurl }}/assets/images/cast2.png)
 
 Hélas tic-tac, tic-tac... il faut prendre le train. Ma consolation est d'apprendre que les dates de 2023 sont déjà fixées... rendez-vous les 12, 13 et 14 avril 2023 ❤️️
+
+Lien vers la [vidéo](https://www.youtube.com/watch?v=_HxHIQ90-Fw)
 
 
 ## C'est le bilan !
