@@ -91,7 +91,7 @@ Controller ->use-> Domain <-use<- Persistence
 Domain devient un hexagone où les objets métiers sont centralisés.
 
 Pour suivre Jordan, Adrien et Julien, ça se passe par là : [@JkNourry](https://twitter.com/JkNourry) , [@adrienjoly](https://twitter.com/adrienjoly) et [@JulienTopcu](https://twitter.com/JulienTopcu)  
-Lien vers les slides - _à venir_  
+Lien vers les [slides](https://slides.com/julientopcu/architecturoplastie-hexagonale-dun-backend-nodejs-operation-code-ouvert)  
 Lien vers la [vidéo de Jordan, Adrien et Julien](https://www.youtube.com/watch?v=r2XMwAUqZBA)
 
 
@@ -133,7 +133,7 @@ Et pour les commandes ou plugins utiles et les bonnes pratiques : revisionnez à
 J'ai beau avoir déjà vu la présentation à la [TADx](https://www.tadx.fr) de février 2021 à distance et au JugSummerCamp de septembre 2021, je ne me lasse pas : Gaëlle et Aurélie sont à voir et à connaître absolument !
 
 Pour suivre Aurélie et Gaëlle, ça se passe par là : [@aurelievache](https://twitter.com/aurelievache) et [@Gaelleacas](https://twitter.com/Gaelleacas)  
-Lien vers les slides - _à venir_  
+Lien vers les [slides](https://docs.google.com/presentation/d/1hWupsuVv5VE4E-VwJHU9FZ7H_OyTb7fZgsOE6DKXO8U/preview?slide=id.ga5dc656ac3_0_0)  
 Lien vers la [vidéo d'Aurélie et Gaëlle](https://www.youtube.com/watch?v=CMEJxGe-VoQ)
 
 Be jealous : j'ai un sticker collector !!
@@ -443,7 +443,7 @@ On fait le tour du code, puis on passe à la partie démo, car nos deux speakers
 
 Vous êtes intéressé(e)s ? le code github sera open-sourcé ce soir 😇
 
-Pour suivre Wassim et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterrej)  
+Pour suivre Wassim et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterre)  
 Lien vers les slides - _à venir_  
 Lien vers la [vidéo de Wassim et Tiffany](https://www.youtube.com/watch?v=sbsU9gRzKaA)
 
@@ -518,7 +518,7 @@ et rendez-vous en 2032 pour faire le bilan !
 
 Pour suivre Jean-Michel, ça se passe par là : [@jmdoudoux](https://twitter.com/jmdoudoux)
 et bien sûr [son site](https://www.jmdoudoux.fr/accueil_java.htm) qui a fêté ses 20 ans il y a quelques mois.  
-Lien vers les slides - _à venir_  
+Lien vers les [slides](https://www.slideshare.net/jmdoudoux/devoxx-2022-10-ans-de-devoxx-fr-et-de-javapdf)  
 Lien vers la [vidéo de Jean-Michel](https://www.youtube.com/watch?v=mQV4NVZlFnc)
 
 
@@ -588,7 +588,7 @@ Ce qu'il faut retenir :
 - on pense à l'asynchronisme
 - on embarque correctement les nouveaux développeurs dans la démarche : "on passe autant de temps sur les tests que sur les développements".
 
-Pour suivre Jean-Lou et Jonathan, ça se passe par là : [@jloupiote](https://twitter.com/loupiote) et [@MonsieurNohj](https://twitter.com/MonsieurNohj)  
+Pour suivre Jean-Lou et Jonathan, ça se passe par là : [@jloupiote](https://twitter.com/jloupiote) et [@MonsieurNohj](https://twitter.com/MonsieurNohj)  
 Lien vers les slides - _à venir_  
 Lien vers la [vidéo de Jean-Lou et Jonathan](https://www.youtube.com/watch?v=eCfLa6Ex4QM)
 
