@@ -63,7 +63,7 @@ On passe un très bon moment : merci à tous les deux !
 
 Pour suivre Laurent et Philippe sur twitter, ça se passe par là : [@ldoguin](https://twitter.com/ldoguin) et [@k33g_org](https://twitter.com/k33g_org)  
 Lien vers les [slides](https://docs.google.com/presentation/d/1XvZZK9JK7MDgbVxy5J-sGHdym6AzVwXQ4dc-Sft9iko/edit?usp=drivesdk)  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Philippe et Laurent](https://www.youtube.com/watch?v=ePnnbRHdNsI)
 
 ![Nous sommes en salle Neuilly 252 AB et il y a beaucoup de monde]({{ site.url }}{{ site.baseurl }}/assets/images/wasm3.png)
 
@@ -92,7 +92,7 @@ Domain devient un hexagone où les objets métiers sont centralisés.
 
 Pour suivre Jordan, Adrien et Julien, ça se passe par là : [@JkNourry](https://twitter.com/JkNourry) , [@adrienjoly](https://twitter.com/adrienjoly) et [@JulienTopcu](https://twitter.com/JulienTopcu)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Jordan, Adrien et Julien](https://www.youtube.com/watch?v=r2XMwAUqZBA)
 
 
 ![Nous sommes en salle Neuilly 252 AB et il y a beaucoup de monde.]({{ site.url }}{{ site.baseurl }}/assets/images/nodejs2.png)
@@ -114,7 +114,7 @@ J'ai adoré la prise de risque, j'ai aimé préparer, répéter, partager, renco
 
 Pour me suivre, ça se passe par là : [@klf37](https://twitter.com/klf37)  
 Lien vers les [slides](https://noti.st/klaukf/nycPFx/rendez-lagilite-aux-developpeur-se-s)  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo](https://www.youtube.com/watch?v=Vo_YWAE3Pxo)
 
 ### Créer & distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! - Aurélie VACHE et Gaëlle ACAS
 
@@ -134,7 +134,7 @@ J'ai beau avoir déjà vu la présentation à la [TADx](https://www.tadx.fr) de 
 
 Pour suivre Aurélie et Gaëlle, ça se passe par là : [@aurelievache](https://twitter.com/aurelievache) et [@Gaelleacas](https://twitter.com/Gaelleacas)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo d'Aurélie et Gaëlle](https://www.youtube.com/watch?v=CMEJxGe-VoQ)
 
 Be jealous : j'ai un sticker collector !!
 ![Be jealous : j'ai un sticker collector]({{ site.url }}{{ site.baseurl }}/assets/images/kube3.png)
@@ -168,12 +168,16 @@ A revoir absolument : les photos collectors !!!
 
 Encore un grand merci !
 
+Lien vers la [vidéo](https://www.youtube.com/watch?v=kOXJEzD8GKw)
+
 ### 10 ans de tech à travers le podcast Niptech - Benoît CURDY, Michael MONNEY et Baptiste FREYDT
 
 Il existe des groupes qui fonctionnent parce qu'ils ont tout compris : partager dans la bonne humeur.
 C'est exactement le cas de Niptech ! Au travers de leur rétrospective, de leur réussite, des aléas de la vie, des tentatives d'innovations, des retours aux valeurs sûres : on partage avec bonheur nos propres tentatives de maintien de communauté, pour toujours plus lui apporter et la garder précieusement. Car oui : c'est un vrai plaisir de partager !
 
 Merci à tous les trois !
+
+Lien vers la [vidéo de Benoît, Michael et Baptiste](https://www.youtube.com/watch?v=5-pe7CajTik)
 
 ![niptech sur scène]({{ site.url }}{{ site.baseurl }}/assets/images/niptech.png)
 
@@ -191,6 +195,8 @@ Le numérique étant une ressource non renouvelable car à notre rythme de conso
 Conclusion : concentrons-nous sur ce que la tech sert vraiment, et pour tout le reste, gardons notre bon sens !
 
 Pour participer activement et aider, ça se passe ici : collectif@greenit.fr
+
+Lien vers la [vidéo de Frédéric](https://www.youtube.com/watch?v=1uQPVOK45ow)
 
 ### Comprendre les enjeux de consommation de ressource et d'énergie dans le secteur numérique - Quentin ADAM et Pierre BEYSSAC
 
@@ -221,7 +227,7 @@ Vous voulez en savoir plus ? bien-sûr je vous invite à aller voir la vidéo de
 
 Pour suivre Quentin et Pierre, ça se passe par là : [@waxzce](https://twitter.com/waxzce) et [@pbeyssac](https://twitter.com/pbeyssac)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Quentin et Pierre](https://www.youtube.com/watch?v=gxWwxqIrCa8)
 
 
 ###  Licences open source : entre guerre de clochers et radicalité - Pierre-Yves Lapersonne
@@ -252,7 +258,7 @@ Je rajoute ma propre morale : on a tous un rôle à jouer dans l'éthique des en
 
 Pour suivre Pierre-Yves, ça se passe par là : [@pylapp](https://twitter.com/pylapp)  
 Lien vers les [slides](https://speakerdeck.com/pylapp/licences-open-source-entre-guerre-de-clochers-et-radicalite)  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Pierre-Yves](https://www.youtube.com/watch?v=HGid_PYx0Fo)
 
 
 ### Simplifiez vos revues de code avec le rebase interactif - Sonia SEDDIKI
@@ -282,7 +288,7 @@ Très belle découverte : merci Sonia, et bravo !
 
 Pour suivre Sonia, ça se passe par là : [@sonia_seddiki](https://twitter.com/sonia_seddiki)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Sonia](https://www.youtube.com/watch?v=3Z8O5IjWDEk)
 
 
 ### Dois-je migrer en Reactive et comment ? - Christophe JOLLIVET
@@ -323,7 +329,7 @@ J'ai adoré la présentation step by step en comparaison avec ce que l'on conna�
 
 Pour suivre Christophe, ça se passe par là : [@jollivetc](https://twitter.com/jollivetc)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Christophe](https://www.youtube.com/watch?v=WTZOGQYsdqE)
 
 
 ### Etre développeur : grandir et se développer - Gaëtan ELEOUET
@@ -347,7 +353,7 @@ Je n'ai pas toujours réussi à comprendre le lien entre toutes les parties, j'a
 
 Pour suivre Gaëtan, ça se passe par là : [@egaetan](https://twitter.com/egaetan)  
 Lien vers les [slides](https://speakerdeck.com/egaetan/etre-developpeur-grandir-et-se-developper)  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Gaëtan](https://www.youtube.com/watch?v=AcE85HBzAZE)
 
 
 ### Comment j'ai aidé ma fille à lire avec le machine learning - Vincent OGLOBLINSKY
@@ -380,7 +386,7 @@ Intéressé(e)s ? essayez vous même avec teachablemachine
 
 Pour suivre Vincent, ça se passe par là : [@vogloblinsky](https://twitter.com/vogloblinsky)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Vincent](https://www.youtube.com/watch?v=1gDSKIDiQL8)
 
 
 ### Accéder à mon cerveau par une API - Sébastien BLANC
@@ -421,7 +427,7 @@ BRAVO !
 
 Pour suivre Sébastien, ça se passe par là : [@sebi2706](https://twitter.com/sebi2706)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Sébastien](https://www.youtube.com/watch?v=mog0W_RHYA4)
 
 
 ### Jouer à Minecraft avec une IA générée par GPT-3 - Wassim CHEGHAM et Tiffany SOUTERRE
@@ -439,7 +445,7 @@ Vous êtes intéressé(e)s ? le code github sera open-sourcé ce soir 😇
 
 Pour suivre Wassim et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterrej)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Wassim et Tiffany](https://www.youtube.com/watch?v=sbsU9gRzKaA)
 
 
 ### BOF TADx - Mais au fait DevRel c'est vraiment qu'un lanceur de paillettes ?
@@ -513,7 +519,7 @@ et rendez-vous en 2032 pour faire le bilan !
 Pour suivre Jean-Michel, ça se passe par là : [@jmdoudoux](https://twitter.com/jmdoudoux)
 et bien sûr [son site](https://www.jmdoudoux.fr/accueil_java.htm) qui a fêté ses 20 ans il y a quelques mois.  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Jean-Michel](https://www.youtube.com/watch?v=mQV4NVZlFnc)
 
 
 ### Le scale-up, l'autonomie et le sous-marin nucléaire - Pauline JAMIN et Thomas PIERRAIN
@@ -544,7 +550,7 @@ La problématique discutée est réellement propre à la situation d'une start-u
 
 Pour suivre Pauline et Thomas, ça se passe par là : [@jaminpauline](https://twitter.com/jaminpauline) et [@tpierrain](https://twitter.com/tpierrain)  
 Lien vers les [slides](https://fr.slideshare.net/ThomasPierrain/la-scaleup-lautonomie-et-le-sousmarin-nuclaire)  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Pauline et Thomas](https://www.youtube.com/watch?v=FPZw6gy04T4)
 
 
 ### Rendez vos interfaces fiables en faisant aimer les tests à votre équipe - Jean-Lou PIERME et Jonathan MEUNIER
@@ -584,7 +590,7 @@ Ce qu'il faut retenir :
 
 Pour suivre Jean-Lou et Jonathan, ça se passe par là : [@jloupiote](https://twitter.com/loupiote) et [@MonsieurNohj](https://twitter.com/MonsieurNohj)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Jean-Lou et Jonathan](https://www.youtube.com/watch?v=eCfLa6Ex4QM)
 
 
 ### Comment permettre 100 millions de logins sans interruption de service ? Betclic raconte son Euro 2020 de football - Nicolas JOZWIAK et Etienne PUISSANT
@@ -621,7 +627,7 @@ Un grand merci messieurs, on a eu l'impression de vivre un peu l'aventure avec v
 
 Pour suivre Nicolas et Etienne, ça se passe par là : [@njozwiak](https://twitter.com/njozwiak) et [@TODO](https://twitter.com/TODO)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo d'Etienne et Nicolas](https://www.youtube.com/watch?v=7AOu-NB0JjU)
 
 
 ### CI/CD, le divorce serait-il prononcé ? - Nicolas GIRAUD et Yann SCHEPENS
@@ -668,7 +674,7 @@ J'ai adoré et la forme et le fond : Nicolas et Yann sont parvenus à tenir le p
 
 Pour suivre Nicolas et Yann, ça se passe par là : [@nicgiro](https://twitter.com/nicgiro) et [@YannSchepens](https://twitter.com/YannSchepens)  
 Lien vers les slides - _à venir_  
-Lien vers la vidéo - _à venir_
+Lien vers la [vidéo de Nicolas et Yann](https://www.youtube.com/watch?v=rZKAPyKdbXM)
 
 
 ### Les Cast Codeurs en 💺 et en 🦴️ - Emmanuel BERNARD, Guillaume LAFORGE, Antonio GONCALVES et Arnaud HERITIER
