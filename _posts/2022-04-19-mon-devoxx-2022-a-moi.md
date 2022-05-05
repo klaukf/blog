@@ -385,7 +385,7 @@ L'utilisation est ludique et laisse des perspectives d'ouverture multiples.
 Intéressé(e)s ? essayez vous même avec teachablemachine
 
 Pour suivre Vincent, ça se passe par là : [@vogloblinsky](https://twitter.com/vogloblinsky)  
-Lien vers les slides - _à venir_  
+Lien vers les [slides](https://slides.com/vogloblinsky/comment-jai-aide-ma-fille-a-lire-avec-le-machine-learning)  
 Lien vers la [vidéo de Vincent](https://www.youtube.com/watch?v=1gDSKIDiQL8)
 
 
@@ -426,7 +426,7 @@ Et enfin... tir de boulets de canon... par la pensée !!
 BRAVO !
 
 Pour suivre Sébastien, ça se passe par là : [@sebi2706](https://twitter.com/sebi2706)  
-Lien vers les slides - _à venir_  
+Lien vers les [slides](https://docs.google.com/presentation/d/1Z9EVw_nXMu4LrhZvO-G4YAKXZMM6-2t1t6ZYExR9xtM/edit#slide=id.g725ff4befe_120_350)  
 Lien vers la [vidéo de Sébastien](https://www.youtube.com/watch?v=mog0W_RHYA4)
 
 
@@ -444,7 +444,7 @@ On fait le tour du code, puis on passe à la partie démo, car nos deux speakers
 Vous êtes intéressé(e)s ? le code github sera open-sourcé ce soir 😇
 
 Pour suivre Wassim et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterre)  
-Lien vers les slides - _à venir_  
+Lien vers les [slides](https://slides.com/wassimchegham/playing-minecraft-artificial-intelligence-open-ai-gpt-3-javascript)  
 Lien vers la [vidéo de Wassim et Tiffany](https://www.youtube.com/watch?v=sbsU9gRzKaA)
 
 
@@ -589,7 +589,7 @@ Ce qu'il faut retenir :
 - on embarque correctement les nouveaux développeurs dans la démarche : "on passe autant de temps sur les tests que sur les développements".
 
 Pour suivre Jean-Lou et Jonathan, ça se passe par là : [@jloupiote](https://twitter.com/jloupiote) et [@MonsieurNohj](https://twitter.com/MonsieurNohj)  
-Lien vers les slides - _à venir_  
+Lien vers les [slides](https://docs.google.com/presentation/d/1ysnu8QNdpg1pc-FqFqOg1oeg6jPsHKXgpe9sFtTMbTU/edit#slide=id.gab0243390c_0_33)  
 Lien vers la [vidéo de Jean-Lou et Jonathan](https://www.youtube.com/watch?v=eCfLa6Ex4QM)
 
 
@@ -673,7 +673,7 @@ J'ai adoré et la forme et le fond : Nicolas et Yann sont parvenus à tenir le p
 ![fusion de la CI et de la CD ?]({{ site.url }}{{ site.baseurl }}/assets/images/cicd2.png)
 
 Pour suivre Nicolas et Yann, ça se passe par là : [@nicgiro](https://twitter.com/nicgiro) et [@YannSchepens](https://twitter.com/YannSchepens)  
-Lien vers les slides - _à venir_  
+Lien vers les [slides](https://arcanneero.github.io/cicd-divorce-slides/story/index-devoxx.html#/)  
 Lien vers la [vidéo de Nicolas et Yann](https://www.youtube.com/watch?v=rZKAPyKdbXM)
 
 
