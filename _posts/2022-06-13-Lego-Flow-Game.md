@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Lego Flow Game - en 50 minutes, le cycle en V, le Scrum et le Kanban tu différencieras !"
+title:  "Lego Flow Game - en 50 minutes, le Waterfall, le Scrum et le Kanban tu différencieras !"
 author: fanny
 categories: [ seriousgames ]
 tags: [ lego ]
-image: assets/images/TODO.jpg
+image: assets/images/legoflowgame/LegoFlowGame.png
 ---
 
 Le Lego Flow Game fait partie des serious games que j'affectionne : ils sont certes ludiques, mais surtout apportent une connaissance, une compétence ou un savoir-être supplémentaire.  
