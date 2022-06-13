@@ -217,7 +217,7 @@ Pour chaque fin de phase, il a une étape de remise à zéro qui consiste à per
 ![La remise à zéro]({{ site.url }}{{ site.baseurl }}/assets/images/legoflowgame/remise_a_zero.png)
 
 De mémoire, il y avait une partie graphique à la fin qui permettait d'afficher plus clairement le "relevé de compteurs" établi par les pilotes de chaque équipe.  
-Etant seule à animer le calendrier, et cette consolidation d'indicateurs sous Excel étant chronophage, je ne me suis pas encore attelée, mais la comparaison des trois fiches est déjà très parlante.
+Etant seule à animer l'atelier, et cette consolidation d'indicateurs sous Excel étant chronophage, je ne me suis pas encore attelée, mais la comparaison des trois fiches est déjà très parlante.
 
 Cela fait un sacré barda à emporter ! comment faire ?  
 Personnellement, j'ai opté pour un sac super pratique : clin d'oeil aux 10 km de Tours 😉
