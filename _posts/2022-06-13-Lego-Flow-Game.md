@@ -79,7 +79,7 @@ Voire pour une version plus longue, ces petits cartons permettraient d'échanger
 
 ![Les différents rôles]({{ site.url }}{{ site.baseurl }}/assets/images/legoflowgame/roles.png)
 
-* Note : j'aime prévoir un environnement "sécurisé" pour mes ateliers. Pour ces étiquettes, j'ai pensé à noté les équivalences masculin / féminin en fonction de qui jouera le rôle en question. *
+*Note : j'aime prévoir un environnement "sécurisé" pour mes ateliers. Pour ces étiquettes, j'ai pensé à noté les équivalences masculin / féminin en fonction de qui jouera le rôle en question.*
 
 ### Le tas de sachets Lego
 
