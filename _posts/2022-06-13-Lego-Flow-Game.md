@@ -10,7 +10,7 @@ image: assets/images/legoflowgame/LegoFlowGame.png
 Le Lego Flow Game fait partie des serious games que j'affectionne : ils sont certes ludiques, mais surtout apportent une connaissance, une compétence ou un savoir-être supplémentaire.  
 Pour ma part ce fut le challenge de faire comprendre le classique Waterfall, l'itératif Scrum et le file de l'eau Kanban à des potentiels newbies de l'agilité.
 
-C'est un exercice que j'ai connu en décembre 2021 dernier, à l'occasion d'un atelier proposé à l'Agile Tour Rennes dans le couvent des Jacobins. Et ce fut une révélation !
+C'est un exercice que j'ai connu en décembre 2021 dernier, à l'occasion d'un atelier proposé à l'[Agile Tour Rennes](https://agiletour.agilerennes.org/) dans le couvent des Jacobins. Et ce fut une révélation !
 
 D'abord, j'étais sceptique : la promesse de [Nicolas ARHAN](https://www.linkedin.com/in/arhannicolas/) et de son équipe Sopra Steria, de faire appréhender toutes ces notions dans un seul atelier, si court qui plus est ! (moins d'une heure...) => il fallait que je voie ça de mes propres yeux !
 
