@@ -212,7 +212,7 @@ Et là aussi, les défauts peuvent revenir en arrière pour être corrigés.
 
 ## Précisions
 
-Pour chaque fin de phase, il a une étape de remise à zéro qui consiste à permettre à la phase suivante de commencer dans les mêmes conditions que la précédente :
+Pour chaque fin de phase, il y a une étape de remise à zéro qui consiste à permettre à la phase suivante de commencer dans les mêmes conditions que la précédente :
 
 ![La remise à zéro]({{ site.url }}{{ site.baseurl }}/assets/images/legoflowgame/remise_a_zero.png)
 
