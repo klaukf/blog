@@ -180,7 +180,7 @@ Dans ce mode, on fonctionne en étape : l'équipe se voit attitrer un nombre de 
 Les étapes sont indépendantes et requiert des compétences acquises par seulement chacun des spécialistes. Pas d'entraide possible donc lors de cette phase.  
 D'ailleurs, si on veut faire l'analogie avec le vrai mode projet en entreprise, lorsque l'analyste écrit sa spécification, le devéloppeur lui est encore sur la phase réalisation d'un précédent projet. Il n'est donc que peu ou pas disponible pour le projet en cours.
 
-Autre particularité, tout défutu repérer en phase de test est... jeté ! irrécupérable.
+Autre particularité, tout défaut repéré en phase de test est... jeté ! irrécupérable.
 
 ![Le mode de jeu Waterfall]({{ site.url }}{{ site.baseurl }}/assets/images/legoflowgame/waterfall.png)
 
