@@ -152,32 +152,7 @@ Le rôle du client étant optionnel et le rôle du pilote dans une moindre mesur
 
 Voici la répartition que vous pouvez alors rapidement calculer : 
 
-|nb participants|nb équipes de 4|nb équipes de 5|nb équipes de 6|
-|---------------|---------------|---------------|---------------|
-|       4       |       1       |               |               |
-|       5       |               |       1       |               |
-|       6       |               |               |       1       |
-|       8       |       2       |               |               |
-|       9       |       1       |       1       |               |
-|       10      |               |       2       |               |
-|       11      |               |       1       |       1       |
-|       12      |               |               |       2       |
-|       13      |       2       |       1       |               |
-|       14      |       1       |       2       |               |
-|       15      |               |       3       |               |
-|       16      |               |       2       |       1       |
-|       17      |               |       1       |       2       |
-|       18      |               |               |       3       |
-|       19      |       1       |       3       |               |
-|       20      |               |       4       |               |
-|       21      |               |       3       |       1       |
-|       22      |               |       2       |       2       |
-|       23      |               |       1       |       3       |
-|       24      |               |               |       4       |
-|       25      |               |       5       |               |
-|       26      |               |       4       |       1       |
-|       27      |               |       3       |       2       |
-|       24      |               |               |       4       |
+![La répartition des équipes]({{ site.url }}{{ site.baseurl }}/assets/images/legoflowgame/tableau_equipe.png)
 
 Enfin, concernant les casquettes, je conseille de mélanger les rôles véritables des participants pour qu'ils puissent vivre la vie d'autres rôles. Par exemple, je demande aux managers de prendre des rôles d'analyste, de réalisateur ou de testeur. A l'inverse, je demande aux développeurs de jouer le pilote.  
 Rien de tel pour développer encore un peu d'empathie.
