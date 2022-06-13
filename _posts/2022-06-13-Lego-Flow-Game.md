@@ -10,7 +10,7 @@ image: assets/images/legoflowgame/LegoFlowGame.png
 Le Lego Flow Game fait partie des serious games que j'affectionne : ils sont certes ludiques, mais surtout apportent une connaissance, une compétence ou un savoir-être supplémentaire.  
 Pour ma part ce fut le challenge de faire comprendre le classique Waterfall, l'itératif Scrum et le file de l'eau Kanban à des potentiels newbies de l'agilité.
 
-C'est un exercice que j'ai connu en décembre 2021 dernier, à l'occasion d'un atelier proposé à l'Agile Tour Rennes dans le couvent des Jacobins. Et ce fut une révélation !
+C'est un exercice que j'ai connu en décembre 2021 dernier, à l'occasion d'un atelier proposé à l'[Agile Tour Rennes](https://agiletour.agilerennes.org/) dans le couvent des Jacobins. Et ce fut une révélation !
 
 D'abord, j'étais sceptique : la promesse de [Nicolas ARHAN](https://www.linkedin.com/in/arhannicolas/) et de son équipe Sopra Steria, de faire appréhender toutes ces notions dans un seul atelier, si court qui plus est ! (moins d'une heure...) => il fallait que je voie ça de mes propres yeux !
 
@@ -79,7 +79,7 @@ Voire pour une version plus longue, ces petits cartons permettraient d'échanger
 
 ![Les différents rôles]({{ site.url }}{{ site.baseurl }}/assets/images/legoflowgame/roles.png)
 
-* Note : j'aime prévoir un environnement "sécurisé" pour mes ateliers. Pour ces étiquettes, j'ai pensé à noté les équivalences masculin / féminin en fonction de qui jouera le rôle en question. *
+*Note : j'aime prévoir un environnement "sécurisé" pour mes ateliers. Pour ces étiquettes, j'ai pensé à noté les équivalences masculin / féminin en fonction de qui jouera le rôle en question.*
 
 ### Le tas de sachets Lego
 
@@ -152,32 +152,7 @@ Le rôle du client étant optionnel et le rôle du pilote dans une moindre mesur
 
 Voici la répartition que vous pouvez alors rapidement calculer : 
 
-|nb participants|nb équipes de 4|nb équipes de 5|nb équipes de 6|
-|---------------|---------------|---------------|---------------|
-|       4       |       1       |               |               |
-|       5       |               |       1       |               |
-|       6       |               |               |       1       |
-|       8       |       2       |               |               |
-|       9       |       1       |       1       |               |
-|       10      |               |       2       |               |
-|       11      |               |       1       |       1       |
-|       12      |               |               |       2       |
-|       13      |       2       |       1       |               |
-|       14      |       1       |       2       |               |
-|       15      |               |       3       |               |
-|       16      |               |       2       |       1       |
-|       17      |               |       1       |       2       |
-|       18      |               |               |       3       |
-|       19      |       1       |       3       |               |
-|       20      |               |       4       |               |
-|       21      |               |       3       |       1       |
-|       22      |               |       2       |       2       |
-|       23      |               |       1       |       3       |
-|       24      |               |               |       4       |
-|       25      |               |       5       |               |
-|       26      |               |       4       |       1       |
-|       27      |               |       3       |       2       |
-|       24      |               |               |       4       |
+![La répartition des équipes]({{ site.url }}{{ site.baseurl }}/assets/images/legoflowgame/tableau_equipe.png)
 
 Enfin, concernant les casquettes, je conseille de mélanger les rôles véritables des participants pour qu'ils puissent vivre la vie d'autres rôles. Par exemple, je demande aux managers de prendre des rôles d'analyste, de réalisateur ou de testeur. A l'inverse, je demande aux développeurs de jouer le pilote.  
 Rien de tel pour développer encore un peu d'empathie.
@@ -205,7 +180,7 @@ Dans ce mode, on fonctionne en étape : l'équipe se voit attitrer un nombre de 
 Les étapes sont indépendantes et requiert des compétences acquises par seulement chacun des spécialistes. Pas d'entraide possible donc lors de cette phase.  
 D'ailleurs, si on veut faire l'analogie avec le vrai mode projet en entreprise, lorsque l'analyste écrit sa spécification, le devéloppeur lui est encore sur la phase réalisation d'un précédent projet. Il n'est donc que peu ou pas disponible pour le projet en cours.
 
-Autre particularité, tout défutu repérer en phase de test est... jeté ! irrécupérable.
+Autre particularité, tout défaut repéré en phase de test est... jeté ! irrécupérable.
 
 ![Le mode de jeu Waterfall]({{ site.url }}{{ site.baseurl }}/assets/images/legoflowgame/waterfall.png)
 
@@ -237,12 +212,12 @@ Et là aussi, les défauts peuvent revenir en arrière pour être corrigés.
 
 ## Précisions
 
-Pour chaque fin de phase, il a une étape de remise à zéro qui consiste à permettre à la phase suivante de commencer dans les mêmes conditions que la précédente :
+Pour chaque fin de phase, il y a une étape de remise à zéro qui consiste à permettre à la phase suivante de commencer dans les mêmes conditions que la précédente :
 
 ![La remise à zéro]({{ site.url }}{{ site.baseurl }}/assets/images/legoflowgame/remise_a_zero.png)
 
 De mémoire, il y avait une partie graphique à la fin qui permettait d'afficher plus clairement le "relevé de compteurs" établi par les pilotes de chaque équipe.  
-Etant seule à animer le calendrier, et cette consolidation d'indicateurs sous Excel étant chronophage, je ne me suis pas encore attelée, mais la comparaison des trois fiches est déjà très parlante.
+Etant seule à animer l'atelier, et cette consolidation d'indicateurs sous Excel étant chronophage, je ne me suis pas encore attelée, mais la comparaison des trois fiches est déjà très parlante.
 
 Cela fait un sacré barda à emporter ! comment faire ?  
 Personnellement, j'ai opté pour un sac super pratique : clin d'oeil aux 10 km de Tours 😉
