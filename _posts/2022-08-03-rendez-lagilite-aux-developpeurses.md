@@ -205,6 +205,8 @@ Les circonstances de ces dernières années ne vous ont pas aidées : pandémie,
 
 Mais rappelez-vous que **nous avons toutes et tous un rôle à jouer pour rendre les équipes de developpement agiles**.
 
+![Nous avons toutes et tous un rôle à jouer pour rendre les équipes agiles]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_tous.png)
+
 Alors rendons les clés de l'agilité à nos développeurs et développeuses, apportont leur du **temps** : 
 - Prenez le temps d’accueillir et d’intégrer les membres d’une équipe agile ou pas d’ailleurs
 - Prenez le temps de tester des façons de faire, des outils, des process
