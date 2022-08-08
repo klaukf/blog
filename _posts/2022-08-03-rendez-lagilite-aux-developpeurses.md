@@ -10,7 +10,7 @@ image: assets/images/rendez_agilite.png
 Connaissez-vous les livres dont vous êtes le héros ?
 
 Pour celles et ceux qui ne connaissent pas, vous allez voir, c’est très amusant.  
-Je vous propose de participer à une aventure : faire vivre, au travers d’une histoire, plus ou moins fictive, les aventures de Lily, développeuse Angular depuis 2 ans. Nous allons choisir, au travers de petites scénettes, plus ou moins fictives, ce qu’elle va vivre dans ses premiers jours d’intégration dans sa nouvelle entreprise SiCool.
+Je vous propose de participer à une aventure : faire vivre, au travers d’une histoire, plus ou moins fictive, les aventures de Lily, développeuse Angular depuis 2 ans. Nous allons choisir, au travers de petites scénettes, ce qu’elle va vivre dans sa nouvelle entreprise SiCool.
 
 ![Les personnages de l'histoire sont Lily et nous lecteurs]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_persos.png)
 
@@ -22,7 +22,7 @@ Le manager a hâte d’accueillir Lily : depuis quelque temps, le client TouDoux
 
 Le jour de son arrivée, Lily est donc pressée de commencer : elle est motivée et veut faire ses preuves, elle veut montrer que SiCool a eu raison de la choisir parmi les différents candidats. Elle s’empresse donc de demander à son nouveau manager par où elle peut commencer.
 
-Vous êtes le **manager** en question, vous êtes débordés (c’est d’ailleurs bien pour ça que vous avez besoin de recruter pas mal de monde en ce moment), que choisissez-vous de faire ?
+Vous êtes le **manager** en question, vous êtes débordés (c’est d’ailleurs bien pour cela que vous avez besoin de recruter pas mal de monde en ce moment), que choisissez-vous de faire ?
 
 1.	Faire commencer Lily immédiatement à produire : après tout, le temps c’est de l’argent -> allez page 2
 2.	Prendre le temps de faire les présentations à l’équipe et son environnement -> allez page 3
@@ -31,17 +31,19 @@ Si je pose la question autrement : en vrai, sur les dernières années passées,
 
 Si je repense aux dernières missions que j’ai vécues ces trois dernières années, j’en ai ramassé plus d’un à la petite cuillère : certains en pleurs après une première journée, première semaine ou premier mois quasi non accompagné. En 2019, j’en parlais déjà à des compatriotes agilistes, et encore dernièrement j’ai vu ou vécu de telles situations sous couvert d’autonomie et d’auto-organisation des équipes. « Débrouillez-vous ! »  qu’ils disaient.
 
+Alors on va choisir de faire commencer Lily tout se suite à produire.
+
 ## Page 2 - Le début des travaux
 
-Génial ! Lily a récupéré son PC dès son premier jour !  
-Formidable ! Elle a aussi récupéré son user et mot de passe.  
-Incroyable ! Elle a accès à la documentation !
+Génial ! Lily a récupéré son PC dès son premier jour ! 😲  
+Formidable ! Elle a aussi récupéré son user et mot de passe. 😎  
+Incroyable ! Elle a accès à la documentation ! 😇
 
-Oui mais… Toute seule devant son PC, dans la jungle de la documentation, Lily tente des installations, des configurations, des paramétrages : tout plein de petites bêtes étranges qui ne lui facilitent pas la vie. Informations dépassées, ambiguïtés, zones de flous, manque de précisions… Lily est perdue et aimerait bien poser des questions à quelqu’un.
+Oui mais… Toute seule devant son PC, dans la jungle de la documentation, Lily tente des installations, des configurations, des paramétrages : tout plein de petites bêtes étranges qui ne lui facilitent pas la vie. Informations dépassées, ambiguïtés, zones de flou, manque de précisions… Lily est perdue et aimerait bien poser des questions à quelqu’un.
 
 ![Lily est perdue dès son premier jour]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_premjour.png)
 
-Oui mais voilà : à qui ? La quasi-totalité de son équipe est en télé-travail, les personnes du bureau d’à côté ne lui ont pas été présentées… Elle toque, demande, interroge, mais on la renvoie sans cesse à cette documentation sensée tout contenir. Lily est bloquée, ne connait pas encore les process, bref, elle perdue : sentiment d’abandon, de ne pas savoir se débrouiller, de doute… au final Lily se demande si elle a bien sa place ici.
+Oui mais voilà : à qui ? La quasi-totalité de son équipe est en télé-travail, les personnes du bureau d’à côté ne lui ont pas été présentées… Elle toque, demande, interroge, mais on la renvoie sans cesse à cette documentation sensée tout contenir. Lily est bloquée, ne connait pas encore les process, bref, elle est perdue : sentiment d’abandon, de ne pas savoir se débrouiller, de doute… au final Lily se demande si elle a bien sa place ici.
 
 **Vous avez échoué : Lily est démotivée et va chercher un nouveau job ailleurs.**
 
@@ -49,7 +51,7 @@ Aller en page 3 pour prendre le temps de présenter Lily à sa nouvelle équipe 
 
 ## Page 3 - L'intégration à l'équipe
 
-En tant que manager, vous prenez le temps de faire les présentations de Lily à sa nouvelle équipe. Elle se présente, chacun se présente à son tour. On partage, on échange, on montre à Lily qu’on l’attend. Idéalement, on est présent pour l’accueillir, partager avec elle son premier repas, discuter pro mais pas que, et puis on parle projet et organisation : qui fait quoi ? qui préfère faire quoi ?
+En tant que manager, vous prenez le temps de faire les présentations de Lily à sa nouvelle équipe. Elle se présente, chacun se présente à son tour. On partage, on échange, on montre à Lily qu’on l’attend. Idéalement, on est présent pour l’accueillir, partager avec elle son premier repas, discuter pro mais pas que, et puis on parle projet et organisation : qui fait quoi ? qui préfère faire quoi ? quel est le but du produit sur lequel on va tous travailler ?
 
 Car une personne supplémentaire dans une équipe, c’est une nouvelle équipe : il faut retracer le périmètre de chacun, se rassurer et se donner de nouveaux repères.
 
@@ -77,9 +79,9 @@ On va aller page 6, et on va continuer à utiliser Girafe, ça sera plus simple 
 
 ## Page 5 - L'équipe galère
 
-L'équipe tente : elle a besoin de répondre aux besoins d’indicateurs de l’entreprise, mais elle a aussi ses propres besoins : suivre un niveau de test supplémentaire ? elle ne peut pas changer le workflow !  
-Insérer un nouveau type d’information : elle n’a pas les droits d’en ajouter !  
-Tordre l’outil pour faire rentrer des ronds dans des carrés ? cela va impacter le suivi transverse !
+L'équipe tente : elle a besoin de répondre aux besoins d’indicateurs de l’entreprise, mais elle a aussi ses propres besoins : suivre un niveau de test supplémentaire ? elle ne peut pas changer le workflow ! 😒  
+Insérer un nouveau type d’information : elle n’a pas les droits d’en ajouter ! 😧  
+Tordre l’outil pour faire rentrer des ronds dans des carrés ? cela va impacter le suivi transverse ! 😫
 
 ![L'outil Girafe n'est pas adapté aux besoins de l'équipe]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_girafe.png)
 
@@ -91,10 +93,10 @@ Aller en page 6 pour laisser à l’équipe prendre le temps de tester des faço
 
 ## Page 6 - L'autonomie de l'équipe
 
-L’équipe se choisit un outil qu’ils connaissent déjà tous et qui est accessible par tous : Grello.  
-Il se permettent même un peu d’humour dans leur description de tableau, ils s’affectent les fonctionnalités, en change au besoin et commencent à être à l’aise dans l’estimation d’un Reste à faire.
+L’équipe se choisit un outil qu’elle connait déjà et qui est accessible par tous : Grello.  
+Elle se permet même un peu d’humour dans leur description de tableau, s’affecte les fonctionnalités, en change au besoin et commence à être à l’aise dans l’estimation d’un "reste à faire".
 
-Au bout de la première itération, ils proposent même des axes d’améliorations, en ajoutant par exemple, en plus d’un état « en test », un autre état « en tests accessibilité » qui leur parait nécessaire, toujours pour gagner en efficacité.
+Au bout de la première itération, les membres de l'équipe de Lily proposent même des axes d’améliorations, en ajoutant par exemple, en plus d’un état « en test », un autre état « en tests accessibilité » qui leur parait nécessaire, toujours pour gagner en efficacité.
 
 ![L'outil Grello est à la maiin de l'équipe]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_grello.png)
 
@@ -106,8 +108,7 @@ En les laissant choisir un outil qui les rend plus efficaces, vous avez permis �
 
 ## Page 7 - L'avis extérieur
 
-Pleine d'entrain, l'équipe de Lily fait vivre son produit. Mais au bout de quelques itérations supplémentaires, elle observe des bouchons : effectivement, dans la colonne "A tester", Lily, pour la partie accessibilité, et le testeur officiel de l'équipe ont du mal à absorber la totalité des développements qui leur sont transmis.  
-
+Pleine d'entrain, l'équipe de Lily fait vivre son produit. Mais au bout de quelques itérations supplémentaires, elle observe des bouchons : effectivement, dans la colonne "A tester", Lily, pour la partie accessibilité, et le testeur officiel de l'équipe ont du mal à absorber la totalité des développements qui leur est transmise.  
 Pas de panique : l'équipe bénéficie d'un accompagnement agile transverse à toute l'entreprise.  
 Elle se retourne donc vers vous, **coach agile** et vous demande de les aider.
 
@@ -115,7 +116,7 @@ Vous choisissez de :
 1.	Vous positionner en tant que référent agile et indiquer un maximum de tâches en parallèle -> allez page 8
 2.	Faire s’inspecter l’équipe de Lily et l’accompagner dans sa recherche de solutions -> allez page 9
 
-Le coach agile n'est pas un stylo bic 4 couleurs : il ne peut switcher de situation en trois secondes quand il a plusieurs équipes voire toute une entreprise à accompagner.
+Le coach agile n'est pas un stylo bic 4 couleurs : il ne peut switcher de situation en trois secondes quand il a plusieurs équipes, voire toute une entreprise, à accompagner.
 
 Vous avez déjà une solution possible à proposer, par expérience elle fonctionne à merveille dans une équipe voisine, vous proposez donc à l'équipe de Lily de tester le maximum de tâches en parallèle.
 
@@ -139,17 +140,17 @@ Aller en page 9 laisser à l’équipe le temps de s'inspecter et de trouver ses
 
 ## Page 9 - Les solutions de l'équipe
 
-En tant que coach agile, vous allez être un socle de l'équipe. Vous allez leur présenter les outils, les process, les astuces utiles et possibles à tester, à approuver ou non. Mais c'est bien en prenant le temps de leur présenter ces 
+En tant que coach agile, vous allez être un socle de l'équipe. Vous allez leur présenter les outils, les process, les astuces utiles et possibles à tester, à approuver ou non. Mais c'est bien en prenant le temps de leur présenter ces pratiques que vous allez les aider, et non en choisissant à leur place.
 
-Vous rappelez à l'équipe de que le maximum de tâches à parallèles sont à spécifier par état, et non par personne. Vous leur parlez aussi de la DOR (definition of ready) qui, si elle n'est pas vérifiée, peut apporter des bouchons par la suite, vous parlez qualité aussi, car peut-être que les tests bouchonnent faute de tests unitaires dès les développements, vous parlerez aussi peut-être TDD...
+Vous rappelez à l'équipe que le maximum de tâches à parallèles est à spécifier par état, et non par personne. Vous leur parlez aussi de la DOR (definition of ready) qui, si elle n'est pas vérifiée, peut apporter des bouchons par la suite, vous parlez qualité aussi, car peut-être que les tests bouchonnent faute de tests unitaires dès les développements, vous parlerez aussi peut-être TDD...
 
 ![Le coach agile est un socle pour l'équipe qu'il ou elle accompagne]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_inspection.png)
 
-Bref, vous offrez du temps et un panel de solution possible dans lequel l'équipe va venir piocher en fonction de ses propres réflexions et de ses décisions.
+Bref, vous offrez du temps et un panel de solutions possibles dans lequel l'équipe va venir piocher en fonction de ses propres réflexions et de ses décisions.
 
 **BRAVO coach agile ! vous avez donné une troisième clé à votre équipe agile !**
 
-En les laissant réfléchir quant à leur façon de faire, vous avez permis à votre équipe de se sentir légitime à tester de nouvelles choses mais aussi, vous avez planté la graine de l'amélioration continue en leur offrant cet espace de réflexion et de prise de décision.
+En les laissant réfléchir quant à leur façon de faire, vous avez permis à votre équipe de se sentir légitime à tester de nouvelles choses mais aussi, vous avez planté la graine de l'amélioration continue en leur offrant cet espace et ce temps de réflexion et de prise de décision.
 
 ![L'équipe s'inspecte, teste et s'adapte]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_bravo3.png)
 
@@ -166,11 +167,11 @@ On est un client sur-booké, on intervient sur plusieurs sujets et en plus nous 
 
 ## Page 11 - Le produit final
 
-Au bout de plusieurs itérations donc, l’équivalent d’à peu près 3 mois de développement, l’équipe a compilé 18 fonctionnalités qui sont prêtes à être livrer en production. Après la validation du client, il n’y aura plus qu’à appuyer sur un bouton pour le déployer et le rendre disponible aux utilisateurs.  
+Au bout de plusieurs itérations donc, l’équivalent d’à peu près 3 mois de développement, l’équipe a compilé 18 fonctionnalités qui sont prêtes à être livrées en production. Après la validation du client, il n’y aura plus qu’à appuyer sur un bouton pour le déployer et le rendre disponible aux utilisateurs.  
 On organise donc un point de validation avec nous, client. Forcément, il est un peu costaud parce qu’il y a 18 fonctionnalités à valider, on va partir sur 3H…
 Et là, c’est le drame ! on n’est pas du tout content !
 
-Les menus de l’application ne sont pas positionnés comme il faut, la couleur du site laisse à désirer (OK on avait demandé cette couleur, mais vous voyez bien que ça ne rend pas bien !), le navigateur compatible n’est plus le bon : vous n’avez pas lu la note interne il y a 2 semaines ? bref… tous ces retours pour la première fonctionnalité…
+Les menus de l’application ne sont pas positionnés comme il faut, la couleur du site laisse à désirer ("OK on avait demandé cette couleur, mais vous voyez bien que ça ne rend pas bien !"), le navigateur compatible n’est plus le bon : "vous n’avez pas lu la note interne il y a 2 semaines ?" bref… tous ces retours pour seulement la première fonctionnalité…
 
 ![Le client n'est pas du tout satisfait]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_revueko.png)
 
@@ -184,9 +185,9 @@ Aller en page 12 pour prendre le temps de donner des retours régulièrement à 
 
 En tant que Client, on a nous aussi notre rôle à jouer et on va se rendre disponible pour que les échanges soient plus nombreux et plus constructifs. D’ailleurs, idéalement, le client se fait lui aussi accompagner dans sa transformation agile, au même titre que l’équipe de développement.
 
-Dès l’appel de l’équipe, en fin de première itération, on va regarder attentivement ce qui fonctionne déjà : pas grand-chose ? C’est logique vu le temps passé et ce n’est pas grave : au contraire, le point va être rapide !
+Dès l’appel de l’équipe, en fin de première itération, on va regarder attentivement ce qui fonctionne déjà : pas grand-chose ? C’est logique vu le temps de développement et de tests passé et ce n’est pas grave : au contraire, le point va être rapide !
 
-On a l’opportunité d’alerter tout de suite sur la mauvaise compréhension du menu : on le préfère à gauche qu’en haut, mais sinon tout est parfait : on valide la couleur, la police et les traits parfaitement droits des cadres !
+On a l’opportunité d’alerter tout de suite sur la mauvaise compréhension du menu : on le préfère à gauche plutôt qu’en haut, mais sinon tout est parfait : on valide la couleur, la police et les traits parfaitement droits des cadres !
 
 De la même manière, à la seconde itération, l’équipe montre ce qu’elle a pu facilement modifier suite à cette première revue, ainsi que les nouvelles fonctionnalités prioritaires.  
 Etc… etc…
@@ -209,7 +210,7 @@ Mais rappelez-vous que **nous avons toutes et tous un rôle à jouer pour rendre
 ![Nous avons toutes et tous un rôle à jouer pour rendre les équipes agiles]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_tous.png)
 
 Alors rendons les clés de l'agilité à nos développeurs et développeuses, apportons leur du **temps** : 
-- Prenez le temps d’accueillir et d’intégrer les membres d’une équipe agile ou pas d’ailleurs
+- Prenez le temps d’accueillir et d’intégrer les membres d’une équipe agile (ou pas agile d’ailleurs !)
 - Prenez le temps de tester des façons de faire, des outils, des process
 - Prenez le temps de vous poser, de réfléchir à comment mieux créer, réaliser, tester…
 - Prenez le temps de donner du feedback sur ce qui est réalisé, et faites-le de manière constructive
