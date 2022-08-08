@@ -7,7 +7,8 @@ tags: [ conference ]
 image: assets/images/rendez_agilite.png
 ---
 
-Connaissez-vous les livres dont vous êtes le héros ?  
+Connaissez-vous les livres dont vous êtes le héros ?
+
 Pour celles et ceux qui ne connaissent pas, vous allez voir, c’est très amusant.  
 Je vous propose de participer à une aventure : faire vivre, au travers d’une histoire, plus ou moins fictive, les aventures de Lily, développeuse Angular depuis 2 ans. Nous allons choisir, au travers de petites scénettes, plus ou moins fictives, ce qu’elle va vivre dans ses premiers jours d’intégration dans sa nouvelle entreprise SiCool.
 
@@ -122,7 +123,7 @@ Spoiler alert : la distribution de solution magique ne fonctionne pas, mais voyo
 
 ## Page 8 - La solution magique
 
-L'équipe fait confiance à son coacg agile : elle met donc en oeuvre la solution discutée.  
+L'équipe fait confiance à son coach agile : elle met donc en oeuvre la solution discutée.  
 Problème : elle a été abordée rapidement et malheureusement mal comprise.
 
 L'équipe de Lily instaure ainsi un maximum de tâche en parallèle... par personne !  
@@ -207,7 +208,7 @@ Mais rappelez-vous que **nous avons toutes et tous un rôle à jouer pour rendre
 
 ![Nous avons toutes et tous un rôle à jouer pour rendre les équipes agiles]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_tous.png)
 
-Alors rendons les clés de l'agilité à nos développeurs et développeuses, apportont leur du **temps** : 
+Alors rendons les clés de l'agilité à nos développeurs et développeuses, apportons leur du **temps** : 
 - Prenez le temps d’accueillir et d’intégrer les membres d’une équipe agile ou pas d’ailleurs
 - Prenez le temps de tester des façons de faire, des outils, des process
 - Prenez le temps de vous poser, de réfléchir à comment mieux créer, réaliser, tester…
@@ -216,3 +217,11 @@ Alors rendons les clés de l'agilité à nos développeurs et développeuses, ap
 ![Les clés du temps et de l'agilité]({{ site.url }}{{ site.baseurl }}/assets/images/rendez_agilite_clés.png)
 
 A suivre, pour de nouvelles aventures...
+
+
+
+Un grand merci aux organisateurs de AFUP 2020, AgiLeMans 2022, DevoxxFR 2022 et Camping des Speakers 2022 de m'avoir donné la chance de donner cette conférence en visio, en live, en amphithéâtre, en extérieur... que de bons souvenirs !  
+[Lien vers les slides présentés à DevoxxFR 2022](https://noti.st/klaukf/nycPFx/rendez-lagilite-aux-developpeur-se-s)  
+[Lien vers la vidéo de DevoxxFR 2022](https://www.youtube.com/watch?v=Vo_YWAE3Pxo) en amphi bleu 😍  
+[Lien vers les slides présentés à AgiLeMans 2022](https://noti.st/klaukf/NvBrpD/rendez-lagilite-aux-developpeurs-et-developpeuses)  
+[Lien vers la vidéo de AFUP Day Tours 2020](https://www.youtube.com/watch?v=RYGyYcnbh6U)
