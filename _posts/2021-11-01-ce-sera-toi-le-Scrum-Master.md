@@ -76,4 +76,6 @@ Dans tous les cas, parler aux équipes et prendre en compte leurs retours sur ce
 
 
 
-\* [Cigref Agile at scale 2018](https://www.cigref.fr/wp/wp-content/uploads/2018/12/Cigref-Agile-at-scale-Mise-en-oeuvre-agilite-echelle-entreprise-2018.pdf)
+\* [Cigref Agile at scale 2018](https://www.cigref.fr/wp/wp-content/uploads/2018/12/Cigref-Agile-at-scale-Mise-en-oeuvre-agilite-echelle-entreprise-2018.pdf)  
+
+Article paru dans le numéro 252 de Programmez ! du 6 mai 2022
