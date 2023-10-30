@@ -58,7 +58,6 @@ Conférences :
 BBL & meetups :  
 - Insee Orléans
 
-
 ## Lego Flow Game : le Waterfall, le Scrum et le Kanban tu différencieras !
 
 ![A Mixit 2023]({{ site.url }}{{ site.baseurl }}/assets/images/LegoFLowGame_Mixit.jpg)
