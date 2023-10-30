@@ -35,7 +35,7 @@ Plusieurs scénettes peuvent être supprimées / ajoutées pour s'adapter aux fo
 
 ![A Devoxx Morocco 2022]({{ site.url }}{{ site.baseurl }}/assets/images/RendezAgilite_DevoxxMorocco.jpg)
 
-**Dates & ressources**
+**Dates & ressources**  
 Keynote :  
 - Agile Grenoble 2022 - [Lien vidéo](https://www.youtube.com/watch?v=RH7Tg3ci0lg&t=4s)
 
@@ -51,19 +51,18 @@ Conférences :
 - Devoxx Morocco 2022 (non filmé)
 - Camping des speakers 2022 - slideless (non filmé)
 - Devoxx France 2022 - [Lien vidéo](https://youtu.be/Vo_YWAE3Pxo)
+![Souvenir de Devoxx France 2022 dans l'amphi bleu]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir10.png)
 - AgiLeMans 2022 (non filmé)
 - AFUP Day en ligne 2020 - [Lien vidéo](https://www.youtube.com/watch?v=RYGyYcnbh6U)
 
 BBL & meetups :  
 - Insee Orléans
 
-![Souvenir de Devoxx France 2022 dans l'amphi bleu]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir10.png)
-
 ## Lego Flow Game : le Waterfall, le Scrum et le Kanban tu différencieras !
 
 ![A Mixit 2023]({{ site.url }}{{ site.baseurl }}/assets/images/LegoFLowGame_Mixit.jpg)
 
-**Abstract**
+**Abstract**  
 Il existe beaucoup de façon de gérer des projets ou des produits. Dans l'écosystème informatique, beaucoup de mots sont à la mode et il est difficile de s'y retrouver.
 
 Nous vous proposons un atelier, basé sur des Lego, pour expérimenter trois façons de gérer en équipe les fonctionnalités d'un produit :
@@ -78,11 +77,11 @@ Venez participer à cet atelier ludique et vivant à base de briques colorées !
 ![Lego manipulés pendant la session de jeu]({{ site.url }}{{ site.baseurl }}/assets/images/LegoFLowGame_jeu.png)
 ![Avec Aude DEVANNEAUX d'Apside à Devoxx France 2023]({{ site.url }}{{ site.baseurl }}/assets/images/LegoFlowGame_DevoxxFrance.jpg)
 
-**Détails**
+**Détails**  
 Le Lego Flow Game est un jeu sérieux comme je les affectionne : il a un réel objectif, celui de faire manipuler des notions qu'on ne voit pas forcément en entreprise, de manière ludique et donc facilement mémorisable.
 Je le pratique systématiquement en formation de découverte à l'agilité pour aider les apprenants à comprendre rapidement les différences entre chacune des façons de faire.
 
-J'ai documenté son fonctionnement dans un article de blog : https://klaukf.github.io/blog/Lego-Flow-Game/
+J'ai documenté son fonctionnement dans un [article de blog](https://klaukf.github.io/blog/Lego-Flow-Game/).
 
 L'atelier et le débrief durent 50 minutes, auxquelles peuvent s'ajouter la présentation des notions manipulées dans un contexte plus formel et surtout, le mode opératoire pour rejouer l'atelier en entreprise ou en formation. Le but est de partager ! Il peut donc être joué sur 50min, 1h, 2h ou plus.
 
@@ -90,7 +89,7 @@ Il est limité à 30 participants.
 
 ![A DevFest Nantes 2023]({{ site.url }}{{ site.baseurl }}/assets/images/LegoFlowGame_DevFestNantes.jpg)
 
-**Dates & ressources**
+**Dates & ressources**  
 Ateliers non filmés en conférence :  
 - DevFest Nantes 2023
 - Volcamp 2023
@@ -107,15 +106,15 @@ Ateliers non filmés en meetup :
 
 ## 1, 2, 3 le Scrum Master ce sera toi !
 
-**Abstract**
+**Abstract**  
 Que nous soyons adeptes de l’agilité sous chacune de ses formes, ou bien complètement newbee, nous avons pu faire face à des pratiques bien étranges lors de la mise en place d’équipes dites « agiles ». Parce que les frameworks connus, ou bien les adaptations que nous en faisons, ne définissent pas une méthode à suivre à la lettre mais plutôt une proposition de bonnes pratiques, certaines organisations d’équipes se cherchent, tâtonnent et parfois, se perdent.
 
 La définition et l'utilité du rôle du Scrum Master en entreprise en sont la parfaite démonstration : quelles sont ces situations parfois étranges rencontrées ?
 Quelles sont les bonnes questions à se poser ?
 Quels sont les points d'attentions à garder en tête pour protéger notre petit cœur agile ?
 
-**Détails**
-Ce talk est issu d'une réflexion mise "sur papier" dans mon premier article de blog : https://klaukf.github.io/blog/ce-sera-toi-le-Scrum-Master/ et paru dans Programmez.com n°252 de cette année.
+**Détails**  
+Ce talk est issu d'une réflexion mise "sur papier" dans mon premier [article de blog](https://klaukf.github.io/blog/ce-sera-toi-le-Scrum-Master/) et paru dans Programmez.com n°252 de cette année.
 
 Il n'essaie pas d'ériger une seule et unique manière de faire mais bien d'analyser les différentes situations que l'on peut vivre "pour de vrai" et de donner des tips pour s'adapter, afin que l'agilité (et le rôle de facilitateur) ne soit pas vue comme une énième mauvaise expérience professionnelle parce que mal implémentée.
 
@@ -129,7 +128,7 @@ Seront passées en revue, les situations suivantes :
 
 Sur la base des souffrances ressenties par les équipes de développements lorsqu'il est décidé / imposé de fonctionner en mode Scrum, les participant·e·s ressortiront avec les points de vigilances de chacune des situations et ainsi, peut-être, être légitimes et conscients de changer les choses dans leur propre situation.
 
-**Dates & ressources**
+**Dates & ressources**  
 Conférences :
 - Riviera Dev 2023 (format 50min) - non filmé
 - Agile Tour Toulouse 2023 (format 50 min) - non filmé
@@ -139,14 +138,14 @@ Conférences :
 
 ## Mister WIP in Factory Town©
 
-**Abstract**
+**Abstract**  
 Charly WIP est un fermier solitaire habitant Factory Town©️. Le jour où plusieurs familles s’installent dans sa ville, il doit soudainement faire face à l’augmentation des besoins en nourriture, en eau et en transports. Installé depuis longtemps dans les environs, il est catapulté chef des opérations et doit assurer la pérennité de Factory Town©️.
 
 Sur la seule base de sa logique et du peu de moyens qu’il possède, Wip invente alors un système d’optimisation de process à qui il donnera son nom : le Work In Progress.
 
 Venez découvrir une explication et une illustration décalée de ce qu’est l’optimisation de process par la WIP limit, grâce à mon jeu favori du moment : Factory Town©️.
 
-**Détails**
+**Détails**  
 Après avoir introduit les notions de Work In Progress (souvent utilisé dans les équipes de développement et les équipes ops au travers de Kanban), je propose d'illustrer le principe de manière visuelle sur la base d'une démonstration de mon jeu favori du moment : Factory Town©️.
 
 Parce que la WIP limit dépend de beaucoup d'éléments, il n'est pas chose facile de l'expliquer à une équipe qui a intérêt à l'utiliser.
@@ -154,7 +153,7 @@ Le voir jouer (et pouvoir le rejouer) est une façon ludique et pérenne pour le
 
 Il s'agit d'une nouvelle conférence, donnée pour la première fois à la rentrée de septembre 2023, il s'agit d'un quickie ou d'une petite conférence adaptable entre 15 et 35 minutes.
 
-**Dates & ressources**
+**Dates & ressources**  
 Conférences :
 - Agile Tour Rennes 2023 - format 25min
 - Jug Summer Camp 2023 - format 15min - [Lien vidéo](https://youtu.be/Q7fny1Tbjbg?list=PL4Z_Bm3ccVwf0w1N0sHqww80I2MZuXp4Z)
