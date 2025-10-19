@@ -28,11 +28,15 @@ Je pense aux organisatrices et organisateurs, aux bénévoles, aux speakers, aux
 
 ![Entrée du DevFest Nantes 2025]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/entreeDevFestNantes2025.png)
 
+
+
 ## Jeudi 16 octobre : premier jour féérique
 
 Mangez bien au premier petit-déjeuner d'une conférence : vous ne savez pas quand vous allez pouvoir vous octroyer du temps pour vous ré-alimenter entre tant de sujets d'ateliers et de conférences intéressants et de discussions passionnantes...  
 Car même si l'organisation a tout prévu pour nous maintenir en vie et de bonne humeur, il se peut que vous soyez très vite accaparé...  
 ou prévoyez des Pom'potes ;-)
+
+
 
 ### Chapitre 1 : Il était une fois DevFest Nantes 2025
 L'amphi Jules Verne se remplit, les bénévoles et les orgas sont déjà aux petits soins pour nous placer le mieux possible.  
@@ -43,6 +47,8 @@ C'est un Jef-Dracula et une Annabelle-Poppy qui ouvrent ce premier chapitre de p
 La scène est majestueuse, les costumes sont incroyable (bravo Ptibulle !) et j'ai beaucoup de mal à retranscrire en live l'émotion d'être présente (je me relirai posément par la suite et rajouterai ceci : je suis toujours dans l'émotion de cette ouverture deux jours après ^^).  
 
 ![Annabelle-Poppy et l'équipe]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/AnnabellePoppy.png)
+
+
 
 ### Chapitre 2 : Keynote - Advice Well Taken - Dasha Ilina
 
@@ -83,6 +89,7 @@ Lien vers les slides - *à venir*
 Lien vers la vidéo de Dasha - *à venir*  
 
 ![Dasha en Keynote inspirante en amphi Jules Verne]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/DashaKeynote.png)  
+
 
 
 ### Chapitre 3 : La légende des Lecteurs d'Ecran : une odyssée sensorielle au coeur de nos apps - Océane Gillard et Patrice de Saint Steban
@@ -161,6 +168,7 @@ Lien vers les slides - *à venir*
 ![Océane et Patrice de Zenika pendant leur atelier]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/OceanePatriceAccessibilite.png)
 
 
+
 ### Chapitre 4 : Charmer les dragons : pitcher son produit comme un héros - Montaine Marteau et Rachel Dubois
 
 13h28 je suis dans la salle Les Machines.  
@@ -235,12 +243,10 @@ Terramate se lance toutes les nuits (pas forcément sur toutes les stacks, il es
 
 Mon avis : je suis carrément convaincue que Terramate peut être un outil facile à installer et à utiliser. Mais comme l'a précisé Mathieu, la partie CI/CD se doit d'être travaillée en amont. Je vois donc cette étape comme une deuxième marche intéressante à monter une fois une CI minimale posée.
 
-
-![Mathieu en salle Bretagne]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/MathieuTerramate.png)
-
 Pour suivre Mathieu, ça se passe par sur LinkedIn : [mathieu-herbert-347b0b7a](https://www.linkedin.com/in/mathieu-herbert-347b0b7a/)  
 Lien vers les slides - *à venir*
 Lien vers la vidéo de Mathieu - *à venir*
+
 
 
 ### Chapitre 6 : OSINT : L'art de trouver ce qui ne devrait pas être trouvé - Marie Viley
@@ -273,6 +279,7 @@ Lien vers les slides - *à venir*
 Lien vers la vidéo de Marie - *à venir*
 
 
+
 ### Chapitre 7 : Bilan de la première journée
 
 Quelle journée ! 
@@ -282,9 +289,12 @@ De mon programme initialement écrit, je n'ai loupé qu'une seule conférence, q
 Lien vers la playlist complète des vidéos - *à venir*
 
 
+
 ## Vendredi 17 octobre : deuxième jour incroyable !
 
 Réveil matinal pour la bonne cause : le programme de cette deuxième journée est encore une fois complet !  
+
+
 
 ### Chapitre 8 : Karpenter * Keda : le duo gagnant du FinOps - Guillaume Membré et Sébastien Fourreau
 
@@ -352,6 +362,7 @@ Lien vers les slides - *à venir*
 Lien vers la vidéo de Guillaume et Sébastien - *à venir*
 
 
+
 ### Chapitre 9 : Révolutionnez votre prise de notes : du Bullet Journal à Obsidian - Hoani Cross
 
 C'est la toute première conférence pour Hoani, et il a assuré.  
@@ -409,10 +420,12 @@ Lien vers les slides - *à venir*
 Lien vers la vidéo de Hoani - *à venir*
 
 
+
 ### Chapitre 10 : Rencontre avec mes nouveaux collègues de CGI Nantes
 
 Contexte particulier du jour : ce n'est pas un stand Apside mais un stand CGI qui nous réprésente cette année à DevFest Nantes 2025.  
 J'en profite donc pour faire connaissance, notamment avec l'elfe-sauveuse Anne-Claire CHIARENZA et Cédric LE BRETON : m'est avis que nous allons écrire une belle histoire commune tout bientôt. C'est aussi ça la magie des contes 😇  
+
 
 
 ### Chapitre 11 : Agents intelligents, la nouvelle frontière des LLMs - Guillaume Laforge
@@ -476,6 +489,7 @@ Lien vers les [slides de Guillaume](hhttps://speakerdeck.com/glaforge/ai-agents-
 Lien vers la vidéo de Guillaume - *à venir*
 
 
+
 ### Chapitre 12 : Quand le Terminal dévore la UI : TUI pour tout le monde ! - Thierry Chantier
 
 Fan de panda, de métal et de terminaux, Thierry nous présente le principe TUI.  
@@ -518,6 +532,7 @@ Lien vers les slides - *à venir*
 Lien vers la vidéo de Thierry - *à venir*
 
 
+
 ### Chapitre 13 : JBang, un fichier Java pour les gouverner tous ? - Stéphane Philippart
 
 Alors on ne va pas se mentir, le sujet, je le connais, le présentateur, je le connais, et en fin de dernière journée c'était exactement ce qu'il me fallait : un sujet à re-découvrir, adapté en mode contes et légendes.  
@@ -537,6 +552,7 @@ Et big-up aussi à Ambre Person, MC (maître de cérémonie) de Stéphane pour l
 Pour suivre Stéphane, ça se passe sur Bluesky : [@wilda](https://bsky.app/profile/wilda.bsky.social)  
 Lien vers les slides - *à venir* 
 Lien vers la vidéo de Stéphane - *à venir*
+
 
 
 ### Chapitre 14 : Embellir des QR Codes à l'ère de la GenAI - Raphaël Semeteys
@@ -571,6 +587,7 @@ Lien vers les slides - *à venir*
 Lien vers la vidéo de Raphaël - *à venir*
 
 
+
 ### Chapitre 15 : Keynote de clôture : mais quelle sera-t-elle cette fois-ci ?!
 
 Et bien, après avoir eu la chance, il y a deux ans, de monter sur scène pour une session Burger Quizz façon Pop-Corn sur le thème du cinéma, ce soir c'est une troupe de théâtre d'improvisation qui nous fait rire à l'unisson : métier de Cloud Architect revu et corrigé façon moyennageuse en Architecte de nuages, exercices de répartition de la parole et d'inventions de situations les plus cocasses... C'était la meilleure façon de clôturer cette édition.  
@@ -578,6 +595,7 @@ Et bien, après avoir eu la chance, il y a deux ans, de monter sur scène pour u
 Un grand merci à la [troupe la Faltazi](https://lafaltazi.com) !  
 
 ![La joute de la Faltazi]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/faltazi.png)
+
 
 
 ## Bilan de cette édition DevFest Nantes 2025
