@@ -4,737 +4,598 @@ title:  "Mon DevFest Nantes 2025 à moi !"
 author: fanny
 categories: [ event ]
 tags: [ devoxx ]
-image: assets/images/devoxxFR2.png
+image: assets/images/DFN25/DevFestNantes2025.png
 ---
 
-ENFIN !! je crois que c'est le mot qui résume le plus l'attente (3 ans quand même !), les retrouvailles, les allers et venues dans les couloirs Neuilly et Paris, l'arrêt aux stands, les discussions avec les copains et les copines... Que ça fait du bien !
-Retour en images et en texte de cette spéciale 10 ans de DevoxxFR...
+Ma dernière conférence en tant qu'attendee ? elle remonte à très très loin...  
+Inutile de dire que j'attendais DevFest Nantes 2025 avec impatience !  
 
-## Mardi 19 avril : prépa physique et mentale
 
-Cela fait deux jours que le stress gagne chacun de mes organes vitaux et m'empêche de correctement dormir et manger.
-Il y a quelques jours j'apprends que je donnerai ma conférence "Rendez l'agilité aux développeurs et développeuses !" en amphi bleu. Le grand amphi bleu. L'ÉNORME amphi bleu. Il n'y a plus qu'à espérer que les spots m'aveuglent suffisamment pour que je n'y voie rien !
+## Mercredi 15 octobre : préparation et voyage
 
-Après un faux départ (oubli de chargeur de portable, c'eut été dommage...), en route pour Paris depuis Saint Pierre des Corps (à 4km de Tours 😜).
+"Le succès dépend de la préparation, et sans une telle préparation, il y aura certainement un échec."  
+*Confucius*  
 
-On retrouve les potos pour partager un repas sympathique et on oublie la pression, car comme dirait un grand homme, qui vit avec moi : "La pression ça se boit !"
+Du coup, la question logique qui me vient immédiatement : quelqu'un a vu mes oreilles d'elfes ?  
+*Spoiler : mon DevFest Nantes a été une grande réussite ^^*  
 
-## Mercredi 20 avril : tranquille !
+Non, en vrai, voyager la veille d'une conférence, c'est s'assurer d'être présente avant l'heure le lendemain et se garantir une place de choix dans un des plus beaux amphi que j'ai pu voir : Jules Verne à la Cité des Congrès de Nantes.  
+Bon, par contre, cela ne garantit pas d'éviter les retards et de découvrir une ville de Nantes by night. Au demeurant, cette première soirée a été jolie de retrouvailles (coucou Titi, MatV.Pokora, Temu et Stef !).  
 
-### Ce que l'on retrouve
+Pourquoi cette partie de l'hitoire est importante ?  
+Parce qu'en nous rendant chacun à notre hôtel, nous sommes passés devant la Cité des Congrès où s'affichait déjà fièrement la devanture du DevFest : magistrale de finesse et de beauté : des livres et grimoires posés, attendant d'être ouverts...  
+Je pense aux organisatrices et organisateurs, aux bénévoles, aux speakers, aux sponsirs, aux participantes et participants qui ont eu la chance d'avoir des places... et me dit que je ne serai pas la seule ce soir à avoir du mal à trouver le sommeil par tant d'excitation !  
 
-Par rapport aux autres éditions, il y a beaucoup de choses qui n'ont pas changé et qu'on aime retrouver (d'ailleurs, on vient surtout pour ça !) : les gilets rouges qui assurent, les "oh tiens tu es là toi ? ça va ? la famille ? imotep !", 
+![Entrée du DevFest Nantes 2025]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/entreeDevFestNantes2025.png)
 
-Il y a aussi la partie stand que j'affectionne particulièrement : il y a trois ans, lors de l'édition 2019, je cherchais, l'âme en peine, une solution à mon avenir professionnel. CV à la main, j'avais fureté sur les stands et énormément échangé sur la vision des équipes de dev alors. C'est là que l'arrivée de 10 techs en sweat Apside m'avait tapée dans l'oeil. Une année chargée d'émotions donc, qui me fera toujours aimer échanger avec les boîtes présentes.
+## Jeudi 16 octobre : premier jour féérique
 
-### Ce qui change
+Mangez bien au premier petit-déjeuner d'une conférence : vous ne savez pas quand vous allez pouvoir vous octroyer du temps pour vous ré-alimenter entre tant de sujets d'ateliers et de conférences intéressants et de discussions passionnantes...  
+Car même si l'organisation a tout prévu pour nous maintenir en vie et de bonne humeur, il se peut que vous soyez très vite accaparé...  
+ou prévoyez des Pom'potes ;-)
 
-Non mais vous avez vu ce stand d'accueil ?? Cette bannière magistrale, cette organisation impeccable, ces gilets rouges au top !
-![Le site d'accueil pour retirer les pass]({{ site.url }}{{ site.baseurl }}/assets/images/devoxxFR.png)
-C'est un bonheur de venir retirer son pass la veille !
+### Chapitre 1 : Il était une fois DevFest Nantes 2025
+L'amphi Jules Verne se remplit, les bénévoles et les orgas sont déjà aux petits soins pour nous placer le mieux possible.  
+C'est un Jef-Dracula et une Annabelle-Poppy qui ouvrent ce premier chapitre de présentation d'avant Keynote.  
 
-Bien-sûr, n'ayant pas eu la chance de pouvoir participer à la session 9 3/4 , c'est ma première aventure Devoxx masquée. L'année prochaine je viens avec un loup ! (le masque, pas l'animal, ça ne serait pas très pratique...)
+![Jef-Dracula]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/JefDracula.png)
 
-Les couloirs sont jonchés de photos souvenirs des années précédentes, depuis 2012 : je peux vous dire que personne n'a pris une ride !
+La scène est majestueuse, les costumes sont incroyable (bravo Ptibulle !) et j'ai beaucoup de mal à retranscrire en live l'émotion d'être présente (je me relirai posément par la suite et rajouterai ceci : je suis toujours dans l'émotion de cette ouverture deux jours après ^^).  
 
-### La révolution (wasm) est incroyable parce que vraie - Philippe CHARRIERE et Laurent DOGUIN
+![Annabelle-Poppy et l'équipe]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/AnnabellePoppy.png)
 
-![Laurent et Philippe sont prêts]({{ site.url }}{{ site.baseurl }}/assets/images/wasm4.png)
+### Chapitre 2 : Keynote - Advice Well Taken - Dasha Ilina
 
-Première université de 3h pour ce mercredi matin.
-Ce que j'apprécie avec ces deux grands messieurs, c'est que ce sont des gens intelligents qui ne vous font pas sentir bêtes (merci à eux !) : je comprends quand ils m'expliquent quelque-chose 😁
+Dasha est une artiste qui questionne notre obsession de la technologie au travers de ses différents projets :  
+- Surveillance dans les villes
+- étude des douleurs physiques ressenties par rapport à nos usages du numérique
+- observation du temps passé sur nos outils (surtout pendant la période COVID)
+- observation des outils dans le domaine social
+- question autour du stockage d'énergie dans notre recherche permanente du tout électrifié
 
-Ça parle Flash, ActiveX, applets Java, bref, ça ravive des souvenirs lointains.
-On arrive au Javascript mais en termes de design et de graphisme, c'est à parfaire => qu'est-ce qui peut nous sauver ?
-EMScripten avec asm.js ? joli essai.
-WebAssembly !! le fameux wasm : on va régler les soucis des navigateurs, sans remplacer Javascript pour autant, ne confondons pas !
-Il s'utilise partout, y compris sur JVM.
+Alors qu'elle zoome sur le projet "conseil bien suivi" aka "Advice Well Taken", Dasha nous montre deux ressources qui l'ont inspirée dans son projet artistique :  
+- un site web qui recense et document différentes histoires et contes
+- un autre site web, plus ancien, dont la dernière parution date de 1971, "The Last Whole Earth Catalog" dont le but était de partager des informations sur les modes de vie alternatifs et les outils associés, et que Dasha analyse comme un précurseur de nos usages de nos réseaux aujourd'hui. 
 
-Wasm s'exécute partout : Javascript (navigateur et Node.js) GraalVM, runtimes...
-et parle toutes les langues : C/C++, Rust, Golang, Swift... et se voit dédié certains langages : AssemblyScript et Grain par exemple.
-Je vous invite à regarder la slide 35 qui récapitule tout bien => j'indiquerai le lien vers la présentation ASAP.
+A partir de ces observations, elle a l'idée de nommer le folklore autour de la Tech : le "Techklore".  
 
-Ensuite nous passons à la partie démo, vous la trouverez dans la vidéo YouTube sur la chaîne DevoxxFR : à venir.
-ça parle de pointeurs de mémoire (oups!), d'émojis 😉, d'accès au système d'exploit avec WASI (spoiler : jeu de mot pictural à suivre), wasmer, wasmtime, wasmedge... 
+Alors y a-t-il un équivalent aujourd'hui ?  
+OUI dans la façon dont nous partageons les informations sur nos différents réseaux sociaux.  
 
-![WASI]({{ site.url }}{{ site.baseurl }}/assets/images/wasm5.png)
+De ces usages, toujours plus importants, surgit la question de la limite entre paranoïa et risques réels encourus : sommes nous surveillés ? espionnés ? utilisés ?  
+Dasha parcourt un certain nombre de cas qui nous font sourire, mais réfléchir aussi : 
+- utilisation du cache-caméra, d'un bout de scotch sur l'entrée du micro de nos ordinateurs
+- nos commportements de contournement, comme l'utilisation de nos téléphones sous la douche pour écouter la musique (à l'époque hein ! maintenant il y a des enceintes bluetooth pour cela les gens !!)
+- nos convictions partagées mais pas toujourss rationnelles (mettre son téléphone dans du riz cru lorsqu'on a renversé du liquide dessus, réparer les micro-fissures de son écran de téléphone avec du dentifrice...)
 
-On passe un très bon moment : merci à tous les deux !
+Force est de constater qu'on ne comprend pas toujours comment fonctionne nos produits (téléphone, application, connexions...) mais on les utilise massivement, en confiant ces tâches à des Big Techs qui conservent leurs façons de faire secrètes.  
 
-Pour suivre Laurent et Philippe sur twitter, ça se passe par là : [@ldoguin](https://twitter.com/ldoguin) et [@k33g_org](https://twitter.com/k33g_org)  
-Lien vers les [slides](https://docs.google.com/presentation/d/1XvZZK9JK7MDgbVxy5J-sGHdym6AzVwXQ4dc-Sft9iko/edit?usp=drivesdk)  
-Lien vers la [vidéo de Philippe et Laurent](https://www.youtube.com/watch?v=ePnnbRHdNsI)
+Si je résume : moins on en sait, plus on fait confiance ?  
+La force de l'effet boîte noire.  
+Même si on est réfractaire au début d'une nouvelle façon de faire, quand le groupe valide un usage, on est rassuré et on passe le pas.  
 
-![Nous sommes en salle Neuilly 252 AB et il y a beaucoup de monde]({{ site.url }}{{ site.baseurl }}/assets/images/wasm3.png)
+Alors au final, a-t-on le pouvoir sur nos outils ?  
+pas sûre...  
 
-### Architecturoplastie hexagonale d'un backend Node.js : Opération à coeur ouvert - Jordan NOURRY, Adrien JOLY et Julien TOPCU
 
-Bienvenue à Shodopital, nos trois internes charcutent et décortiquent du code pour en tirer le plus de bénéfices possibles.
-Première biopsie clean-codienne : on clarifie notre code !
+Pour suivre Dasha sur les réseaux, ça se passe sur Instagram : [dashesandcommas](https://www.instagram.com/dashesandcommas/)  
+Lien vers les slides - *à venir* 
+Lien vers la vidéo de Dasha - *à venir*  
 
-![Les mains sont propres, on peut commencer l'opération dans le bloc]({{ site.url }}{{ site.baseurl }}/assets/images/nodejs1.png)
+![Dasha en Keynote inspirante en amphi Jules Verne]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/DashaKeynote.png)  
 
-On précise nos paramètres, on refactore doucement mais sûrement, on reboote le patient (si ! si ! c'est possible !) et on redonne du sens pour éclaircir la compréhension du code.
-Même les tests d'intégration présents sont piégeux ! et les changements en codebase ne sont pas trackés => comment faire ?
 
-Non, on n'utilise pas un bistouri, on va casser l'ordinateur... Non, on va plutôt s'intéresser au comportement attendu des APIs et créer des approval tests. Et on teste régulièrement ! à chaque modification ! le pas à pas.
-On supprime les undefined et les null.
+### Chapitre 3 : La légende des Lecteurs d'Ecran : une odyssée sensorielle au coeur de nos apps - Océane Gillard et Patrice de Saint Steban
 
-Le nom des fonctions doit signifier ce que fait la fonction : on s'allège ainsi la charge mentale de relecture de tout le code pour le comprendre.
+Il y a plusieurs façon de participer en tant qu'attendee à une conférence. la première consiste à assister, écouter, s'enrichir, noter en étant assis dans un siège puis poser des questions éventuellement aux speakers en fin de présentation. Cela demande déjà de sortir de sa zone personnelle de sécurité (se mêler à la foule, oser poser une question...)  
+La seconde demande un effort supplémentaire (mais tellement enrichissante !) : aller en atelier, prendre en main une problématique, essayer de la résoudre... au risque d'échouer ? non, au risque d'apprendre encore plus !  
+Ni une ni deux, c'est l'occasion pour moi de surmonter mon illégitimité à pratiquer (depuis que je ne code plus qu'en side projects), et découvre les possibilités d'amélioration d'accessibilité des sites par la pratique.  
 
-Enfin, on centralise le fonctionnel et sa complexité : on arrête de la disperser un peu partout dans notre architecture ! (à bon entendeur...)
+*petite émotion supplémentaire : l'atelier se passe en salle Machines, qui se trouve être la salle où j'ai donné mon atelier avec Stéphane Philippart il y a deux ans et qui est un de mes meilleurs souvenirs d'atelier...*
 
-Le but de l'architecture hexagonale, est donc d'inverser le sens de la dépendance entre la couche domain et la couche de persistence, normalement rencontré dans le modèle classique.
 
-Controller ->use-> Domain <-use<- Persistence
+Océane et Patrice ont eu l'idée de cet atelier à la suite d'un projet de refonte du site de la MAIF.  
+Si, on le sait, des règlementations existent depuis 2005 via une loi obligeant les services numériques publics à être accessibles, il a fallu des amendes pour "convaincre" les entreprise de sauter le pas.  
 
-Domain devient un hexagone où les objets métiers sont centralisés.
+Après avoir parlé de WCAG avec les différents niveaux d'accessibilité AAA et la transposition française RGAA, nous passons en mode atelier :
+- installer l'outil d'accessibilité android ✅
+- vérification des différents moyens de parcourir un site sur téléphone et... on se lance ! Paramètres > Accessibilité > TalkBack > Utiliser
 
-Pour suivre Jordan, Adrien et Julien, ça se passe par là : [@JkNourry](https://twitter.com/JkNourry) , [@adrienjoly](https://twitter.com/adrienjoly) et [@JulienTopcu](https://twitter.com/JulienTopcu)  
-Lien vers les [slides](https://slides.com/julientopcu/architecturoplastie-hexagonale-dun-backend-nodejs-operation-code-ouvert)  
-Lien vers la [vidéo de Jordan, Adrien et Julien](https://www.youtube.com/watch?v=r2XMwAUqZBA)
+*Attention : je suis sous Androïd (un magnifique Samsung des années 2010), les manipulations seront différentes si on est sous iOs.*  
 
+On commence par comprendre la navigation de base :  
+- un clic > description de ce que c'est (texte, bouton, ...)  
+- 2 clics > activation 
+On déroule ainsi le mode opératoire disponible via Talkback pour apprendre à revenir sur l'écran d'accueil, à aller sur une application récemment ouverte, à monter et baisser le son du TalkBack, à revenir sur la page précédente... et l'ouverture du menu TalkBack en appuyant sur l'écran avec trois doigts (ne serait-ce que pour l'arrêter pour le reste de la journée, sous peine de s'entendre décrire les notifications reçues à tout bout de champs ^^).
 
-![Nous sommes en salle Neuilly 252 AB et il y a beaucoup de monde.]({{ site.url }}{{ site.baseurl }}/assets/images/nodejs2.png)
+ça parait facile hein ?  
+ma galère à moi : bien voir... bon mais ça biaise tout l'exercice -> merci aux speakers de nous avoir fournis des bandeaux !!!
 
-Et n'oubliez pas, nous co-organisons, avec CraftsRecords et TADx, le Tremplin des speakers le 3 mai à Tours pour donner la chance à des speakers débutants de gagner une conférence au Camping des speakers, dans le Golfe du Morbihan les 9 & 10 juin 2022.
-Inscriptions pour faire partie du public-jury du tremplin le 3 mai => [lien eventbrite](https://www.eventbrite.fr/e/billets-le-tremplin-du-camping-des-speakers-306273120147)
+![Les quêtes d'accessibilité de la journée]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/queteAccessibilite.png) 
 
+Première quête : on se noue les bandeaux sur les yeux et on essaie d'utiliser la calculatrice. Déjà, il faut la trouver dans nos menus. Léger biais : je sais exactement où trouver l'application en favoris sur la deuxième page de mon écran d'accueil.  
+Une fois lancée et malgré le peu de boutons possibles, on subit déjà la recherche sur l'écran tactile sans repère. Heureusement, le fonctionnement "à deux étapes" permet de tâtonner gentiment : on clique sur le 4 (enfin on essaie) et tant qu'on ne le trouve pas, on ne double-clic pas pour l'activer.
+Biais supplémentaire : je connais très bien mon clavier de calculatrice, qu'en serait-il d'un clavier inconnu ?
 
-### Rendez l'agilité aux développeurs et développeuses ! - votre humble serviteuse
+Deuxième quête : touver la distance entre DevFest Nantes et Zenika Nantes -> ce n'est pas "juste" chercher Zenika...  
+Je triche un peu au départ et choisis mon application google Maps après moults péripéties à ne pas trouver l'application les yeux fermés...  
+puis... la découverte : on ne peut pas tâtonner, comme pour la calculatrice, l'ensemble du clavier alpha-numérique de la barre de recherche et double-cliquer que lorsqu'on valide le carctère choisi. Il va falloir balayer le clavier jusqu'à ce que la lettre entendue vous convienne.  
+On s'y fait assez vite (même si mes gros doigts n'aiment pas le "a", je ne sais pas pourquoi).  
+Là aussi autre biais : je sais que mon clavier est azerty et j'ai l'habitude de taper au clavier, donc je sais à peu près où aller chercher mes lettres.  
 
-Le palpitant accélère petit à petit depuis la fin de la dernière université (peut-être même pendant). Trop pour me concentrer sur une autre conférence.
-248 inscrits sur l'application Devoxx, syndrome de l'imposteur au max, je pense à mon premier jury de guitare classique quand j'étais au CP : même envie irrésistible de monter sur scène mais pour faire une blague et repartir aussitôt.
+Mais ça ne s'arrête pas là : il faut trouver l'info précise de la distance : les yeux ouverts et bien voyants, c'est facile de cliquer au bon endroit, mais les yeux fermés, c'est une autre paire de manche.  
+Il faut balayer avec un doigt vers la droite pour passer d'information en information, et écouter patiemment si on obtient l'information tant recherchée...  
+au total : 21 balayages pour savoir que je suis à 1,5km de Zenika Nantes ! Cela interroge aussi sur la logique de lecture d'un écran et/ou le nombre d'informations sur une page.  
 
-J'attends sagement mon tour, entourée des personnes adorables (Stéphane en premier mais aussi Jérémy, Faustine, Corentin, Yann-Thomas, Olivier, Christophe, Thibault, et j'en oublie ! pardon...). Je passe dans les mains du technicien (adorable aussi), Adrien et Arnaud me rassurent à la dernière minute : merci à tous !
+Troisième et dernière quête sur téléphone (je n'ai pas réussi sur le moment dans le temps imparti mais j'y suis revenue par la suite) : aller sur le site de DevFest Nantes et trouver le nombre de participants...  
 
-![Allez, il faut y aller !]({{ site.url }}{{ site.baseurl }}/assets/images/rendez1.png)
+Moralité de l'histoire : nos téléphones ne sont pas organisés de manière accessibles, on ne sait pas par coeur où chercher.
+En réalité, les personnes qui ont l'habitude d'utiliser TalkBack "écoutent vite" là où nous avons tâtonné.  
+Autre retour intéressant d'une personne mal voyante : l'aspect spatiale du clavier "impalpable" du téléphone est déroutant vis-à-vis d'un clavier de PC où on peut se sentir plus à l'aise avec les touches sans les voir.  
 
-J'ai adoré la prise de risque, j'ai aimé préparer, répéter, partager, rencontrer des gens grâce à ce partage... Un grand merci aux organisateurs et aux membres du comité de sélection de m'avoir offert cette occasion unique !
+C'est aussi un avantage des applications mobiles versus les pages webs : les informations sont réduites au minimum ce qui limite un peu la navigation et permet d'aller vite à l'info recherchée.  
+Et l'IA dans tout ça ?  
+En tant qu'utilisateur, se servir de l'IA pour balayer un site, c'est bien et ce n'est pas bien  : c'est bien quand la conception du site sur lequel on est n'est pas waouh. L'IA permet alors de potentiellement l'améliorer. Mais elle risque de rentrer en concurrence de certaines notions voir faire des contre-sens.  
 
-Pour me suivre, ça se passe par là : [@klf37](https://twitter.com/klf37)  
-Lien vers les [slides](https://noti.st/klaukf/nycPFx/rendez-lagilite-aux-developpeur-se-s)  
-Lien vers la [vidéo](https://www.youtube.com/watch?v=Vo_YWAE3Pxo)
+On passe maintenant à l'analyse et la correction d'un site au niveau accessibilité : balises html `div` utilisées à tort et à travers, contrastes pas optimisés... On analyse le code et on teste la navigation via TalkBack sur nos téléphones.  
+On apprend rapidement et efficacement de nos "erreurs", j'aime beaucoup cette façon d'itérer. Et en plus l'atelier est pensé de telle façon que quoiqu'il arrive, nous aurons la correction a posteriori.
 
-### Créer & distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! - Aurélie VACHE et Gaëlle ACAS
+Les premiers tips que je me suis notés :
+- utiliser des balises `<alt>` pour décrire les images, les vidéos... même pour votre SEO c'est utile ! A la rigueur, si on ne veut pas forcément la retranscrire parce que l'image n'est pas importante (d'abord, pourquoi l'ajouter alors ? ) mais à la rigueur indiquer un `<alt>` vide.  
+- l'information ne doit pas être portée uniquement par la couleur : elle doit être doublonnée par du texte, une icône détaillée... quelque chose qui permette de faire le focus dessus.
+- donner les informations importantes en premier, c'est-à-dire faire le focus sur les usages prioritaire : j'ai bein aimé l'exemple très parlant, sur nos boîtes mail, lorsque nous souhaitons écrire un mail, nous ne voudrions pas balayer TOUS les mails de notre messagerie avant de pouvoir cliquer sur le petit + (non au scroll infini ^^)
+- repenser la lecture "naturelle" pour qu'elle devienne plus "logique" avec le tabindex=0
+- Aria-live : pour avertir d'une nouveauté, soit en mode polite (attend ce qui est en train de se lire avant de prendre la parole) ou assertive (il coupe la parole parce que c'est vraiment important, genre pour une erreur).
+- typer les titres / boutons pour s'adapter au mode de lecture voulu par l'utilisateur (qui peut effectivement choisir de lire d'abord les titres)
 
-Grâce à une super organisation des talks, j'ai pu assister à cette présentation pêchue et accessible pour nous autres communs des mortels !
+Alors quid des framework incluant de l'accessibilité ? il faut faire le même travail d'analyse ! ce n'est pas parce que le framework apporte ses composants accessibles, qu'ils sont de base bien utilisés : à vos loupes, Sherlock Holmes en herbe !
 
-![En place]({{ site.url }}{{ site.baseurl }}/assets/images/kube1.png)
+J'ai beaucoup écrit sur cette partie, mais l'atelier m'a vraiment branchée.  
+Alors si je dois résumer : ayez la structure html la plus logique possible, quitte à refaire du CSS par la suite !
 
-Des gophers et une partie théorique plus tard (ou on se rend compte que l'important dans kubectl, ce n'est pas de savoir le prononcer, mais bien de l'utiliser !), place à la pratique : live-coding !!
-La présentation est fun et accessible : on apprend autant qu'on passe un bon moment.
-Le bon conseil : ne pas hésitez à partager ses trouvailles par des index Krew personnels à défaut de pouvoir l'ajouter dans le Krew index : tout est utile !
+Un grand merci Océane et Patrice pour cet atelier et votre disponibilité 🙏
 
-![Gaelle et Aurélie]({{ site.url }}{{ site.baseurl }}/assets/images/kube2.png)
+Pour suivre Océane et Patrice, ça se passe sur LinkedIn : [oceane-gillard](https://www.linkedin.com/in/oceane-gillard/) et [patrice-de-saint-steban](https://www.linkedin.com/in/patrice-de-saint-steban/)  
+Lien vers les slides - *à venir*
 
-Et pour les commandes ou plugins utiles et les bonnes pratiques : revisionnez à souhait la présentation (vidéo bientôt disponible en lien ici) ou référez-vous aux sketchnotes d'Aurélie sur le sujet (lien ici bientôt).
+![Océane et Patrice de Zenika pendant leur atelier]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/OceanePatriceAccessibilite.png)
 
-J'ai beau avoir déjà vu la présentation à la [TADx](https://www.tadx.fr) de février 2021 à distance et au JugSummerCamp de septembre 2021, je ne me lasse pas : Gaëlle et Aurélie sont à voir et à connaître absolument !
 
-Pour suivre Aurélie et Gaëlle, ça se passe par là : [@aurelievache](https://twitter.com/aurelievache) et [@Gaelleacas](https://twitter.com/Gaelleacas)  
-Lien vers les [slides](https://docs.google.com/presentation/d/1hWupsuVv5VE4E-VwJHU9FZ7H_OyTb7fZgsOE6DKXO8U/preview?slide=id.ga5dc656ac3_0_0)  
-Lien vers la [vidéo d'Aurélie et Gaëlle](https://www.youtube.com/watch?v=CMEJxGe-VoQ)
+### Chapitre 4 : Charmer les dragons : pitcher son produit comme un héros - Montaine Marteau et Rachel Dubois
 
-Be jealous : j'ai un sticker collector !!
-![Be jealous : j'ai un sticker collector]({{ site.url }}{{ site.baseurl }}/assets/images/kube3.png)
+13h28 je suis dans la salle Les Machines.  
+Comment ça l'atelier ne commence qu'à 14h ?  
+Oui mais je VEUX ma place (et elles sont chères quand on sait que c'est 2300 personnes par jour qui vont venir à DevFest Nantes cette année...).  
 
+Pourquoi cette impatience ?  
+Parce que Rachel, parce que Montaine et parce qu'en terme de transmission d'infos et d'apprentissage, on ne peut mieux tomber. S'assurer une place à ce workshop, c'est gagner 8 points de progression et d'ouverture d'esprit sur une échelle de 10.  
+Et puis par curiosité aussi autour du sujet qui n'est clairement pas mon expertise.  
 
-### Bilan de la première journée
+L'atelier est tellement prenant que ces quelques notes sont écrites a posteriori.  
 
-Ouf ! sacrée journée ! je vais laisser la pression redescendre, participer au dîner des speakers, rencontrer encore plein de gens formidables, merci à toutes et tous !
+Plantage du décor : on doit toutes et tous faire face à un dragon un jour : il est là, pas forcément gigantesque, mais dressé entre nous et notre objectif. La seule façon de l'affronter est de le combattre ? Non : nous allons apprendre à l'embarquer, le convaincre de nous suivre, mais comment ?  
 
-![Sticker de speaker, et pas l'inverse]({{ site.url }}{{ site.baseurl }}/assets/images/repasspeak2.png)
+Pas d'incantations manipulatrices sombres et obscures mais des techniques bien huilées (et préparées !) pour soi-même faire le tri entre envie personnelle et réel intérêt pour les autres.  
 
-On vous donne rendez-vous demain jeudi 21/04 à 20h pour le [BOF TADx](https://cfp.devoxx.fr/2022/talk/FIT-6322/Mais_au_fait_DevRel_c'est_vraiment_qu'un_lanceur_de_paillettes_%3F) - Tours Agile & DevOps experience à 20h autour de fabuleux DevRel !
-(TADx, injustement non renommé PADx pour Paris Agile & DevOps experience pour l'occasion, mais j'aurai le dernier mot un jour...)
+Il a d'abord fallu penser à une expérience concrète et personnelle où l'on a eu besoin de pitcher un besoin, un service ou un produit.  
 
-## Jeudi 21 avril : on recharge les piles !
+Acte I : de l'importance de résoudre une problématique.  
+Si on veut que notre idée aboutisse, il faut avoir de l'impact, il faut que ça compte. L'idée est donc de passer tour à tour par 4 points simples :
+- scène 1 : décrire un problème clair et réel : faire ressentir le problème que nous allons résoudre
+- scène 2 : utiliser le story telling pour apporter une solution élégante à cette problématique
+- scène 3 : chiffrer ! prouver ! démontrer que la solution est LA solution car les chiffres marquent les esprits
+- scène 4 : conclure que la vision du projet, le but.
 
-DevoxxFR va enfin pouvoir commencer : mon estomac est dénoué ;-)
-Beaucoup plus de monde à l'entrée, l'amphi Bleu se remplit en quelques minutes seulement.
+Par feedback interposé, nous nous sommes posé les questions en binôme (merci à Loïc d'avoir permis de le faire dans d'excellentes condiitons !) pour définir si ce premier pitch nous avait donné envie d'écouter, si nous avions compris et le problème et la solution, si la posture, le ton, la preuve paressaient crédible et si nous nous étions sentis inspirés, prêts à accepter.  
 
-### Première Keynote : les 10 ans de DevoxxFR !!!
+Acte II : pimper ce même pitch, avec des techniques avancées.  
+Grâce à quelques extraits vidéos inspirantes, nous avons parcourus différentes autres techniques, telles que :  
+- le héros, le dragon et le trésor (storytelling)
+- l'arc narraftif express
+- la règles des 3 raisons, 3 problèmes, 3 chiffres, 3 bénéfices...
+- le mode Disney (le fait d'utiliser les contrastes pour accentuer, pas le fait de faire disparaître les mamans dès les premières secondes du pitch !!)
+- le silence stratégique
+- le rythme cresendo
+- etc...
 
-Revival ! montée sur scène façon concert de rock : éclairage, fumée, et... rockstars !! Nicolas, Antonio et Zouheir nous partagent les coulisses de DevoxxFR, depuis sa germination, sa naissance, son annonce et son expansion !
+Bilan : notre deuxième version a été incroyablement plus percutante, plus crédible et plus embarquante.  
 
-![devoxxfr les 10 ans]({{ site.url }}{{ site.baseurl }}/assets/images/devoxx10ans1.png)
+Pour quoi j'ai adoré l'approche utilisée et cet atelier en général : parce que ça parle et ça doit servir à tout le monde. Orienter un choix techniques, prendre part à une décision d'équipe, demander une reconnaissance, innover, négocier du temps pour innover (celles et ceux qui me connaissent bien me voient venir...), bref : c'était une sessions de partage utile et sans frontière.  
 
-L'équipe entière monte sur scène et entonne un joyeux anniversaire des 10 ans des plus envolés : un grand merci pour tout ce que vous faites, vos partages, vos galères, votre fatigue mais toujours vos DevoxxFR pleins de succès ! Fière de vous avoir croisés et de faire un peu partie de l'aventure en tant qu'attendee depuis les 5 dernières sessions.
+Un ENORME merci à Rachel et Montaine qui nous embarquer dans leur monde féérique pour mieux ré-atterrir dans le notre.
 
-![devoxxfr les 10 ans]({{ site.url }}{{ site.baseurl }}/assets/images/devoxx10ans2.png)
 
-A revoir absolument : les photos collectors !!!
+![Montaine et Rachel devant leurs slides magnifiques]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/MontaineRachel.png)
 
-Encore un grand merci !
+Pour suivre Montaine et Rachel, ça se passe sur LinkedIn : [montaine-marteau](https://www.linkedin.com/in/montaine-marteau/) et [duboisrachel](https://www.linkedin.com/in/duboisrachel/)  
+Lien vers les slides - *à venir* - et ils sont trop beaux 🤩
 
-Lien vers la [vidéo](https://www.youtube.com/watch?v=kOXJEzD8GKw)
 
-### 10 ans de tech à travers le podcast Niptech - Benoît CURDY, Michael MONNEY et Baptiste FREYDT
 
-Il existe des groupes qui fonctionnent parce qu'ils ont tout compris : partager dans la bonne humeur.
-C'est exactement le cas de Niptech ! Au travers de leur rétrospective, de leur réussite, des aléas de la vie, des tentatives d'innovations, des retours aux valeurs sûres : on partage avec bonheur nos propres tentatives de maintien de communauté, pour toujours plus lui apporter et la garder précieusement. Car oui : c'est un vrai plaisir de partager !
+### Chapitre 5 : Terramate l'outil qui fait scaler votre code Terraform - Mathieu Herbert
 
-Merci à tous les trois !
+Je change encore de sujet.  
 
-Lien vers la [vidéo de Benoît, Michael et Baptiste](https://www.youtube.com/watch?v=5-pe7CajTik)
+Terrraform aujourd'hui ne permet pas de gèrérer simplement des environnements multiples. Or pour celles et ceux qui mettent en production au quotidien (bien sûr que c'est possible ! même le vendredi !), on aimerait bien que ce soit le même code qui soit identique en dev comme en prod.  
+En outre, se rajoute le besoin de traçabilité (DevOps oblige) et de monitoring (a minima les détections de changements.
 
-![niptech sur scène]({{ site.url }}{{ site.baseurl }}/assets/images/niptech.png)
+Pour répondre à ces besoins, Mathieu nous introduit l'outil Terramate, entreprise EU qui propose un outil Terramate Cloud, une UI, pour gérer des workflows et être alerté. Il vient avec un autre outil open source CLI pour générer du code et orchestrer des déploiements de stack.  
 
-### Slow tech : il est urgent de changer le système - Frédéric BORDAGE
+Let's go pour la démo !
 
-Présentation très claire et très concrète des solutions que l'on peut toutes et tous mettre en place au quotidien pour hacker le système et faire avancer la problématique de notre impact écologique.
+Terramate se base sur de la génération de code, avec une partie plus flexible sur la syntaxe (pour les boucles par exemple !).  
+Mathieu nous a montré très efficacement les stacks exemples (instanciation du code généré), des variables avec valeur par défaut, qu'on pourra surcharger pour chaque stack (y compris localement !), le mode opératoire pour créer une nouvelle stack avec changement de valeur des variables, puis un init sur les stacks existantes qui montre la différence de comportement entre une stack existante non modifiée d'une autre nouvellement créée par exemple et enfin la possibilité d'importer du code Terraform vers Terramate grâce aux tags.  
 
-On découvre la notion d'obégiciel : la croissance exponentielle du poids de nos utilisations logicielles. Il n'y a pas que la partie extraction de minerais ou de fabrication qui puise dans les réserves de notre belle planète encore bleue, mais pas pour longtemps.
-On évoque l'éco-conception, mais surtout de la Slowtech.
 
-Slow.tech  (low + high).tech
+Chez Dataiku où travaille Mathieu, ils utilisent Terraform pour gérer de l'AWS, de l'Azure, de l'Iam, des Github action...
+C'est avec Terramate qu'ils assurent la traçabilité et la validation ET du code ET de la stack.  
 
-Le numérique étant une ressource non renouvelable car à notre rythme de consommation de matières premières, on ne pourra plus fabriquer d'ordinateur (le truc que je suis en train d'utiliser pour écrire ce blog...). Accepter de rendre son service moins high-tech, c'est aussi accepter de le rendre plus accessible potentiellement : rendre plus simple l'accès aux informations.
+Concernant la partie détection : ils ont mis en place Drift detection.  
+Terramate se lance toutes les nuits (pas forcément sur toutes les stacks, il est possible d'en exclure, toujours sur la base de tags) et s'il y a détection de changement, un envoi de message vers Slack est programmé avec une notification au commiter qui, dans leur process, se doit de résoudre l'alerte pour qu'elle ne ré-apparaisse pas au check de la nuit suivante.  
 
-Conclusion : concentrons-nous sur ce que la tech sert vraiment, et pour tout le reste, gardons notre bon sens !
+Mon avis : je suis carrément convaincue que Terramate peut être un outil facile à installer et à utiliser. Mais comme l'a précisé Mathieu, la partie CI/CD se doit d'être travaillée en amont. Je vois donc cette étape comme une deuxième marche intéressante à monter une fois une CI minimale posée.
 
-Pour participer activement et aider, ça se passe ici : collectif@greenit.fr
 
-Lien vers la [vidéo de Frédéric](https://www.youtube.com/watch?v=1uQPVOK45ow)
+![Mathieu en salle Bretagne]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/MathieuTerramate.png)
 
-### Comprendre les enjeux de consommation de ressource et d'énergie dans le secteur numérique - Quentin ADAM et Pierre BEYSSAC
+Pour suivre Mathieu, ça se passe par sur LinkedIn : [mathieu-herbert-347b0b7a](https://www.linkedin.com/in/mathieu-herbert-347b0b7a/)  
+Lien vers les slides - *à venir*
+Lien vers la vidéo de Mathieu - *à venir*
 
-On debunk sur les impacts écologiques de l'IT !
-Pour cela, on découpe trois domaine :
-- la fabrication, liée à l'extraction concrète des matières premières et de la nécessité de l'énergie
-- le run, actuellement rapproché au réseau et au rapport Watt/Go
-- la fin de vie, de plus en plus liée à la récupération
 
-![Quentin et Pierre in stage]({{ site.url }}{{ site.baseurl }}/assets/images/ressourcenrj.png)
+### Chapitre 6 : OSINT : L'art de trouver ce qui ne devrait pas être trouvé - Marie Viley
 
-Concernant le run : le pilotage de la consommation mais aussi de la production, intégrer la notion de l'heure et de la localisation à la stratégie de calcul, permettraient de corriger la marge d'erreur des calculs unitaires et communiqués actuels.
+Dernière conférence de cette première journée.  
+Marie nous présente les techniques d'OSINT (open source intelligence). Bien que je découvre le nom, les principes ne nous sont pas étrangers : nous avons toutes et tous plus ou moins eu recours à ce genre de méthode.  
 
-On compare la consommation des différents , mais aussi les pays, les secteurs économiques : on apprend plein de choses concrètes.
+Quelles méthodes ?
+Celles qui permettent de collecter, centraliser et rendre accessibles des informations sur les réseaux, articles de journaux...  
+Ainsi on recoupe les informations de plusieurs sources à partir de détails connus : c'est par exemple le principe utilisé pour construire son arbre généalogique.  
 
-La morale est de prendre du recul sur les réels impacts : éteindre un composant électrique, ça peut être une bonne pratique, mais s'il y a risque de l'abîmer voire de le détruire (par baisse de température, par sur-intensité au redémarrage...) quitte à racheter ce composant et donc de le fabriquer... et donc de ré-extraire des matières premières...  réfléchissons et ne prenons pas tous les chiffres qui nous sont communiqués sur les réseaux ou via les médias comme argent comptant.
+OSINT c'est aussi une branche de la cyber sécurité car bien évidemment, certaines utilisations sont malveillantes. Marie nous a ainsi raconté le cas de Strava, application bien connue des grands sportifs (ou de celles et ceux qui comme moi, connaissent des grands sportifs ^^). L'application a permis de retrouver le déplacement de certaines personnes à partir de leur photo. Jusque là, pas trop de mal, sauf que cela a été fait pour retrouver des personnes stratégiques et élaborer des plans malveillants.  
 
-La métrique idéale qui nous permettrait de facilement nous positionner est beaucoup plus complexe que le simple Watt par Gigaoctet.
+Plusieurs spécialités d'OSINT dans la syber ont été évoquées : SOCMINT, IMINT, SIGINT, FININT, GEOINT, CTI / CYBINT.  
+Beaucoup d'outils cités aussi (il faudra revoir la vidéo car ils n'étaient mentionnés qu'à l'oral).  
+Ainsi OSINT est énormément utilisé pour le domaine judiciaire, ou des organismes d'investigation, voire des volontaires (comme vous et moi) pour faire avancer des affaires ou pour de mauvaises actions par des personnes malveillantes (pas comme vous et moi).  
 
-Concernant la fabrication, il ne faut pas ignorer le risque d'amoindrissement des matières premières. L'idée là est de se dire que pour chaque problématique de multiples solutions de contournement existe. Et que l'impact écologique étant un problème, il faut se pencher sur les solutions de contournement.
+Si vous êtes intéressés pour réaliser des défis OSINT, Marie nous a partagé des infos précieuses :
+- OSINT 4FUN
+- OSINT FR
+- REDDIT r/OSINT
+- CTF
+- et pour les collégiens et lycéens : Plateforme TOP (pour faire notamment attention à ses données sur les réseaux sociaux)
 
-L'idée est de pérenniser nos utilisations : investir sur des objets qui tiennent dans le temps plutôt que de multiplier les achats d'objets de piètre qualité.
-Cela me rappelle une discussion super intéressante avec un collègue, un jour où je me posais la question de revendre ma voiture essence encore en bon état pour une voiture neuve électrique, je me suis vue répondre : "la meilleure voiture est celle que tu n'achètes pas. Pousse ta voiture tant qu'elle fonctionne, et repose toi la question plus tard : peut-être alors qu'encore d'autres solutions apparaîtront entre temps".
 
-Retenir : une mesure sans marge d'erreur, n'est pas une mesure.
+![Marie en amphi Titan]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/MarieTitan.png)
 
-Vous voulez en savoir plus ? bien-sûr je vous invite à aller voir la vidéo de retransmission mais aussi les émissions de Monsieur Bidouille (lien à venir).
+Pour suivre Marie, ça se passe sur LinkedIn : [marieviley](hhttps://www.linkedin.com/in/marieviley/)  
+Lien vers les slides - *à venir* 
+Lien vers la vidéo de Marie - *à venir*
 
-Pour suivre Quentin et Pierre, ça se passe par là : [@waxzce](https://twitter.com/waxzce) et [@pbeyssac](https://twitter.com/pbeyssac)  
-Lien vers les slides - _à venir_  
-Lien vers la [vidéo de Quentin et Pierre](https://www.youtube.com/watch?v=gxWwxqIrCa8)
 
+### Chapitre 7 : Bilan de la première journée
 
-###  Licences open source : entre guerre de clochers et radicalité - Pierre-Yves Lapersonne
+Quelle journée ! 
+Croiser d'anciennes connaissances, nouer de nouveaux liens, s'enrichir de l'avis des autres... les émotions et les savoirs se mêlent, les conférences sont des expériences uniques où le plus difficiles est de "profiter un maximum".  
 
-Quelle est la meilleure ou la pire licence opensource ? Pas facile.
+De mon programme initialement écrit, je n'ai loupé qu'une seule conférence, que je verrai avec toutes les autres quand elles seront publiées par le GDG Nantes. Hâte...  
+Lien vers la playlist complète des vidéos - *à venir*
 
-![licences opensource]({{ site.url }}{{ site.baseurl }}/assets/images/licenseos.png)
 
-Il y a différentes notions à prendre en comte : le droit d'auteur, le copyright, la non discrimination, les brevets...
-Il existe MIT, BSD sur plusieurs versions, avec plus ou moins de conditions (citations, références...).
+## Vendredi 17 octobre : deuxième jour incroyable !
 
-Comme c'est compliqué, notamment pour les brevets, il vaut mieux se référer à un juriste.
-Là existe Apache 2.0.
+Réveil matinal pour la bonne cause : le programme de cette deuxième journée est encore une fois complet !  
 
-Pour des licences LPL ou LGPL, il existe la notion de licence LIBRE, COPYLEFT, COPYLEFT faible, MOZILLA PUBLIC LICENSE 2.0, LGPL V3
+### Chapitre 8 : Karpenter * Keda : le duo gagnant du FinOps - Guillaume Membré et Sébastien Fourreau
 
-Pour la licence GPL V3, il y a COPYLEFT FORT, GPL V3, AGPL V3
+Guillaume a encore grandi (si si c'est possible !) et il forme le duo gagnant de ce démarrage de journée avec Sébastien.  
+Suite à leur dernière migration de Cloud Provider (vers AWS), ils nous proposent un retour d'expérience sur comment optimiser le nombre de pods et de VM sur un cluster Kubernetes.
 
-Bon à savoir : AppStore et iTunes d'Apple ne sont pas adaptées aux licences GPL, contrairement avec Google Play
+Au départ, il faut savoir que tout ce qui est sur Amazon est facturé :
+- facturation à l'heure que l'on ait 0 ou 1000 noeuds pour faire tourner les applicatifs (sur quantité de CPU, RAM...)
+- plus compliqué : la pile réseau (load balancer qui distribue le traffic) -> facturation dessus dès qu'ils sont UP et selon la quantité de données qui transitent = 25 euros par mois + traffic
+- traffic inter AZ = datacenter distribués sur la région et dès que plusieurs pods se parlent -> tarification aussi 1 centimes par gigas, ça monte très vite
+- Control plane environ 73 euros par mois
+Ainsi, globalement, le coût total est difficlement prévisible.  
 
-Et puis, il y a les licences éthiques aujourd'hui, par l'Organisation for ethical source, imposant le non-nucléaire, le non-militaire, la non destruction de l'environnement, la non-violence de manière générale.
+Alors quelques questions se posent : mieux vaut faire plein de petits noeuds ou peu de gros noeuds ? il n'y a pas forcément de bonne réponse. 
+Doit-on faire du sur-provisionning ? oui au cas où... mais ça coûte très vite très cher.  
+Doit-on privilégier le on-prem (pet) ou le Cloud (cattle) ?
 
-Pour faire bref : c'est compliqué ! et souvent les choix semblent radicaux et provoquent des réels cas de conscience.
-Et c'est bien : cela fait se poser les bonnes questions et reflète les problématiques ambiantes qu'on n'aime pas trop mettre à jour.
-Peu de procès et de jurisprudence pour le moment, du fait de la récence des licences, donc les ressources juridiques sont encore peu étoffées.
+Le parti pris : avec des VM sur approche type cloud, on ne garde pas en vie une VM qui ne se porte pas bien -> on jette et on remonte. C'est donc là qu'on peut optimiser.  
+Keda permet justement dans ce cadre de faire de l'auto-scalling, basé sur des scalers de type :
+- built-in (prépackagé avec la solution Keda) Prometheus, RapbbitMQ, elastic search
+- external (Keda ayant une interface gRPC) : plus difficile à maintenir
 
-Je rajoute ma propre morale : on a tous un rôle à jouer dans l'éthique des entreprises, y compris quand on est développeuse ou développeur. Et là je vous conseille de re-visionner une des keynotes qui m'avait marqué à DevoxxFR en 2017 : De la responsabilité des ingénieurs d'Eric Sadin, à voir [ici](https://www.youtube.com/watch?v=jpvMOIVU-Z4)
+On peut trouver 4 briques dans Keda : 
+- Keda operator : il regarde les évènements et change le nombre de pods par rapport aux infos founies par...
+- ...Metrics Server
+- Scalers lui se connete à une source d'évènement
+- CRDs : custom ressource definition pour étendre l'api Kube avec des ressources custom
 
-Pour suivre Pierre-Yves, ça se passe par là : [@pylapp](https://twitter.com/pylapp)  
-Lien vers les [slides](https://speakerdeck.com/pylapp/licences-open-source-entre-guerre-de-clochers-et-radicalite)  
-Lien vers la [vidéo de Pierre-Yves](https://www.youtube.com/watch?v=HGid_PYx0Fo)
+L'architectue de Keda est adaptée à une utilisation variante tout au long de la jounée, en gérant des paramètres de scheduling précis. La facturaiton liée peut alors être en mode spot et/ou on-demande, selon ce que l'on a paramétré. Attention simplement à ce que les appications soient sans état pour ne pas avoir trop de difficultés à gérer les disques (même si dans le faits c'est possible).  
+Voici l'architecture simplifiée :
+![L'architecture de Keda]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/KedaArchitecture.png)
+- Controller = cerveau qui fait le lien avec tous les composants
+- ScaledObject qui définit le besoin en termes de réplica
+- Metrics sur lesquelles se base ...
+- ... Scaler pour que...
+- ... Metrics Adapter s'adapte et envoie au ...
+- ...HPA (horizontal pod autoscaler)
+- et Workload adapte
 
+Une optimisation consiste à tout mettre au même endroit, de maximiser la centralisation.
+On précise alors les ressources minimales dont on a besoin en mode cattle et le scheduler se débrouille, et le scale up est accéléré par Karpenter qui va déterminer les pods full ou disponibles.  
 
-### Simplifiez vos revues de code avec le rebase interactif - Sonia SEDDIKI
+Je découvre ensuit le principe de consolidation (dans ma jeunesse je disais aussi défragmentation 😇 ).  
+Cette optimisation permet de réduire les coûts en distribuant les charges (et donc il FAUT des replicas des appli !).  
+Avec Nodepool, on peut indiquer le nombre de CPU max à utiliser et limiter le nombre de nodes par tranche horaire par exemple (scale up uniquement possible mais pas de destruction de VM entre 11h et 16h par exemple) -> vraiment à adapter à notre contexte particulier.  
+Modifier la durée de vie des VM est aussi possible -> ainsi la version d'OS est toujours OK, sans mise à jour à gérer (et ça, en effet, ça me parle bien 😅 ).  
 
-Une première pour Sonia, et en salle Maillot s'il vous plaît !
+Donc en résumé : 
+- Keda fait varier le nombre de pods
+- Karpenter fait varier le nombre de noeuds
 
-![c'est parti]({{ site.url }}{{ site.baseurl }}/assets/images/rebase1.png)
+Et pour les différents modes de facturation (on-demand, usage traditionnel...), on peut là aussi adapter le mode en fonction de la temporalité. Cela a permis à Guillaume et Sébastien par exemple, de se permettre un temps d'observation assez long (1 an) pour faire varier les modalités de facturation et les optimiser (j'adore ce principe d'empirisme, mais j'ai du mal à croire qu'on me laissera un temps d'observation aussi long sans optimisation 🥲 ).  
 
-On parle amélioration de revue de code : pouvant être vue comme laborieuse, elle intervient souvent en fin de longue période de développement dans un temps limité et donc avec peu de marge de manoeuvre pour corriger au besoin.
-A cela s'ajoutent les différents niveaux de revue à vérifier pour augmenter la qualité et la clarté de merge request.
+Je découvre le mode spot : pour rentabiliser les machines qui sont peu uilisées la nuit ou le weekend -> on peut baisser le prix, mais attention, il y a une contre-partie : les VM peuent être réclamées dans les 3 minutes. C'est donc à Karpenter de démarrer sur une autre AZ ou sur autre mode de facturation (donc encore une fois, c'est adapté pour les applications sans état ou des batchs plus ou moins longs qui peuvent reprendre là où ils se sont arrêtés sans problème).  
+Il y a ensuite d'autres options (mais là il faut que je creuse car c'est allé trop vite pour moi) : reserved / instance / savind plans : engagement sur 1 à 3 ans, pour les bases de données par exemple (?).  
+Enfin, une autre optimisation possible : changer defamille de noeuds, par exemple passer de m5a à m6a a fait réaliser à Guillaume et Sébastien 25% d'économies.  
 
-Condition : avoir une MR avec des commits clairs et cohérents. Intervient alors le rebase interactif !
+A la fin de leur retour d'expérience, le duo entrevoit déjà d'autres optimisations possibles : affiner le nombre de pods en heures creuse, scaling dynamique au cours de la journée, passage en instance Graviton (processeur ARM) avec un gain estimé de 10%...  
+En espérant qu'ils reviennent un jour refaire un REX mis à jour  ^^
 
-Commit du vendredi, TDD en faisant les tests en aval : on partage forcément des souffrances de tous les jours...
+![Guillaume et Sébastien en amphi Titan]({{ site.url }}{{ site.baseurl }}/assets/images/GuillaumeSebastien.png)
 
-Grâce au "git rebase -i feature", on peut lister l'ensemble des étapes / commit, les modifier, les éditer, les différencier, les découper ... Les logs sont ainsi plus claires et parlantes. On peut ré-organiser l'historique des commits.
+Pour suivre Guillaume et Sébastien, ça se passe sur LinkedIn : [gmembre](https://www.linkedin.com/in/gmembre/) et Sébastien - *à venir*  
+Lien vers les slides - *à venir*  
+Lien vers la vidéo de Guillaume et Sébastien - *à venir*
 
-Pour re-rassembler des commits, pour encore plus de clarté, là encore une possibilité : fixup. On fusionne.
 
-Et Squash ? Utilisé à la place de Fixup, il permet de conserver les messages en plus.
+### Chapitre 9 : Révolutionnez votre prise de notes : du Bullet Journal à Obsidian - Hoani Cross
 
-Attention : à faire sur vos propres branches ! pas des branches partagées ou dépendantes (encore moins sur main !!) dans le but de contrôler le périmètre géré. Si vous vous trompez : pas d'affolements ! on peut annuler avec un abort d'urgence qui revient au dernier état valide. Et les empilements de "git push" concurrents sont empêchés, ouf !
+C'est la toute première conférence pour Hoani, et il a assuré.  
+Passionné de dessins et de caligraphie, il a souhaité allier cette passion à la prise de notes.  
 
-Très belle découverte : merci Sonia, et bravo !
+Prendre des notes, pour lui, c'est ancrer en mémoire, en ralentissant (on pose son téléphone !) et en zoomant sur ce qu'on retient d'essentiel. On le synthétise et on le retranscrit parfois avec nos propres mots. Et c'est ainsi que nous alimentons notre mémoire à long terme.  
+On connecte nos idées, on construit notre bibliothèque, on créé des interconnexions.
 
-![nous sommes en salle Maillot]({{ site.url }}{{ site.baseurl }}/assets/images/rebase2.png)
+Clairement le sujet fait plus que me parler : j'ai découvert Obsidian il y a 2 ans, j'ai commencé à l'utiliser de manière professionnelle, jusqu'à ce qu'il m'ouvre des perspectives personnelles assez velues :
+- ce que je suis : ma cartographie pro et perso
+- ce que j'aime : mes lectures, mes concerts, mes conférences, mes jeux passés ou à venir
+- ce que j'aime moins mais que j'aimerai renforcer : des cours, des tutos, ...
+Mais aussi ce que ça peut apporter aux autres, lors de mes sessions de coaching individuel ou d'équipe.  
+Une des caractéristiques communes à beaucoup de recherches d'opportunités ou de rassurance ? Bien se connaître. En tant que personne ou en tant qu'équipe. C'est donc assez naturellement vers Obsidian que nos explorations naissent (encore plus adéquat d'ailleurs quand les séances se font à distance). 
 
-Pour suivre Sonia, ça se passe par là : [@sonia_seddiki](https://twitter.com/sonia_seddiki)  
-Lien vers les slides - _à venir_  
-Lien vers la [vidéo de Sonia](https://www.youtube.com/watch?v=3Z8O5IjWDEk)
+Alors comme Hoani, j'ai un goût assez prononcé (et terriblement ancré) pour le papier : les calepins (tout types de calepins !), les stylos (tous types de stylos !!) et autres gadgets qui ne servent pas à grand chose mais qui en deviennent nécessaire (ah le nombre de post-it transparents et de marque-page personnalisés que je peux cumuler...).  
+Mais il faut se rendre à l'évidence : un calepin, ce n'est pas scalable. Et j'ai beau adoré collé et plier mes origamis pour que ça tienne quand même dans un cahier... la relecture n'en est pas toujours facilitée.
 
+Hoani nous présente donc son Obsidian personnel comme étant un mix entre prises de notes et un bullet journal, vous savez, la structuration de votre journée remplie de ce que vous devez faire, ce que vous faites réellement, vos émotions ressenties, vos "compteurs" du jour (en fonction de vos besoins : nombres de pas, nombres de parties jouées, nombre de calories, nombre de courriers traités...).  
 
-### Dois-je migrer en Reactive et comment ? - Christophe JOLLIVET
+Hoani gère ainsi son quotidien et les périodes de l'année comme une revue, une rétrospective et une planification. Si le contenu m'a quelque peu effrayé (par empathie, ma charge mentale est passée de "il faut que je pense / arrive à lui dire un truc, akai" avant la conférence à "oulala mais ça me serait impossible de faire des sprint planning et des revues de sprint de ma journée, semaine, mois... de ma vie personnelle !!" en fin de conférence).  
+Je me suis donc plutôt intéressée à la forme et à la technique possible dans Obsidian pour, un jour, rapporter tout cela comme levier à une équipe ou une personne que j'accompagne.  
 
-Apside represent !
-C'est dans un amphi bleu bondé que la conférence de Christophe commence.
+Il existe bien évidemment des alternatives numériques à Obsidian : Onenote, Evernote, Notion... tout dépend d'avec quoi on est à l'aise et je pense que la maîtrise de chaque outil demande de toute façon du travail.  
 
-![amphi bleu bondé]({{ site.url }}{{ site.baseurl }}/assets/images/reactif1.png)
+Avantages du numérique d'abord : 
+- la navigation entre les pages, avec références multiples possibles, pas seulement "le sens de la lecture du format papier"
+- le copier-coller : et oui quand même ! ce n'est pas négligeable
+- l'automatisation d'actions
 
-On parle d'abord de requête en mode impératif pour bien comprendre l'apport du réactif : lorsqu'on envoie une requête à un serveur, le thread arrive, la requête met un certain temps à s'exécuter puis le thread est retourné avec la réponse. Ce temps peut être conséquent, notamment quand on multiplie le nombre de threads. Ce qui est alors avantageux avec réactif est que le thread lancé permet d'exécuter la requête, mais il est retourné dans le pool immédiatement, le libérant.
+Avantages d'Obsidian :
+- nous restons propriétaires de nos données
+- format markdown donc accessible rapidement pour celles et ceux qui sont habitués (.md)
+- multi-plateforme
+- écosystème de plugins Open Source
 
-Passer en réactif pour aller plus vite est donc une erreur mais ça va vous permettre de scaler très vite.
+On peut voir Obsidian comme un coffre de fichiers de formats divers (notes, audio, images, diapositives) et qui permet de bénéficier d'une vue graphique assez élégantes (en tout cas moi, l'effet wahou fonctionne à chaque fois).  
 
-Dans un flux réactif, on trouve un publisher et un subscriber. Et pas de pressure, il y a backpressure ! pour ne pas sur-solliciter le subscriber, on régule le rythme : plusieurs façons de faire, mais il s'agit d'une bonne pratique obligatoire si vous ne voulez pas tout casser !
+Tips supplémentaires :
+- on peut s'inventer des conventions d'écriture : c'est assez chouette de pouvoir personnaliser ses prises de notes, et je trouve que ça en fait la force de l'outil Obsidian. C'est comme avoir toute une palette de tampons et couleurs sans avoir à les porter ^^
+- la synchronisation des fichiers qui sont intialement en local (pour quelque 4$ de plus...)
+- stockage cloud si souhaité
+- plugin git disponible (attention cependant : conseillé que pour de l'archivage car considéré comme plugin considéré comme instable sur mobile), mais à creuser pour l'utilisation en mode équipe
+- autres plugins : Periodic Notes, Tasks, Dataview, Templater
+- emoji disponibles pour les métadonnées (spécial clin d'oeil à Aurélie Vache, Gaëlle Accas, Philippe Charrière et Stéphane Philippart !)
+- les tâches sont requêtables comme des les tableaux dynamiques
+- il est possible de créer des variables réutilisables dans tout le template
 
-![publiser et subscriber]({{ site.url }}{{ site.baseurl }}/assets/images/reactif2.png)
+Je sors de cette conférence en ayant tout plein d'idées de choses à tester : merci Hoani !  
 
-En termes de librairies, on est larges. Pour la présentation, c'est Spring qui est utilisé.
-En nous aidant des marble diagrams, on s'y retrouve un peu mieux que l'énorme javadoc disponible.
+![Hoani en amphi Titan]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/HoaniTitan.png)
 
-La syntaxe peut nous perdre : on ne sait pas toujours la répartition des threads, on tâtonne, mais c'est normal ! c'est comme tout : lancez-vous, testez et le métier viendra ;-)
+Pour suivre Hoani, ça se passe sur LinkedIn : [hoanicross](https://www.linkedin.com/in/hoanicross/)  
+Lien vers les slides - *à venir*
+Lien vers la vidéo de Hoani - *à venir*
 
-On aborde ensuite WebMVC et WebFlux. On est vigilants aux imports, aux flux, aux monos : même si le code semble sensiblement identique de l'impératif, il y a ces modifications précieuses à apporter. On utiliser R2DBC en lieu et place de JDBC bloquant.
 
-Mais attention : pas de pagination et, plus logique, pas de jointure autorisées : eh oui ! car qui dit jointure, dit blocage d'appel de requête ! On s'en sort cependant avec AfterConvertCallback, qui associe la jointure systématiquement, donc c'est tout ou rien.
-Pas de fetch non plus en automatique : c'est à coder par nous-même côté Hibernate.
+### Chapitre 10 : Rencontre avec mes nouveaux collègues de CGI Nantes
 
-Autres petits oups : on doit veiller à travailler avec des flux non bloquants, et il y en a ! Dès lors qu'on va vouloir loguer par exemple, il va falloir être vigilant. Pour cela, il existe BlockHound qui nous permet de déterminer si un appel bloquant est détectée dans le code. Ça nous évite de lire avec nos petits yeux tout myopes les nombreuses lignes de code à vérifier !
+Contexte particulier du jour : ce n'est pas un stand Apside mais un stand CGI qui nous réprésente cette année à DevFest Nantes 2025.  
+J'en profite donc pour faire connaissance, notamment avec l'elfe-sauveuse Anne-Claire CHIARENZA et Cédric LE BRETON : m'est avis que nous allons écrire une belle histoire commune tout bientôt. C'est aussi ça la magie des contes 😇  
 
-Quand on est prêt à déployer en production, on peut continuer d'utiliser Actuator qui permet de récupérer les informations utiles et nécessaires pour satisfaire les bonnes pratique DevOps.
 
-Alors, on migre ou pas là ?
-Un grand oui si vous visez la scalabilité plus que la rapidité. La syntaxe est particulière et nécessite un peu d'apprentissage et d'habitude. En termes de persistance, on est limités mais les solutions telles que le NoSQL existent. Par contre c'est DevOps friendly.
+### Chapitre 11 : Agents intelligents, la nouvelle frontière des LLMs - Guillaume Laforge
 
-![Christophe Jollivet]({{ site.url }}{{ site.baseurl }}/assets/images/reactif3.png)
+Comment ça je suis sensée l'avoir déjà vue cette conférence là ?  
+Oui... c'est vrai que Guillaume est passé à [TADx](https://www.tadx.fr) - Tours agile & DevOps experience - au mois de septembre dernier. Mais sachez que pour que ce super meetup tourangeau se déroule dans les meilleures conditions je loupe systématiquement les 15 premières minutes (commande de pizza oblige...).
 
-J'ai adoré la présentation step by step en comparaison avec ce que l'on connaît de l'impératif : cela permet d'appréhender facilement et rapidement les concepts du réactif.
+Alors là, séance de rattrapage, dans la plus belle salle de la cité des congrès !  
+Et la salle est bien bien remplie.
 
-Pour suivre Christophe, ça se passe par là : [@jollivetc](https://twitter.com/jollivetc)  
-Lien vers les slides - _à venir_  
-Lien vers la [vidéo de Christophe](https://www.youtube.com/watch?v=WTZOGQYsdqE)
+LLMs, RAG, agent IA... faisons un petit tour d'horizon des bonnes pratiques et des framworks qui peuvent vraiment nous aider, sur base de démos en... Java ! J'en connais qui sont très contents...
 
+LangChain4j et ADK (Agen Development Kit) : Guillaume est commiter sur les deux frameworks, les explications qui vont suivre seront d'autant plus intéressantes.  
 
-### Etre développeur : grandir et se développer - Gaëtan ELEOUET
+Rapidement, qu'est-ce qu'un AI agent ?  
+La formule est "simple" : AI Agent = LLM + memory + planning + tool use. 
+memory ? car oui, on va avoir besoin de renvoyer régulière la totalité du contexte agrémenté des réponses précédentes  
+planning ? comment font les LLM pour découper les tâches complexes en sous-tâches ou sous LLM
 
-"Etre développeur, ce n'est pas savoir coder.
-Savoir coder, ce n'est pas être développeur."
+![Les grandes caractéristiques des agents AI]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/GuillaumeAgentAI.png)
 
-![Gaetan en amphi bleu]({{ site.url }}{{ site.baseurl }}/assets/images/devgrand.png)
+Les grandes caractéristiques des agents me fait penser à la roue PDCA que l'on utilise dans le concept d'amélioration continue : plan - do - check - act. Notamment sur la partie "reflect" qui permet de relancer la boucle si l'analyse faite présente des manques par exemple sur le contexte. Je vais réfléchir à cette analogie où finalement, humain comme agent, rendent l'erreur positive en la conscientisant et en l'analysant pour en faire une version améliorée...  
+D'ailleurs, au niveau du planning, ça peut être l'agent, l'utilisateur ou un programme / workflow qui décide.  
 
-Le rôle du développeur ou de la développeuse n'est pas seulement de répondre à un besoin par du code, mais assurer un service pérenne et de manière qualitative. Il faut pour cela s'astreindre à aller au-delà du simple code : creuser la qualité, améliorer la communication des équipes. C'est ainsi que Jeff Kent, un des signataires du manifeste agile, propose 9 règles de callisthénie.
+On s'intéresse au function calling : c'est ce qui est à la base des agents pour interagir avec son environnement.  
+Le LLM n'appelle jamais de fonction directement. C'est le framework qui va envoyer le prompt au modèle (Gemini dans le cas de la démo) mais aussi une fonction qui existe et qui va orienter la réponse.  
+Le modèle répond à l'application le renvoi de l'appel à la fonction et c'est donc le framework qui appelle réellement la fonction donc appel à l'API, qui reçoit la réponse de l'API et renvoie la réponse à donner au LLM qui la retransmet enfin à l'utilisateur... Comment ça je ne suis pas claire ? OK... voici l'illustration :  
+![Le function calling]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/GuillaumeFunctionCalling.png)
 
-On parle agilité, craftmanship : des manifestes qui mettent en exergue des pratiques déjà existantes, notamment la boucle de feedback la plus rapide possible et qui permette de toujours plus améliorer les pratiques de chacun. Ont été évoqués les principes SOLID, les propriétés CUPID.
+Les flux de control peuvent être séquentiels / parallèle / avec condition de routage / par boucle.  
 
-Pour grandir, les 25 millions de développeurs dans le monde, il faut se préoccuper de la communication.
+Et quid des décisions cruciales à prendre ? Principe HITL - Human in the loop : pour vérifier les réponses !!!  
 
-La notion même d'expérience, de séniorité est de plus en plus complexe : le nombre de technos explose et il est de plus en plus difficile de maîtriser toute une stack technique. Alors on est déjà bien content lorsque nous comprenons la stack. On n'est pas forcément un développeur ou une développeuse senior après 6 ans d'expérience : on n'a pas forcément pu tout voir ou voir suffisamment de choses pour nous considérer comme senior.
+Enfin Guillaume nous parle de la partie reflection & self critique (ReAct pattern) : le modèle observe le contexte pour savoir si ce qui a été généré est correct ou pas. C'est la fameuse prise de recul citée plus haut.
 
-Éviter les pièges du super-héros, essayer d'agrandir sa zone de confort, expliquer le pourquoi on fait les choses, créer une culture véritablement bienveillante : autant de choses qui nous permettrons d'oser nous surpasser ou de tenter des nouveautés.
+Et c'est parti pour les trois démos !
 
-Je n'ai pas toujours réussi à comprendre le lien entre toutes les parties, j'ai dû louper des étapes (fatigue ?), aussi mes notes sont un peu un cumul d'idées éparses.
+1- Scène 1 : le RAG
+Le RAG est unpattern pour être capable de chercher dans ses propres données, docs...  
+Attention : le RAG est entrainé jusqu'à une certaine date -> il y a donc une notion de "vérité jusqu'à telle date". 
+La première phase d'ingestion consiste à centraliser les documents de tout format, de les découper en petits morceaux, d'utiliser un embedding model qui va calculer des vectoriels (représentation sémantique multidimensionnelle) -> et les bouts de textes similaires vont avoir des vecteurs qui vont pointer vers le même endroit.  
+Ainsi le vecteur d'une question dans le prompt est assez proche du vecteur de la réponse, ce qui permet dans la deuxième phase de retrieval, de trouver des vecteur et extraits de texte qui sont les plus proches de la question. On le met dans le prompt du LLM qui va se baser dessus pour synthétiser la réponse.  
+La complexité de la question déterminera le nombre d'étapes nécessaires (j'adore l'exemple que prend Guillaume : "quel est le nom du président du pays dans lequel on trouve la tour eiffel dans la capitale ?" -> on va bien avoir plusieurs questions en une).  
+Pour y réponde, on utilise un Agentic RAG qui lui, découpe les questions en plusieurs topics, et le topic assistant va être appelé x fois (une fois par topic) avant de renvoyer les réponses à l'assistant agentique qui sera capable de résumer le tout.  
 
-Pour suivre Gaëtan, ça se passe par là : [@egaetan](https://twitter.com/egaetan)  
-Lien vers les [slides](https://speakerdeck.com/egaetan/etre-developpeur-grandir-et-se-developper)  
-Lien vers la [vidéo de Gaëtan](https://www.youtube.com/watch?v=AcE85HBzAZE)
+2- Scène 2 : Authoring Agent
+Tous les jours, un site web est amendé d'une histoire générée avec des images et du texte, avec à chaque fois 5 chapitres (avec ImaGen de Google).  
+Tous les jours à minuit,  un cron Google Cloud Scheduler appelle l'appication qui va driver le workflow, choisir un type d'histoire (space opera, scifi...) : 5 prompts pour générer les 5 chapitres. Ensuite il appelle le générateur d'image avec ces prompts -> ce sont, à chaque appel, 4 images par défaut qui sont générées, se rajoute donc une étape de sélection de celle qui correspond le mieux au chapitre.  
 
+3- Scène 3 - Création du pont entre LangChain4j et ADK développé par Guillaume.  
+L'idée de ADK c'est de faire différents niveaux d'agents.  
+Une DevUI vient avec ADK et on peut voir les détails de l'appel, on peut cliquer pour avoir des détails et voir aussi l'aspect graphique des étapes.  
 
-### Comment j'ai aidé ma fille à lire avec le machine learning - Vincent OGLOBLINSKY
+Ce que je retiens de la conférence de Guillaume : les agents sont non déterministes ! 🤣  
+On en a eu la preuve par l'effet démo, superbement maîtrisée par Guillaume, merci pour cette conférence efficace 🙏
 
-Retour d'expérience : lors de l'apprentissage de la lecture, les enfants décortiquent les syllabes une à une. Un des outils magiques qui existent est le digital. Le doigt quoi ! pointer son texte pour focuser son attention est une aide précieuse pour le déchiffrage.
+![Guillaume en Amphi Jules Verne]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/GuillaumeJulesVerne.png)
 
-Challenge : imaginer une solution qui aide à la lecture en déchiffrant une voix d'enfant alimentant une application web faisant marcher un speech-to-text like.
-Rencontrer des orthophonistes a permis de comprendre les phases de l'apprentissage de la lecture afin de coller au mieux à l'habileté mentale du cerveau qui apprend.
+Pour suivre Guillaume, ça se passe sur LinkedIn : [glaforge](https://www.linkedin.com/in/glaforge/)  
+Lien vers les [slides de Guillaume](hhttps://speakerdeck.com/glaforge/ai-agents-the-new-frontier-for-llms-5d593e22-b125-4f36-962c-f852dab99aee)  
+Lien vers la vidéo de Guillaume - *à venir*
 
-![Vincent dans la salle Maillot]({{ site.url }}{{ site.baseurl }}/assets/images/lecture.png)
 
-Le français, c'est pas facile : 26 lettres de l'alphabet, 36 phonèmes, 190 graphèmes associés... les combinaisons sont ultra-nombreuses !
+### Chapitre 12 : Quand le Terminal dévore la UI : TUI pour tout le monde ! - Thierry Chantier
 
-Et le machine learning dans tout ça ? Il faut trouver des modèles de données en entrée de base, comprendre le fonctionnement du speech-to-text (donner du son court en entrée, puis traiter le signal pour ensuite dissocier la partie lexicale et le langage).
-Mais la complexité de l'affaire est de s'adapter à la tessiture des voix d'enfants, pour lesquelles les datasets d'entrée sont beaucoup plus rares.
+Fan de panda, de métal et de terminaux, Thierry nous présente le principe TUI.  
+Une application TUI "prend toute la place" et permet l'interface homme-machine.  
+![La TUI selon Wikipédia]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/TitimobyTUI.png)
 
-Deux possibilités de modèles :
-- un modèle déjà entraîné, moins maîtrisé mais existant
-- un modèle à construire à partir de rien et donc avec besoin de beaucoup plus de données initiales pour pouvoir l'entraîner
+En mode histoire, on parcours carte perforées, télégraphes, mécanographie, télescripteur, VT100, ATARI, Windows, Ubuntu, MacOS... Le public est, je pense, composé de beaucoup de fans qui sont heureux de cette rétrospective revival.  
+On découvre aussi l'outil posting, genre de postman où on navigue par tabulation ou souris.  
 
-C'est la première qui a été choisie, depuis tensorflow. Ajoutez du Python en local et déployez en JavaScript et ainsi le modèle pourra être utilisé dans le navigateur.
-Pour la collecte, l'interface propose d'enregistrer le son, le vérifier (donc le ré-écouter) et d'envoyer le fichier natif pour les nettoyer, les raccourcir...
+Parti pris de Thierry : pour que la TUI corresponde à son besoin, il faut la développer soit même.  
+Mais comment ? on parle de picocli, mais c'est une CLI, c'est encore autre chose...  
+Il y a bien Lanterna mais ce n'est pas idéal.  
+Il y a le projet de JakeWharton mais c'est un peu lourd et un peu trop side project.  
+Du côté de chez Spring, il y a springUI (merci Stéphane !).  
 
-Ensuite, on entraîne le modèle, et ... on l'utilise ! on écoute en continu, on récupère la fréquence, on compare et on valide, ou pas !
+Allez go : Scène 1 : Thierry nous embarque dans une première démonstration à base de Spring Boot (on n'oublie pas les ";" hein...)  
+Classe Hello Nantes, composant helloLesGens, et bonne pratique : partir d'une box View !  
+Menu dans le header et helpers de raccourci clavier dans le footer : on retrouve nos petits au fur et à mesure.  
 
-A l'utilisation, l'enfant lit et sait visuellement si le déchiffrage est ok ou non.
-L'utilisation est ludique et laisse des perspectives d'ouverture multiples.
+Scène 2 : et en Python ?  
+librairie typer, rich, textual (avec mêmes types d'infos qu'en CSS). 
+fonction compose, onglets. 
 
-Intéressé(e)s ? essayez vous même avec teachablemachine
+Scène 3 : en Go. 
+se renseigner sur charms, bubbletea et cobra pour la partie TUI  
 
-Pour suivre Vincent, ça se passe par là : [@vogloblinsky](https://twitter.com/vogloblinsky)  
-Lien vers les [slides](https://slides.com/vogloblinsky/comment-jai-aide-ma-fille-a-lire-avec-le-machine-learning)  
-Lien vers la [vidéo de Vincent](https://www.youtube.com/watch?v=1gDSKIDiQL8)
+Scène 4 : en Rust (mon voisin de droite vit sa meilleure vie)  
+Et pour cause : c'est peut-être le framework le plus puissant pour faire des TUI (clap)  
+& le framework ratatui.  
 
+J'ai bien aimé l'idée intéressante évoquée : l'accessibilité dans les TUI. ça tombe bien : il peut exister des thèmes prédéfinis dans un json récupérable.  
 
-### Accéder à mon cerveau par une API - Sébastien BLANC
+Bientôt une Scène 5 ? Thierry nous a parlé de COBOL en partant... vraiment ?   
+To be continued...  
 
-ÉNORME ! une entrée en matière sonore, visuelle et tellement tordante !
+![Thierry en salle Bretagne]({{ site.url }}{{ site.baseurl }}/assets/images/ThierryBretagne.png)
 
-![rock star]({{ site.url }}{{ site.baseurl }}/assets/images/cerveau1a.png)
+Pour suivre Thierry, ça se passe sur Bluesky : [@TitiMoby](https://bsky.app/profile/titimoby.bsky.social)  
+Lien vers les slides - *à venir*  
+Lien vers la vidéo de Thierry - *à venir*
 
-On va parler interface homme machine : que ce soit avec un clavier, un stylo optique mais aussi la souris, la Wiimote, le gyromètre sur les iPhone...
-Si on va plus loin, on peut parler de Interface cerveau-machine.
-![rock star]({{ site.url }}{{ site.baseurl }}/assets/images/cerveau1.png)
 
-"Il faut d'abord comprendre comment marche un cerveau, sachant que je suis un développeur J2EE."
+### Chapitre 13 : JBang, un fichier Java pour les gouverner tous ? - Stéphane Philippart
 
-Les zones du cerveau sont spécialisées et permette de déterminer ce qu'il pense.
-Voici le streaming de cerveau de Sébastien :
+Alors on ne va pas se mentir, le sujet, je le connais, le présentateur, je le connais, et en fin de dernière journée c'était exactement ce qu'il me fallait : un sujet à re-découvrir, adapté en mode contes et légendes.  
 
-![rock star]({{ site.url }}{{ site.baseurl }}/assets/images/cerveau2.png)
+Pour s'affranchir de la lourdeur du squelette apporté par du classique Maven lors de la création d'un projet, JBang nous permet de faire des scripts aussi simplement qu'en Python ou en bash.  
+Alors pourquoi pas faire du Python ou du bash Stéphane ?  
+Ah oui... parce que tout ce qui peut être fait en Java, doit être fait en Java 😆  
 
-Et c'est plutôt très clair : cela indique qu'il est génial et que sa présentation fait mouche.
+De manière bien huilée et bien rythmée, on découvre en 20 minutes les premiers avantages possibles à utiliser JBang
 
-Plusieurs types d'ondes existent :
-- Delta : c'est quand on dort
-- thêta : lorsqu'on est en mode méditation
-- alpha : quand on est en mode relaxation
-- bêta : quand on est focus
-- gamma : on le saura un jour plus précisément qu'aujourd'hui peut-être
+Petit kiff de conférence : j'adore l'utilisation des snippets pour à la fois gagner du temps en démo sans se planter sur un caractère et passer 10 minutes à corriger, tout en permettant au publlic de lire le contenu.  
 
-On utilise Docker / Kafka pour... voir les données du cerveau de Sébastien sur un topic Kafka, et ça... ça n'a pas de prix !
-On teste le calm, le focus mais surtout on commence à réellement utiliser les cas d'application : en fonction de ces taux de calm ou de focus, on va pouvoir lancer des commandes particulières. Il n'en faut pas plus pour laisser libre court à l'imagination de Sébastien pour la suite.
+Et big-up aussi à Ambre Person, MC (maître de cérémonie) de Stéphane pour l'occasion.  
 
-Il va construire un modèle et l'entraîner : mode deep learning ON via neurosity. Et on va parler Kinesis pour interagir avec son cerveau.
+![Stéphane en amphi Belem]({{ site.url }}{{ site.baseurl }}/assets/images/StephaneBelem.png)
 
-Nouvel exemple : via Brainflow, qui peut se connecter aussi au casque.
-Et enfin... tir de boulets de canon... par la pensée !!
+Pour suivre Stéphane, ça se passe sur Bluesky : [@wilda](https://bsky.app/profile/wilda.bsky.social)  
+Lien vers les slides - *à venir* 
+Lien vers la vidéo de Stéphane - *à venir*
 
-BRAVO !
 
-Pour suivre Sébastien, ça se passe par là : [@sebi2706](https://twitter.com/sebi2706)  
-Lien vers les [slides](https://docs.google.com/presentation/d/1Z9EVw_nXMu4LrhZvO-G4YAKXZMM6-2t1t6ZYExR9xtM/edit#slide=id.g725ff4befe_120_350)  
-Lien vers la [vidéo de Sébastien](https://www.youtube.com/watch?v=mog0W_RHYA4)
+### Chapitre 14 : Embellir des QR Codes à l'ère de la GenAI - Raphaël Semeteys
 
+Les QR Codes (Quick Response Codes), à l'origine, ça vient du Japon : inspiré du jeu de Go, ils permettenr de stocker du contenu numérique, du binaire ou des Kanji.  
+Avec un mécnisme de correction d'erreur, ils restent lisibles et interprétables même si le QR Code est endommagé.  
 
-### Jouer à Minecraft avec une IA générée par GPT-3 - Wassim CHEGHAM et Tiffany SOUTERRE
+Il est composé de :
+- 3 marqueurs de position
+- un pattern d'alignement pour gérer l'orientation
 
-Quand on discute sur _Underscore_ on peut parfois se retrouver à se lancer dans des aventures impressionnantes mais tellement challengeantes ! 
-Le POC présenté consiste à pouvoir donner des instructions au bot sous Minecraft via une intelligence artificielle (IA ou AI pour les english).
+carré noir vaut 1
+carré blanc vaut 0
 
-Après un rappel de ce qu'est le génialissime jeu Minecraft, les NPC (non-player characters), on voit comment interagir avec ces derniers grâce à OpenAI, GPT-3 qui, après un entraînement de folie, a donné Codex. Github Copilot lui, est capable de proposer des blocs de codes en fonction de ce qu'on souhaite faire faire à la fonction. J'aimerai clairement que ça existe pour les compte-rendus de réunions de 3h...
+Alors comment gére-t-on les erreurs ? en ajoutant des données (cf. implémentation de Reed-Solomon).  
+Donc, il est tout à fait possible d'ajouter une image dedans : c'est un hack de la gestion d'erreurs (à condition que ça reste entre 7 et 30% max de l'image).  
 
-Bref, le joueur va donner une instruction, envoyée à Codex associée à un contexte.
+Pour cela, Raphaël nous a parlé de son uilisation de deux outils :
+- Stable Diffusion, qui fait du débruitage progressive d'une image, guidé par un prompt et une image
+- ComfyUI, pour la génération d'image, qui fonctionne en local
 
-On fait le tour du code, puis on passe à la partie démo, car nos deux speakers sont joueurs !
+Il nous a ensuite montré la technique de ControlNets (composants supplémentaires équivalent à des modèles d'IA), et plus spécifiquement de QR Code Monster, et aussi d'Image Prompt Adapter et de l'animation possible avec Advanced Live Portrait.  
 
-Vous êtes intéressé(e)s ? le code github sera open-sourcé ce soir 😇
+Sur la base de ses démos pré-enregistrées, nous avons pu suivre "en live" l'exécution du tout pour petit à petit, donner un "thème" à nos QR Codes, puis une image générée et enfin... une image animée ! et cela sans dénaturer la lecture du QR Code en question...   
 
-Pour suivre Wassim et Tiffany, ça se passe par là : [@manekinekko](https://twitter.com/manekinekko) et [@TiffanySouterre](https://twitter.com/TiffanySouterre)  
-Lien vers les [slides](https://slides.com/wassimchegham/playing-minecraft-artificial-intelligence-open-ai-gpt-3-javascript)  
-Lien vers la [vidéo de Wassim et Tiffany](https://www.youtube.com/watch?v=sbsU9gRzKaA)
+Très esthétique, visuel et beau pour finir cette deuxième journée : merci Raphaël !  
 
+![Raphaël en amphi Belem]({{ site.url }}{{ site.baseurl }}/assets/images/RaphaelBelem.png)
 
-### BOF TADx - Mais au fait DevRel c'est vraiment qu'un lanceur de paillettes ?
+Pour suivre Raphaël, ça se passe sur LinkedIn : [raphaelsemeteys](https://www.linkedin.com/in/raphaelsemeteys/)  
+Lien vers les slides - *à venir*  
+Lien vers la vidéo de Raphaël - *à venir*
 
-Très bon moment passé à se poser la question : qu'est-ce qu'un DevRel ? un Developer advocate ? un Technical Account Manager ?
-Plusieurs réponses différentes prouvent la richesse et la pluralité de ce qu'on met derrière ce rôle mais un point commun : le partage.
-Servir la communauté, être "un membre actif positif" - Horacio Gonzales
 
-Merci à toutes et tous !
+### Chapitre 15 : Keynote de clôture : mais quelle sera-t-elle cette fois-ci ?!
 
-![Les invités]({{ site.url }}{{ site.baseurl }}/assets/images/tadxbof1.png)
+Et bien, après avoir eu la chance, il y a deux ans, de monter sur scène pour une session Burger Quizz façon Pop-Corn sur le thème du cinéma, ce soir c'est une troupe de théâtre d'improvisation qui nous fait rire à l'unisson : métier de Cloud Architect revu et corrigé façon moyennageuse en Architecte de nuages, exercices de répartition de la parole et d'inventions de situations les plus cocasses... C'était la meilleure façon de clôturer cette édition.  
 
-![on était bien en 242]({{ site.url }}{{ site.baseurl }}/assets/images/tadxbof2.png)
+Un grand merci à la [troupe la Faltazi](https://lafaltazi.com) !  
 
-![les participants]({{ site.url }}{{ site.baseurl }}/assets/images/tadxbof3.png)
+![La joute de la Faltazi]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/faltazi.png)
 
-### BOF Duchess France
 
-Très bon moment là encore, passé à échanger sur la multiplicité des profils, des parcours, des valeurs...
-On parle syndrome de l'imposteur (qui à mon sens ne doit pas totalement disparaître pour permettre de rester humble dans son partage), études, partage de connaissances auprès des étudiants et étudiantes, encouragements, mentoring, entraide, mixité... Merci !! Ce fut très précieux pour moi pour la fin de cette deuxième journée intense !
+## Bilan de cette édition DevFest Nantes 2025
 
-![le bof des duchess]({{ site.url }}{{ site.baseurl }}/assets/images/duchessbof.png)
+Le moins que l'on puisse dire, c'est que cette année, j'ai pu profiter un MAX !!  
+Un grand merci à mon manager Simon MOITIE pour cette occasion en or : je reviens avec plein d'idées à partager.  
 
+Un ENORME merci à toute l'équipe d'organisation et de bénévoles : Jef, Annabelle, Julien, Lise et toute l'équipe.  
+Bravo aux MC qui ont lancé les sessions de conférences de si belle / drôle / fantastique manière.  
+Bravo pour tout ce que vous avez mis en place pour que tout le monde se sente en environnement sûr : speakers, sponsors, participantes et participants. 
 
-## Vendredi 22 Avril : ne te découvre pas d'un fil !
+Depuis Devoxx France 2025, j'avais fait une pause dans les conférences, ça m'a fait un bien fou de discuter avec vous toutes et tous.  
 
-Bon, il faut se l'avouer, le vendredi matin est sans doute la journée la plus compliquée... la fatigue est réelle et il faut une vraie motivation pour arriver avant 9h au Palais des Congrès. Pour cela j'ai un respect incroyable pour les gilets rouges !
+Mention spéciale à Marjorie pour sa gentillesse légendaire, Sonia pour son humanité sincère, Rachel et Montaine pour ce duo formidable de bonne humeur et de rires, Thomas et Mathieu (ou l'inverse) pour respectivement leur Pom'ptes, le Jagerbomb et les olives (les oreilles d'elfe vous vont si bien), Natalia pour son sourire rayonnant, Thierry pour ses passions folles et ses expérimentations, Marie et notre fou rire (on ne dira pas pourquoi), Julien pour sa générosité débordante, Denis et Quentin pour leur duo sympatique, Guillaume pour sa simplicité touchante, Raphaël pour sa bienveillance  et bien sûr mon inégalable et irremplaçable moitié Stéphane.  
+Merci aussi à toutes celles et ceux avec qui j'ai pu discuter, apprendre ou rigoler, je reviens boostée grâce à vous : Olivier H., Jérôme, Ambre, Pierre, Nicolas G., Benjamin, Olivier L., Antoine et l'équipe Devoxx présente : Nicolas M., Zouheir, Quentin, Marie, Estelle, Fred, Rebecca. 
 
-Je zappe donc volontairement les premières keynotes et en profite pour discuter par-ci par-là (on est aussi là pour réseauter) et prendre quelques goodies !
 
-### 10 ans de Devoxx FR et de Java - Jean-Michel DOUDOUX
+Merci, merci, merci.
 
-Il y a des gens qu'on rêve de voir un jour en conférence, en vrai. Jean-Michel DOUDOUX en fait partie.
-Et je ne suis pas déçue : un incroyable condensé de savoir dilué avec gentillesse et humour pendant 45 minutes.
 
-![10 ans de Java]({{ site.url }}{{ site.baseurl }}/assets/images/10java1.png)
-
-Je salue particulièrement le difficile exercice de choisir les choix cornéliens de sujets à aborder sur les dix dernières années de la vie de Java.
-
-J'ai retenu surtout :
-- Java 8 et les lambdas, l'API Date & Time
-- Java 9 en 2017 avec le try with resources et JShell, et les modules... qui ne font pas l'unanimité ! mais qui d'après Jean-Michel, devrait être une cible, pour des raisons de maintenabilité, performance mais aussi sécurité !
-- Java 10 et l'instruction var
-- Java 11 en 2018 avec l'API HTTP Client supportant HTTP 1.1 et 2
-- Java 14 et les switch expressions
-- Java 15 et la gestion de chaîne de caractères multiligne (enfin !), avec gestion de l'indentation s'il vous plaît ! et... le NullPointerException 😇
-- Java 16 et les records
-- Java 17 avec les classes scellées
-- Java 18 en 2022
-
-Bilan ? Java reste verbeux, mais se modernise et se simplifie.
-
-Lorsque l'on parle migration sur une des LTS 11 ou 17, il faut motiver les raisons : oui c'est sympa mais ça ne suffit pas.
-Il faut alors parler de la JVM, qui évolue au niveau de la performance et la sécurité, notamment de nouveaux algo de crytographie. On rallie ainsi les ops.
-Et on peut aussi parler coût en parlant déplacement dans le cloud. On rallie ainsi la stratégie.
-
-Il vous faut d'autres arguments ? Si vous voulez garder et attirer de nouveaux développeurs heureux : faites-les bosser sur des stacks qui ne sont pas obsolètes !
-
-Et plus concrètement, aidez-vous de jdeps pour migrer en plus des outils et des dépendances nécessaires. Sachez qu'il n'est pas obligatoire de modulariser votre code, bien que ce soit conseillé. Donc plus d'excuses !!!
-
-Attention cependant : depuis Java 11, il y a des API qui disparaissent ! alors oui c'est documenté, mais il faut s'y pencher pour être sûr que ça continue de compiler. Aidez-vous de javaalmanac.io par exemple.
-
-Pour les détails de migration d'une version à une autre, je vous invite vivement à regarder la conf retransmise sur la chaîne Youtube de DevoxxFR, car Jean-Michel vous met en garde et précise les points de vigilance à avoir (notamment la gestion des warnings gniark gniark). et si vous voulez faire le grand saut de Java 8 à Java 17, le conseil est de morceler en deux étapes : d'abord passage à Java 11 avant Java 17.
-
-Oyez oyez : Java 19 en 2023 !
-
-et rendez-vous en 2032 pour faire le bilan !
-
-![Jean-Michel DOUDOUX on stage]({{ site.url }}{{ site.baseurl }}/assets/images/10java2.png)
-
-Pour suivre Jean-Michel, ça se passe par là : [@jmdoudoux](https://twitter.com/jmdoudoux)
-et bien sûr [son site](https://www.jmdoudoux.fr/accueil_java.htm) qui a fêté ses 20 ans il y a quelques mois.  
-Lien vers les [slides](https://www.slideshare.net/jmdoudoux/devoxx-2022-10-ans-de-devoxx-fr-et-de-javapdf)  
-Lien vers la [vidéo de Jean-Michel](https://www.youtube.com/watch?v=mQV4NVZlFnc)
-
-
-### Le scale-up, l'autonomie et le sous-marin nucléaire - Pauline JAMIN et Thomas PIERRAIN
-
-C'est quoi une scale-up ? c'est une start-up qui a validé son business model et qui est en pleine extension. Dans ces cas-là : quel est le process de validation des choix ? C'est là que l'autonomie entre en jeu.
-
-![Pauline et Thomas sont prêts]({{ site.url }}{{ site.baseurl }}/assets/images/scaleup1.png)
-
-Une entreprise devrait pouvoir prendre des décisions rapidement.
-
-Dans les faits, quand les équipes parviennent à atteindre un certain niveau d'autonomie, des limites apparaissent : faire les choses dans son coin sans en faire bénéficier les autres, se lancer dans des solutions pas forcément plus maintenable que l'existant, ...
-
-Sur la base de la référence "Turn the ship around" de David Marquet, on découvre le mode de management de la Navy, entre attentisme et suivi aveugle des ordres.
-Comment faire plus efficace ?
-- déléguer les responsabilités
-- légitimer les équipes à être force de proposition
-- donner des objectifs plus que des instructions ou des procédures
-- créer un espace pour échanger
-
-Dans le contexte d'Agicap, le challenge est de passer d'une start-up à une scale-up.
-Mais avant d'appliquer tout cela, il faut prendre en compte certains éléments logiques et humains : la crainte du changement pour commencer.
-
-![Le plan d'action sur le terrain]({{ site.url }}{{ site.baseurl }}/assets/images/scaleup2.png)
-
-Ce qui a été testé chez Agicap : Domain Driven Sesign (DDD), la réflexion commune sur le repositionnement de chacune et chacun, la participation aux sujets de refactoring sur la base du choix, la définition d'OKR (Objectives & Key results) pour annoncer ce qui sera mesuré, mais sans préciser le comment pour laisser libre les équipes de choisir par elles-mêmes. S'ajoute aussi le lancement d'une initiative SRE.
-
-La problématique discutée est réellement propre à la situation d'une start-up qui grossit : les applications en grosse entreprise ou chez le client ne sont pas évoquées. Cela permet néanmoins de se dire que tout est possible et de rêver un peu : merci !
-
-Pour suivre Pauline et Thomas, ça se passe par là : [@jaminpauline](https://twitter.com/jaminpauline) et [@tpierrain](https://twitter.com/tpierrain)  
-Lien vers les [slides](https://fr.slideshare.net/ThomasPierrain/la-scaleup-lautonomie-et-le-sousmarin-nuclaire)  
-Lien vers la [vidéo de Pauline et Thomas](https://www.youtube.com/watch?v=FPZw6gy04T4)
-
-
-### Rendez vos interfaces fiables en faisant aimer les tests à votre équipe - Jean-Lou PIERME et Jonathan MEUNIER
-
-"tester ce que les utilisateurs ont et pas ce que notre coder fait"
-
-![Jean-Lou et Jonathan en place]({{ site.url }}{{ site.baseurl }}/assets/images/interf1.png)
-
-Ils nous présentent leur contexte : 100% de couverture de tests (sic), méthodes testées unitairement, 
-La notion de 100% de couverture n'est pas un gage de sécurité, ce n'est pas forcément fiable, et au final "c'est très facile d'atteindre un taux de couverture de 100%" il suffit de filouter ^^
-
-Écrire un code "parfait" c'est chouette mais ça ne garantie pas le service qu'il fournit.
-L'exemple est pris d'un scénario écrit en Gherkin : cela permet de lire en langage naturel le code dans une pull request. La documentation qui peut en découler est facilement partageable.
-
-L'avantage de ne tester que les scénarios d'usage, c'est qu'on va avoir du code non couvert de révéler, et nous aurons ainsi l'occasion de se poser la question : est-ce du code mort ? et d'intelligemment le gérer.
-
-Pour tester, on y va par étape. A chaque bug relevé :
-- on écrit un test pour qu'il passe rouge à la relance 
-- on corrige le bug
-- on vérifie que le test passe au vert
-C'est du TDD appliqué à la correction d'un bug. Et on va essayé d'écrire des tests les plus petits possibles.
-
-Lorsque l'on travaille sur du legacy, il ne faut pas tomber dans le piège de vouloir ajouter des tests sur notre nouvelle fonctionnalité et tout le reste autour. Il faut se concentrer sur notre fonctionnalité et éventuellement les branchements et les impacts avec l'existant, mais on ne va pas créer une pieuvre inmaintenable.
-
-Un composant intéressant à utiliser pour mettre en place des tests à la base : SnapshotDiff.
-Puis viennent les tests unitaires, avec mock possible puisqu'on veut tester la partie technique de notre code.
-Ensuite, les tests d'intégration pour tester l'utilisation par l'utilisateur : on ne vérifie pas l'appel des fonctions, mais on teste le comportement, les clics, les affichages... 
-Enfin, les tests end-to-end, sans mocks cette fois-ci pour jouer le jeu de traverser les différentes couches.
-La démo qui suit consiste à encapsuler toutes ces couches de tests dans du Gherkin, utilisé en JavaScript pour l'occasion.
-
-Ce qu'il faut retenir :
-- un développeur ou une développeuse doit maîtriser son environnement technique pour pouvoir écrire les tests confortablement.
-- commencer par bien comprendre le besoin avant de le développer, puis d'écrire le test, refactorer, améliorer les tests
-- on construit des composants légers : les tests les seront aussi
-- on pense à l'asynchronisme
-- on embarque correctement les nouveaux développeurs dans la démarche : "on passe autant de temps sur les tests que sur les développements".
-
-Pour suivre Jean-Lou et Jonathan, ça se passe par là : [@jloupiote](https://twitter.com/jloupiote) et [@MonsieurNohj](https://twitter.com/MonsieurNohj)  
-Lien vers les [slides](https://docs.google.com/presentation/d/1ysnu8QNdpg1pc-FqFqOg1oeg6jPsHKXgpe9sFtTMbTU/edit#slide=id.gab0243390c_0_33)  
-Lien vers la [vidéo de Jean-Lou et Jonathan](https://www.youtube.com/watch?v=eCfLa6Ex4QM)
-
-
-### Comment permettre 100 millions de logins sans interruption de service ? Betclic raconte son Euro 2020 de football - Nicolas JOZWIAK et Etienne PUISSANT
-
-![Nicolas et Etienne en place]({{ site.url }}{{ site.baseurl }}/assets/images/betclic1.png)
-
-Il y a eu un avant et un après Euro 2020. Après avoir frôlé la faillite en 2017, Betclic a été repris par de nouveaux investisseurs exigeant le regroupement du SI (système d'informations) abandonné à Bordeaux.
-
-L'objectif de Betclic étant d'offrir une expérience utilisateur la plus fluide possible peu importe le nombre de match possible (tout sport condonfu), la réactivité attendue de l'application est très forte. Durant toute la journée, ce ne sont pas les mêmes API qui sont sollicitées : paris, retraits, la validation des paris... c'est donc potentiellement un trafic permanent qu'il faut gérer. Appdynamics est un des deux outils qui sont utilisés pour suivre les indicateurs principaux et le monitoring front. L'autre est Datadog, qui permet de l'alerting en fonction de seuil déterminés.
-
-Avant l'Euro 2020, s'accumulait le legacy du SI et les règles exigeantes de l'environnement des paris, notamment les notions réglementaires, propres à chaque pays de présence de Betclic (France, Pologne, Italie et Portugal). Certaines soirées faisaient tomber l'application. Sont alors nées les war-room, mettant ensemble les domaines transverses. Comprendre les bugs, prioriser les sujets : beaucoup d'améliorations sont déjà apportées en mode quick-win mais aussi plus profondément en passant d'un monolithe à du micro-services.
-
-![schéma évolutif]({{ site.url }}{{ site.baseurl }}/assets/images/betclic2.png)
-
-Les principaux points de contentieux étaient côté base de données. Un cache Redis a permis de les soulager, un cash VArnish côté front et Kong, une API gateway pour ajouter de la sécurité et de l'authentification.
-
-Début 2020, AWS a été choisi pour passer sur le Cloud afin de passer du sentiment de "subir" les soirées de match, à l'action d'anticipation.
-Les premiers tests de charge ont été faits en... production !
-
-Avec Gatling, on vient coder les différents workflow d'API pour définir des scénarios à faire ingérer à Gatling. Grâce au monitoring des simulations, toutes les équipes ont accès à l'information via un portail. Le test de charge rentre alors dans leurs habitudes et beaucoup d'améliorations niveau réseau sont apportées grâce aux tests de rupture. 
-
-Deux semaines avant l'Euro 2020, les tests de charge sont terminés. 
-Au final, c'est 1 million de joueurs, 100 millions de login, 0 incident majeur, 0 war room. BRAVO !
-
-"on est plutôt sereins"
-
-Et mieux : un collectif humain s'est créé, une culture d'entreprise où chacun apporte sa contribution.
-
-Pour la suite, il est prévu de parler auto-scaling, Azure pour le SQL Server, chaos monkey
-
-![présentation en cours]({{ site.url }}{{ site.baseurl }}/assets/images/betclic3.png)
-
-Un grand merci messieurs, on a eu l'impression de vivre un peu l'aventure avec vous !
-
-Pour suivre Nicolas et Etienne, ça se passe par là : [@njozwiak](https://twitter.com/njozwiak) et [@TODO](https://twitter.com/TODO)  
-Lien vers les slides - _à venir_  
-Lien vers la [vidéo d'Etienne et Nicolas](https://www.youtube.com/watch?v=7AOu-NB0JjU)
-
-
-### CI/CD, le divorce serait-il prononcé ? - Nicolas GIRAUD et Yann SCHEPENS
-
-![Nicolas et Yann en place]({{ site.url }}{{ site.baseurl }}/assets/images/cicd1.png)
-
-A l'origine, l'intégration continue visait à améliorer le build, pour passer du code à un binaire.
-Avec le CD, la première étape, le delivery consiste à transformer le binaire en livrable (la partie release) mais très vite, ça devient du déploiement pour mettre l'application en production.
-Avec la multiplication des livraisons, on livre un service aux utilisateurs, souvent et en direct.
-
-La CI et la CD sont donc différents mais complémentaires. Mais leur automatisation n'est pas facile et rapide tout le temps.
-
-On parle pipeline, dans sa définition visuelle : c'est un graphe, qui sert à mettre tout le monde d'accord. Mais dans l'ensemble, pour bien le concevoir, voici des étapes clés :
-- définir l'objectif du pipeline
-- prendre en compte l'existant pour le faire évoluer
-- y aura-t-il des étapes clés de validation ?
-
-Un atelier d'event storming va permettre de répondre à ces trois premières questions
-
-- définir des feedbacks pour chacune des étapes
-- comment cadencer ? définir les tâches à automatiser
-- choisir les outils : côté CI on est assez indépendants mais côté CD on est dépendants de l'infrastructure de l'entreprise. En choisir un seul ? plusieurs en fonction des domaines ?
-
-Les pipelines sont évolutifs, ils suivent le même schéma d'évolution agile que le code source, pour toujours être adapté aux usages.
-
-L'élément perturbateur est le everything as code : on met tout dans le livrable. Code, infra, doc, pipeline... ça devient vite le bazard.
-Le CI va avoir un impact sur la prod et la CD doit comprendre les aléas du code.
-La notion de DRY = don't repeat yourself va permettre de factoriser les étapes communes... mais pas trop ! On se pose ensuite la question de savoir si les principes SOLID du dev peuvent être adaptés aux pipelines.
-
-Il faut au maximum éviter de devoir TOUT relancer dans un pipeline pour le faire passer au vert quand une étape échoue mais toujours en observant le principe KISS (keep it simple and stupid).
-
-Intervient la logique DevOps. Sauf qu'au lieu de simplifier la collaboration en les pratiques DEV et les pratiques OPS, on rajoute un troisième élément à part.
-
-"Choisir c'est renoncer"
-
-Alors, on sépare la CI et la CD ? on se répartit les responsabilités ?
-Ou bien se rassembler tous ensemble ?
-
-Faisons à minima l'effort de se connaître les uns les autres, soyons empathiques, communiquons !
-
-J'ai adoré et la forme et le fond : Nicolas et Yann sont parvenus à tenir le public éveillé à un créneau particulièrement pas facile : très belle rencontre !
-
-![fusion de la CI et de la CD ?]({{ site.url }}{{ site.baseurl }}/assets/images/cicd2.png)
-
-Pour suivre Nicolas et Yann, ça se passe par là : [@nicgiro](https://twitter.com/nicgiro) et [@YannSchepens](https://twitter.com/YannSchepens)  
-Lien vers les [slides](https://arcanneero.github.io/cicd-divorce-slides/story/index-devoxx.html#/)  
-Lien vers la [vidéo de Nicolas et Yann](https://www.youtube.com/watch?v=rZKAPyKdbXM)
-
-
-### Les Cast Codeurs en 💺 et en 🦴️ - Emmanuel BERNARD, Guillaume LAFORGE, Antonio GONCALVES et Arnaud HERITIER
-
-Tic-tac, tic-tac, il ne reste plus beaucoup de temps avant de prendre le train, les stands commencent à être démontés mais... il faut absolument que j'aille voir ces 4 sacrés personnages en vrai et en marinière !
-Il y a foule, c'est bien la preuve que le partage est aussi une histoire d'affect et de personnages.
-
-![Les Cast Codeurs on stage]({{ site.url }}{{ site.baseurl }}/assets/images/cast1.png)
-
-Ils sont fatigués, interrompus par les gilets rouges prêts à les suivre n'importe où, fous aussi, mais aussi assez humbles pour être reconnaissants et plein d'humour.
-On ne leur dira jamais assez merci, MERCI, M-E-R-C-I !! c'est incroyable ce que vous réalisez !!
-
-![Les gilets rouges manifestent]({{ site.url }}{{ site.baseurl }}/assets/images/cast2.png)
-
-Hélas tic-tac, tic-tac... il faut prendre le train. Ma consolation est d'apprendre que les dates de 2023 sont déjà fixées... rendez-vous les 12, 13 et 14 avril 2023 ❤️️
-
-Lien vers la [vidéo](https://www.youtube.com/watch?v=_HxHIQ90-Fw)
-
-
-## C'est le bilan !
-
-Le moins que l'on puisse dire, c'est que cette année, j'ai pu profiter un MAX !!
-
-Donner une conférence en présence de collègues d'[Apside](https://apside.com/) et d'amis a été une expérience A-MA-ZING !
-Avoir été accompagnée et soutenue par des gens adorables et passionnés (mention spéciale à Arnaud HERITIER, Adrien et Estelle LANDRY ainsi que les techniciens).
-
-Les conférences et keynotes ont été ultra-variées : un grand merci à tous les speakers et au comité de sélection !
-
-Enfin, un plus qu'énorme merci à mon amoureux Stéphane, qui m'a motivée à préparer, soumettre, qui m'a écoutée (beaucoup beaucoup...), accompagnée, coachée et qui a été tout aussi stressé que moi ❤️️
-
-Je vous laisse avec d'autres photos souvenirs, n'hésitez pas à me les demander en 'joli' format si elles vous intéressent.
-
-Les goodies de l'année dans un super sac :
-![Les goodies de l'année dans un super sac]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir1.png)
-
-Qui qui finit 1ère du Kahoot d'OVHCloud ?
-![Le concours OVHCloud]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir2.png)
-
-L'avant TADx :
-![l'avant TADx]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir3.png)
-
-Mon coach, [Stéphane](https://twitter.com/wildagsx) :
-![coach Stéphane]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir4.png)
-
-[Aurélie](https://twitter.com/aurelievache) juste avant le talk de [Sonia](https://twitter.com/sonia_seddiki) :
-![Aurélie et Sonia]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir5.png)
-
-[Julien](https://twitter.com/jlengrand) un peu avec nous malgré tout :
-![petits cadeaux de Julien]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir6.png)
-
-[Arnaud](https://twitter.com/aheritier) et [Katia](https://twitter.com/karesti) présentant les keynotes :
-![Arnaud et Katia]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir7.png)
-
-Le dîner des speakers (je me sens toute petite) :
-![dîner des speakers]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir8.png)
-
-[Gaëlle](https://twitter.com/Gaelleacas) et [Aurélie](https://twitter.com/aurelievache) accompagnées par [Estelle](https://twitter.com/estelandry) pour leur talk :
-![Gaëlle, Aurélie et Estelle]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir9.png)
-
-Juste merciiiiii !!!
-![kiff]({{ site.url }}{{ site.baseurl }}/assets/images/souvenir10.png)
-
-PS : J'ai peut-être fait des fautes, écrit des bêtises => je vous invite à m'en faire part pour améliorer mon contenu !
+PS : J'ai peut-être fait des fautes, écrit des bêtises => je vous invite à m'en faire part pour améliorer mon contenu, par PR ou par mail.
