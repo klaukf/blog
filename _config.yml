@@ -1,7 +1,7 @@
 # Site
 name: "Fanny's blog"
 title: "Fanny's blog"
-description: "Réflexions, tips et retours d'expérience d'une accompagnatrice agile"
+description: "Réflexions, tips et retours d'expérience d'une Accompagnatrice agile & DevOps"
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: /blog
@@ -21,7 +21,8 @@ authors:
     email: klaukf@gmail.com
     web: https://klaukf.github.io/blog/
     twitter: https://twitter.com/klf37
-    description: "Accompagnatrice agile, co-créatrice de TADx, maman, amoureuse, adore les chouchous."
+    bluesky: https://bsky.app/profile/klf37.bsky.social
+    description: "Accompagnatrice agile & DevOps, co-créatrice de TADx, maman, amoureuse, adore les chouchous."
  
 # Plugins - ne pas toucher
 plugins:

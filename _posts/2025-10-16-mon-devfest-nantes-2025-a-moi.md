@@ -44,7 +44,7 @@ C'est un Jef-Dracula et une Annabelle-Poppy qui ouvrent ce premier chapitre de p
 
 ![Jef-Dracula]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/JefDracula.png)
 
-La scène est majestueuse, les costumes sont incroyable (bravo Ptibulle !) et j'ai beaucoup de mal à retranscrire en live l'émotion d'être présente (je me relirai posément par la suite et rajouterai ceci : je suis toujours dans l'émotion de cette ouverture deux jours après ^^).  
+La scène est majestueuse, les costumes sont incroyables (bravo Ptibulle !) et j'ai beaucoup de mal à retranscrire en live l'émotion d'être présente (je me relirai posément par la suite et rajouterai ceci : je suis toujours dans l'émotion de cette ouverture deux jours après ^^).  
 
 ![Annabelle-Poppy et l'équipe]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/AnnabellePoppy.png)
 
@@ -65,6 +65,8 @@ Alors qu'elle zoome sur le projet "conseil bien suivi" aka "Advice Well Taken", 
 
 A partir de ces observations, elle a l'idée de nommer le folklore autour de la Tech : le "Techklore".  
 
+![Dasha en Keynote inspirante en amphi Jules Verne]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/DashaKeynote.png)  
+
 Alors y a-t-il un équivalent aujourd'hui ?  
 OUI dans la façon dont nous partageons les informations sur nos différents réseaux sociaux.  
 
@@ -72,7 +74,7 @@ De ces usages, toujours plus importants, surgit la question de la limite entre p
 Dasha parcourt un certain nombre de cas qui nous font sourire, mais réfléchir aussi : 
 - utilisation du cache-caméra, d'un bout de scotch sur l'entrée du micro de nos ordinateurs
 - nos commportements de contournement, comme l'utilisation de nos téléphones sous la douche pour écouter la musique (à l'époque hein ! maintenant il y a des enceintes bluetooth pour cela les gens !!)
-- nos convictions partagées mais pas toujourss rationnelles (mettre son téléphone dans du riz cru lorsqu'on a renversé du liquide dessus, réparer les micro-fissures de son écran de téléphone avec du dentifrice...)
+- nos convictions partagées mais pas toujours rationnelles (mettre son téléphone dans du riz cru lorsqu'on a renversé du liquide dessus, réparer les micro-fissures de son écran de téléphone avec du dentifrice...)
 
 Force est de constater qu'on ne comprend pas toujours comment fonctionne nos produits (téléphone, application, connexions...) mais on les utilise massivement, en confiant ces tâches à des Big Techs qui conservent leurs façons de faire secrètes.  
 
@@ -85,16 +87,14 @@ pas sûre...
 
 
 Pour suivre Dasha sur les réseaux, ça se passe sur Instagram : [dashesandcommas](https://www.instagram.com/dashesandcommas/)  
-Lien vers les slides - *à venir* 
+Lien vers les slides - *à venir*  
 Lien vers la vidéo de Dasha - *à venir*  
-
-![Dasha en Keynote inspirante en amphi Jules Verne]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/DashaKeynote.png)  
 
 
 
 ### Chapitre 3 : La légende des Lecteurs d'Ecran : une odyssée sensorielle au coeur de nos apps - Océane Gillard et Patrice de Saint Steban
 
-Il y a plusieurs façon de participer en tant qu'attendee à une conférence. la première consiste à assister, écouter, s'enrichir, noter en étant assis dans un siège puis poser des questions éventuellement aux speakers en fin de présentation. Cela demande déjà de sortir de sa zone personnelle de sécurité (se mêler à la foule, oser poser une question...)  
+Il y a plusieurs façon de participer en tant qu'attendee à une conférence. la première consiste à assister, écouter, s'enrichir, noter en étant assis dans un siège puis poser des questions éventuellement aux speakers en fin de présentation. Cela demande déjà de sortir de sa zone personnelle de sécurité (se mêler à la foule, oser poser une question...).  
 La seconde demande un effort supplémentaire (mais tellement enrichissante !) : aller en atelier, prendre en main une problématique, essayer de la résoudre... au risque d'échouer ? non, au risque d'apprendre encore plus !  
 Ni une ni deux, c'est l'occasion pour moi de surmonter mon illégitimité à pratiquer (depuis que je ne code plus qu'en side projects), et découvre les possibilités d'amélioration d'accessibilité des sites par la pratique.  
 
@@ -110,9 +110,9 @@ Après avoir parlé de WCAG avec les différents niveaux d'accessibilité AAA et
 
 *Attention : je suis sous Androïd (un magnifique Samsung des années 2010), les manipulations seront différentes si on est sous iOs.*  
 
-On commence par comprendre la navigation de base :  
+On commence par comprendre la navigation de base :
 - un clic > description de ce que c'est (texte, bouton, ...)  
-- 2 clics > activation 
+- 2 clics > activation  
 On déroule ainsi le mode opératoire disponible via Talkback pour apprendre à revenir sur l'écran d'accueil, à aller sur une application récemment ouverte, à monter et baisser le son du TalkBack, à revenir sur la page précédente... et l'ouverture du menu TalkBack en appuyant sur l'écran avec trois doigts (ne serait-ce que pour l'arrêter pour le reste de la journée, sous peine de s'entendre décrire les notifications reçues à tout bout de champs ^^).
 
 ça parait facile hein ?  
@@ -120,11 +120,11 @@ ma galère à moi : bien voir... bon mais ça biaise tout l'exercice -> merci au
 
 ![Les quêtes d'accessibilité de la journée]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/queteAccessibilite.png) 
 
-Première quête : on se noue les bandeaux sur les yeux et on essaie d'utiliser la calculatrice. Déjà, il faut la trouver dans nos menus. Léger biais : je sais exactement où trouver l'application en favoris sur la deuxième page de mon écran d'accueil.  
+**Première quête :** on se noue les bandeaux sur les yeux et on essaie d'utiliser la calculatrice. Déjà, il faut la trouver dans nos menus. Léger biais : je sais exactement où trouver l'application en favoris sur la deuxième page de mon écran d'accueil.  
 Une fois lancée et malgré le peu de boutons possibles, on subit déjà la recherche sur l'écran tactile sans repère. Heureusement, le fonctionnement "à deux étapes" permet de tâtonner gentiment : on clique sur le 4 (enfin on essaie) et tant qu'on ne le trouve pas, on ne double-clic pas pour l'activer.
 Biais supplémentaire : je connais très bien mon clavier de calculatrice, qu'en serait-il d'un clavier inconnu ?
 
-Deuxième quête : touver la distance entre DevFest Nantes et Zenika Nantes -> ce n'est pas "juste" chercher Zenika...  
+**Deuxième quête :** touver la distance entre DevFest Nantes et Zenika Nantes -> ce n'est pas "juste" chercher Zenika...  
 Je triche un peu au départ et choisis mon application google Maps après moults péripéties à ne pas trouver l'application les yeux fermés...  
 puis... la découverte : on ne peut pas tâtonner, comme pour la calculatrice, l'ensemble du clavier alpha-numérique de la barre de recherche et double-cliquer que lorsqu'on valide le carctère choisi. Il va falloir balayer le clavier jusqu'à ce que la lettre entendue vous convienne.  
 On s'y fait assez vite (même si mes gros doigts n'aiment pas le "a", je ne sais pas pourquoi).  
@@ -134,7 +134,7 @@ Mais ça ne s'arrête pas là : il faut trouver l'info précise de la distance :
 Il faut balayer avec un doigt vers la droite pour passer d'information en information, et écouter patiemment si on obtient l'information tant recherchée...  
 au total : 21 balayages pour savoir que je suis à 1,5km de Zenika Nantes ! Cela interroge aussi sur la logique de lecture d'un écran et/ou le nombre d'informations sur une page.  
 
-Troisième et dernière quête sur téléphone (je n'ai pas réussi sur le moment dans le temps imparti mais j'y suis revenue par la suite) : aller sur le site de DevFest Nantes et trouver le nombre de participants...  
+**Troisième et dernière quête** sur téléphone (je n'ai pas réussi sur le moment dans le temps imparti mais j'y suis revenue par la suite) : aller sur le site de DevFest Nantes et trouver le nombre de participants...  
 
 Moralité de l'histoire : nos téléphones ne sont pas organisés de manière accessibles, on ne sait pas par coeur où chercher.
 En réalité, les personnes qui ont l'habitude d'utiliser TalkBack "écoutent vite" là où nous avons tâtonné.  
@@ -144,7 +144,9 @@ C'est aussi un avantage des applications mobiles versus les pages webs : les inf
 Et l'IA dans tout ça ?  
 En tant qu'utilisateur, se servir de l'IA pour balayer un site, c'est bien et ce n'est pas bien  : c'est bien quand la conception du site sur lequel on est n'est pas waouh. L'IA permet alors de potentiellement l'améliorer. Mais elle risque de rentrer en concurrence de certaines notions voir faire des contre-sens.  
 
-On passe maintenant à l'analyse et la correction d'un site au niveau accessibilité : balises html `div` utilisées à tort et à travers, contrastes pas optimisés... On analyse le code et on teste la navigation via TalkBack sur nos téléphones.  
+![Océane et Patrice de Zenika pendant leur atelier]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/OceanePatriceAccessibilite.png)
+
+On passe maintenant à l'analyse et la correction d'un site au niveau accessibilité : balises html `<div>` utilisées à tort et à travers, contrastes pas optimisés... On analyse le code et on teste la navigation via TalkBack sur nos téléphones.  
 On apprend rapidement et efficacement de nos "erreurs", j'aime beaucoup cette façon d'itérer. Et en plus l'atelier est pensé de telle façon que quoiqu'il arrive, nous aurons la correction a posteriori.
 
 Les premiers tips que je me suis notés :
@@ -165,8 +167,6 @@ Un grand merci Océane et Patrice pour cet atelier et votre disponibilité 🙏
 Pour suivre Océane et Patrice, ça se passe sur LinkedIn : [oceane-gillard](https://www.linkedin.com/in/oceane-gillard/) et [patrice-de-saint-steban](https://www.linkedin.com/in/patrice-de-saint-steban/)  
 Lien vers les slides - *à venir*
 
-![Océane et Patrice de Zenika pendant leur atelier]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/OceanePatriceAccessibilite.png)
-
 
 
 ### Chapitre 4 : Charmer les dragons : pitcher son produit comme un héros - Montaine Marteau et Rachel Dubois
@@ -178,6 +178,8 @@ Oui mais je VEUX ma place (et elles sont chères quand on sait que c'est 2300 pe
 Pourquoi cette impatience ?  
 Parce que Rachel, parce que Montaine et parce qu'en terme de transmission d'infos et d'apprentissage, on ne peut mieux tomber. S'assurer une place à ce workshop, c'est gagner 8 points de progression et d'ouverture d'esprit sur une échelle de 10.  
 Et puis par curiosité aussi autour du sujet qui n'est clairement pas mon expertise.  
+
+![Montaine et Rachel devant leurs slides magnifiques]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/MontaineRachel.png)
 
 L'atelier est tellement prenant que ces quelques notes sont écrites a posteriori.  
 
@@ -213,8 +215,6 @@ Pour quoi j'ai adoré l'approche utilisée et cet atelier en général : parce q
 Un ENORME merci à Rachel et Montaine qui nous embarquer dans leur monde féérique pour mieux ré-atterrir dans le notre.
 
 
-![Montaine et Rachel devant leurs slides magnifiques]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/MontaineRachel.png)
-
 Pour suivre Montaine et Rachel, ça se passe sur LinkedIn : [montaine-marteau](https://www.linkedin.com/in/montaine-marteau/) et [duboisrachel](https://www.linkedin.com/in/duboisrachel/)  
 Lien vers les slides - *à venir* - et ils sont trop beaux 🤩
 
@@ -244,7 +244,7 @@ Terramate se lance toutes les nuits (pas forcément sur toutes les stacks, il es
 Mon avis : je suis carrément convaincue que Terramate peut être un outil facile à installer et à utiliser. Mais comme l'a précisé Mathieu, la partie CI/CD se doit d'être travaillée en amont. Je vois donc cette étape comme une deuxième marche intéressante à monter une fois une CI minimale posée.
 
 Pour suivre Mathieu, ça se passe par sur LinkedIn : [mathieu-herbert-347b0b7a](https://www.linkedin.com/in/mathieu-herbert-347b0b7a/)  
-Lien vers les slides - *à venir*
+Lien vers les slides - *à venir*  
 Lien vers la vidéo de Mathieu - *à venir*
 
 
@@ -275,7 +275,7 @@ Si vous êtes intéressés pour réaliser des défis OSINT, Marie nous a partag�
 ![Marie en amphi Titan]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/MarieTitan.png)
 
 Pour suivre Marie, ça se passe sur LinkedIn : [marieviley](hhttps://www.linkedin.com/in/marieviley/)  
-Lien vers les slides - *à venir* 
+Lien vers les slides - *à venir*  
 Lien vers la vidéo de Marie - *à venir*
 
 
@@ -342,7 +342,7 @@ Cette optimisation permet de réduire les coûts en distribuant les charges (et 
 Avec Nodepool, on peut indiquer le nombre de CPU max à utiliser et limiter le nombre de nodes par tranche horaire par exemple (scale up uniquement possible mais pas de destruction de VM entre 11h et 16h par exemple) -> vraiment à adapter à notre contexte particulier.  
 Modifier la durée de vie des VM est aussi possible -> ainsi la version d'OS est toujours OK, sans mise à jour à gérer (et ça, en effet, ça me parle bien 😅 ).  
 
-Donc en résumé : 
+Donc en résumé :
 - Keda fait varier le nombre de pods
 - Karpenter fait varier le nombre de noeuds
 
@@ -355,10 +355,9 @@ Enfin, une autre optimisation possible : changer defamille de noeuds, par exempl
 A la fin de leur retour d'expérience, le duo entrevoit déjà d'autres optimisations possibles : affiner le nombre de pods en heures creuse, scaling dynamique au cours de la journée, passage en instance Graviton (processeur ARM) avec un gain estimé de 10%...  
 En espérant qu'ils reviennent un jour refaire un REX mis à jour  ^^
 
-![Guillaume et Sébastien en amphi Titan]({{ site.url }}{{ site.baseurl }}/assets/images/GuillaumeSebastien.png)
 
 Pour suivre Guillaume et Sébastien, ça se passe sur LinkedIn : [gmembre](https://www.linkedin.com/in/gmembre/) et Sébastien - *à venir*  
-Lien vers les slides - *à venir*  
+Lien vers les [slides](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fwww.slideshare.net%2Fslideshow%2Fkarpenter-x-keda-le-duo-gagnant-du-finops%2F283855928&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-NjIyODE1MGUtY2IwMS00YzgwLTgyNGUtZDAyYzBjMWJmNjE0XzEwMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B2cK7UsSDSBS3N8tlj0ziVA%3D%3D)  
 Lien vers la vidéo de Guillaume et Sébastien - *à venir*
 
 
@@ -388,7 +387,7 @@ Je me suis donc plutôt intéressée à la forme et à la technique possible dan
 
 Il existe bien évidemment des alternatives numériques à Obsidian : Onenote, Evernote, Notion... tout dépend d'avec quoi on est à l'aise et je pense que la maîtrise de chaque outil demande de toute façon du travail.  
 
-Avantages du numérique d'abord : 
+Avantages du numérique d'abord :
 - la navigation entre les pages, avec références multiples possibles, pas seulement "le sens de la lecture du format papier"
 - le copier-coller : et oui quand même ! ce n'est pas négligeable
 - l'automatisation d'actions
@@ -416,16 +415,17 @@ Je sors de cette conférence en ayant tout plein d'idées de choses à tester : 
 ![Hoani en amphi Titan]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/HoaniTitan.png)
 
 Pour suivre Hoani, ça se passe sur LinkedIn : [hoanicross](https://www.linkedin.com/in/hoanicross/)  
-Lien vers les slides - *à venir*
+Lien vers les slides - *à venir*  
 Lien vers la vidéo de Hoani - *à venir*
 
 
 
-### Chapitre 10 : Rencontre avec mes nouveaux collègues de CGI Nantes
+### Chapitre 10 : Rencontre sur les stands
 
 Contexte particulier du jour : ce n'est pas un stand Apside mais un stand CGI qui nous réprésente cette année à DevFest Nantes 2025.  
 J'en profite donc pour faire connaissance, notamment avec l'elfe-sauveuse Anne-Claire CHIARENZA et Cédric LE BRETON : m'est avis que nous allons écrire une belle histoire commune tout bientôt. C'est aussi ça la magie des contes 😇  
 
+J'en profite aussi pour faire un coucou sur le stand de Proginov que j'ai justement rencontré au DevFest Nantes 2023 et avec j'ai beaucoup aimé travailler.  
 
 
 ### Chapitre 11 : Agents intelligents, la nouvelle frontière des LLMs - Guillaume Laforge
@@ -463,7 +463,7 @@ Enfin Guillaume nous parle de la partie reflection & self critique (ReAct patter
 
 Et c'est parti pour les trois démos !
 
-1- Scène 1 : le RAG
+**1- Scène 1 : le RAG**
 Le RAG est unpattern pour être capable de chercher dans ses propres données, docs...  
 Attention : le RAG est entrainé jusqu'à une certaine date -> il y a donc une notion de "vérité jusqu'à telle date". 
 La première phase d'ingestion consiste à centraliser les documents de tout format, de les découper en petits morceaux, d'utiliser un embedding model qui va calculer des vectoriels (représentation sémantique multidimensionnelle) -> et les bouts de textes similaires vont avoir des vecteurs qui vont pointer vers le même endroit.  
@@ -471,11 +471,11 @@ Ainsi le vecteur d'une question dans le prompt est assez proche du vecteur de la
 La complexité de la question déterminera le nombre d'étapes nécessaires (j'adore l'exemple que prend Guillaume : "quel est le nom du président du pays dans lequel on trouve la tour eiffel dans la capitale ?" -> on va bien avoir plusieurs questions en une).  
 Pour y réponde, on utilise un Agentic RAG qui lui, découpe les questions en plusieurs topics, et le topic assistant va être appelé x fois (une fois par topic) avant de renvoyer les réponses à l'assistant agentique qui sera capable de résumer le tout.  
 
-2- Scène 2 : Authoring Agent
+**2- Scène 2 : Authoring Agent**
 Tous les jours, un site web est amendé d'une histoire générée avec des images et du texte, avec à chaque fois 5 chapitres (avec ImaGen de Google).  
 Tous les jours à minuit,  un cron Google Cloud Scheduler appelle l'appication qui va driver le workflow, choisir un type d'histoire (space opera, scifi...) : 5 prompts pour générer les 5 chapitres. Ensuite il appelle le générateur d'image avec ces prompts -> ce sont, à chaque appel, 4 images par défaut qui sont générées, se rajoute donc une étape de sélection de celle qui correspond le mieux au chapitre.  
 
-3- Scène 3 - Création du pont entre LangChain4j et ADK développé par Guillaume.  
+**3- Scène 3 - Création du pont entre LangChain4j et ADK** développé par Guillaume.  
 L'idée de ADK c'est de faire différents niveaux d'agents.  
 Une DevUI vient avec ADK et on peut voir les détails de l'appel, on peut cliquer pour avoir des détails et voir aussi l'aspect graphique des étapes.  
 
@@ -502,21 +502,21 @@ On découvre aussi l'outil posting, genre de postman où on navigue par tabulati
 Parti pris de Thierry : pour que la TUI corresponde à son besoin, il faut la développer soit même.  
 Mais comment ? on parle de picocli, mais c'est une CLI, c'est encore autre chose...  
 Il y a bien Lanterna mais ce n'est pas idéal.  
-Il y a le projet de JakeWharton mais c'est un peu lourd et un peu trop side project.  
+Il y a le projet de Jake Wharton mais c'est un peu lourd et un peu trop side project.  
 Du côté de chez Spring, il y a springUI (merci Stéphane !).  
 
-Allez go : Scène 1 : Thierry nous embarque dans une première démonstration à base de Spring Boot (on n'oublie pas les ";" hein...)  
+Allez go : **Scène 1 :** Thierry nous embarque dans une première démonstration à base de **Spring Boot** (on n'oublie pas les ";" hein...)  
 Classe Hello Nantes, composant helloLesGens, et bonne pratique : partir d'une box View !  
 Menu dans le header et helpers de raccourci clavier dans le footer : on retrouve nos petits au fur et à mesure.  
 
-Scène 2 : et en Python ?  
+**Scène 2 : et en Python ?**  
 librairie typer, rich, textual (avec mêmes types d'infos qu'en CSS). 
 fonction compose, onglets. 
 
-Scène 3 : en Go. 
+**Scène 3 : en Go.**  
 se renseigner sur charms, bubbletea et cobra pour la partie TUI  
 
-Scène 4 : en Rust (mon voisin de droite vit sa meilleure vie)  
+**Scène 4 : en Rust** (mon voisin de droite vit sa meilleure vie)  
 Et pour cause : c'est peut-être le framework le plus puissant pour faire des TUI (clap)  
 & le framework ratatui.  
 
@@ -525,7 +525,7 @@ J'ai bien aimé l'idée intéressante évoquée : l'accessibilité dans les TUI.
 Bientôt une Scène 5 ? Thierry nous a parlé de COBOL en partant... vraiment ?   
 To be continued...  
 
-![Thierry en salle Bretagne]({{ site.url }}{{ site.baseurl }}/assets/images/ThierryBretagne.png)
+![Thierry en salle Bretagne]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/ThierryBretagne.png)
 
 Pour suivre Thierry, ça se passe sur Bluesky : [@TitiMoby](https://bsky.app/profile/titimoby.bsky.social)  
 Lien vers les slides - *à venir*  
@@ -545,12 +545,12 @@ De manière bien huilée et bien rythmée, on découvre en 20 minutes les premie
 
 Petit kiff de conférence : j'adore l'utilisation des snippets pour à la fois gagner du temps en démo sans se planter sur un caractère et passer 10 minutes à corriger, tout en permettant au publlic de lire le contenu.  
 
-Et big-up aussi à Ambre Person, MC (maître de cérémonie) de Stéphane pour l'occasion.  
+Et big-up aussi à Ambre PERSON, MC (maître de cérémonie) de Stéphane pour l'occasion.  
 
-![Stéphane en amphi Belem]({{ site.url }}{{ site.baseurl }}/assets/images/StephaneBelem.png)
+![Stéphane en amphi Belem]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/StephaneBelem.png)
 
 Pour suivre Stéphane, ça se passe sur Bluesky : [@wilda](https://bsky.app/profile/wilda.bsky.social)  
-Lien vers les slides - *à venir* 
+Lien vers les slides - *à venir*  
 Lien vers la vidéo de Stéphane - *à venir*
 
 
@@ -564,7 +564,7 @@ Il est composé de :
 - 3 marqueurs de position
 - un pattern d'alignement pour gérer l'orientation
 
-carré noir vaut 1
+carré noir vaut 1  
 carré blanc vaut 0
 
 Alors comment gére-t-on les erreurs ? en ajoutant des données (cf. implémentation de Reed-Solomon).  
@@ -580,7 +580,7 @@ Sur la base de ses démos pré-enregistrées, nous avons pu suivre "en live" l'e
 
 Très esthétique, visuel et beau pour finir cette deuxième journée : merci Raphaël !  
 
-![Raphaël en amphi Belem]({{ site.url }}{{ site.baseurl }}/assets/images/RaphaelBelem.png)
+![Raphaël en amphi Belem]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/RaphaelBelem.png)
 
 Pour suivre Raphaël, ça se passe sur LinkedIn : [raphaelsemeteys](https://www.linkedin.com/in/raphaelsemeteys/)  
 Lien vers les slides - *à venir*  
@@ -593,6 +593,7 @@ Lien vers la vidéo de Raphaël - *à venir*
 Et bien, après avoir eu la chance, il y a deux ans, de monter sur scène pour une session Burger Quizz façon Pop-Corn sur le thème du cinéma, ce soir c'est une troupe de théâtre d'improvisation qui nous fait rire à l'unisson : métier de Cloud Architect revu et corrigé façon moyennageuse en Architecte de nuages, exercices de répartition de la parole et d'inventions de situations les plus cocasses... C'était la meilleure façon de clôturer cette édition.  
 
 Un grand merci à la [troupe la Faltazi](https://lafaltazi.com) !  
+*pardon pour la qualité de la photo : elel est floue, je riais trop...*
 
 ![La joute de la Faltazi]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/faltazi.png)
 
@@ -609,7 +610,7 @@ Bravo pour tout ce que vous avez mis en place pour que tout le monde se sente en
 
 Depuis Devoxx France 2025, j'avais fait une pause dans les conférences, ça m'a fait un bien fou de discuter avec vous toutes et tous.  
 
-Mention spéciale à Marjorie pour sa gentillesse légendaire, Sonia pour son humanité sincère, Rachel et Montaine pour ce duo formidable de bonne humeur et de rires, Thomas et Mathieu (ou l'inverse) pour respectivement leur Pom'ptes, le Jagerbomb et les olives (les oreilles d'elfe vous vont si bien), Natalia pour son sourire rayonnant, Thierry pour ses passions folles et ses expérimentations, Marie et notre fou rire (on ne dira pas pourquoi), Julien pour sa générosité débordante, Denis et Quentin pour leur duo sympatique, Guillaume pour sa simplicité touchante, Raphaël pour sa bienveillance  et bien sûr mon inégalable et irremplaçable moitié Stéphane.  
+Mention spéciale à Marjorie pour sa gentillesse légendaire, Sonia pour son humanité sincère, Rachel et Montaine pour ce duo formidable de bonne humeur et de rires, Thomas et Mathieu (ou l'inverse) pour respectivement leur Pom'ptes, le Jagerbomb et les olives (les oreilles d'elfe vous vont si bien), Natalia pour son sourire rayonnant, Thierry pour ses passions folles et ses expérimentations, Marie et notre fou rire (on ne dira pas pourquoi), Julien pour sa générosité débordante, Denis et Quentin pour leur duo sympatique, Guillaume pour sa simplicité touchante, Laurent pour ses pommes, Raphaël pour sa bienveillance et bien sûr mon inégalable et irremplaçable moitié Stéphane.  
 Merci aussi à toutes celles et ceux avec qui j'ai pu discuter, apprendre ou rigoler, je reviens boostée grâce à vous : Olivier H., Jérôme, Ambre, Pierre, Nicolas G., Benjamin, Olivier L., Antoine et l'équipe Devoxx présente : Nicolas M., Zouheir, Quentin, Marie, Estelle, Fred, Rebecca. 
 
 
