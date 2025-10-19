@@ -611,7 +611,7 @@ Bravo pour tout ce que vous avez mis en place pour que tout le monde se sente en
 Depuis Devoxx France 2025, j'avais fait une pause dans les conférences, ça m'a fait un bien fou de discuter avec vous toutes et tous.  
 
 Mention spéciale à Marjorie pour sa gentillesse légendaire, Sonia pour son humanité sincère, Rachel et Montaine pour ce duo formidable de bonne humeur et de rires, Thomas et Mathieu (ou l'inverse) pour respectivement leur Pom'ptes, le Jagerbomb et les olives (les oreilles d'elfe vous vont si bien), Natalia pour son sourire rayonnant, Thierry pour ses passions folles et ses expérimentations, Marie et notre fou rire (on ne dira pas pourquoi), Julien pour sa générosité débordante, Denis et Quentin pour leur duo sympatique, Guillaume pour sa simplicité touchante, Laurent pour ses pommes, Raphaël pour sa bienveillance et bien sûr mon inégalable et irremplaçable moitié Stéphane.  
-Merci aussi à toutes celles et ceux avec qui j'ai pu discuter, apprendre ou rigoler, je reviens boostée grâce à vous : Olivier H., Jérôme, Ambre, Pierre, Nicolas G., Benjamin, Olivier L., Antoine et l'équipe Devoxx présente : Nicolas M., Zouheir, Quentin, Marie, Estelle, Fred, Rebecca. 
+Merci aussi à toutes celles et ceux avec qui j'ai pu discuter, apprendre ou rigoler, je reviens boostée grâce à vous : Olivier H., Jérôme, Ambre, Pierre, Nicolas G., Benjamin, Olivier L., Antoine et l'équipe Devoxx présente : Nicolas M., Zouheir, Quentin, Marie, Estelle, Fred, Elysia... 
 
 
 Merci, merci, merci.
