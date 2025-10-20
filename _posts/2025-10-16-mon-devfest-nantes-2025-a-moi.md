@@ -165,7 +165,7 @@ Alors si je dois résumer : ayez la structure html la plus logique possible, qui
 Un grand merci Océane et Patrice pour cet atelier et votre disponibilité 🙏
 
 Pour suivre Océane et Patrice, ça se passe sur LinkedIn : [oceane-gillard](https://www.linkedin.com/in/oceane-gillard/) et [patrice-de-saint-steban](https://www.linkedin.com/in/patrice-de-saint-steban/)  
-Lien vers les slides - *à venir*
+[Lien vers les slide](https://docs.google.com/presentation/d/1cN_PAvfl6Jdz0E5e9EdtXn1RCq6iGxCDcoIEuLJOfkM/edit?usp=sharing)
 
 
 
