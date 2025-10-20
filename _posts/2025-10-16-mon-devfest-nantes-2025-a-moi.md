@@ -550,7 +550,7 @@ Et big-up aussi à Ambre PERSON, MC (maître de cérémonie) de Stéphane pour l
 ![Stéphane en amphi Belem]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/StephaneBelem.png)
 
 Pour suivre Stéphane, ça se passe sur Bluesky : [@wilda](https://bsky.app/profile/wilda.bsky.social)  
-Lien vers les slides - *à venir*  
+[Lien](https://docs.google.com/presentation/d/e/2PACX-1vRF50mgvW6KzZf6lspATsmJRfTU79-CdlyDO8JP23f6ZldfvSGCkxe7wRwy9WaQMfD3EVqza0q5ukkB/pub) vers les slides   
 Lien vers la vidéo de Stéphane - *à venir*
 
 
