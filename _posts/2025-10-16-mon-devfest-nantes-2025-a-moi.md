@@ -196,7 +196,7 @@ Si on veut que notre idée aboutisse, il faut avoir de l'impact, il faut que ça
 - scène 3 : chiffrer ! prouver ! démontrer que la solution est LA solution car les chiffres marquent les esprits
 - scène 4 : conclure que la vision du projet, le but.
 
-Par feedback interposé, nous nous sommes posé les questions en binôme (merci à Loïc d'avoir permis de le faire dans d'excellentes condiitons !) pour définir si ce premier pitch nous avait donné envie d'écouter, si nous avions compris et le problème et la solution, si la posture, le ton, la preuve paressaient crédible et si nous nous étions sentis inspirés, prêts à accepter.  
+Par feedback interposé, nous nous sommes posé les questions en binôme (merci à Loïc d'avoir permis de le faire dans d'excellentes conditions !) pour définir si ce premier pitch nous avait donné envie d'écouter, si nous avions compris et le problème et la solution, si la posture, le ton, la preuve paressaient crédibles et si nous nous étions sentis inspirés, prêts à accepter.  
 
 Acte II : pimper ce même pitch, avec des techniques avancées.  
 Grâce à quelques extraits vidéos inspirantes, nous avons parcourus différentes autres techniques, telles que :  
@@ -205,14 +205,14 @@ Grâce à quelques extraits vidéos inspirantes, nous avons parcourus différent
 - la règles des 3 raisons, 3 problèmes, 3 chiffres, 3 bénéfices...
 - le mode Disney (le fait d'utiliser les contrastes pour accentuer, pas le fait de faire disparaître les mamans dès les premières secondes du pitch !!)
 - le silence stratégique
-- le rythme cresendo
+- le rythme crescendo
 - etc...
 
 Bilan : notre deuxième version a été incroyablement plus percutante, plus crédible et plus embarquante.  
 
-Pour quoi j'ai adoré l'approche utilisée et cet atelier en général : parce que ça parle et ça doit servir à tout le monde. Orienter un choix techniques, prendre part à une décision d'équipe, demander une reconnaissance, innover, négocier du temps pour innover (celles et ceux qui me connaissent bien me voient venir...), bref : c'était une sessions de partage utile et sans frontière.  
+Pourquoi j'ai adoré l'approche utilisée et cet atelier en général : parce que ça parle et ça doit servir à tout le monde. Orienter un choix techniques, prendre part à une décision d'équipe, demander une reconnaissance, innover, négocier du temps pour innover (celles et ceux qui me connaissent bien me voient venir...), bref : c'était une session de partage utile et sans frontière.  
 
-Un ENORME merci à Rachel et Montaine qui nous embarquer dans leur monde féérique pour mieux ré-atterrir dans le notre.
+Un ENORME merci à Rachel et Montaine qui nous ont embarqués dans leur monde féérique pour mieux ré-atterrir dans le nôtre.
 
 
 Pour suivre Montaine et Rachel, ça se passe sur LinkedIn : [montaine-marteau](https://www.linkedin.com/in/montaine-marteau/) et [duboisrachel](https://www.linkedin.com/in/duboisrachel/)  
@@ -224,7 +224,7 @@ Lien vers les slides - *à venir* - et ils sont trop beaux 🤩
 
 Je change encore de sujet.  
 
-Terrraform aujourd'hui ne permet pas de gèrérer simplement des environnements multiples. Or pour celles et ceux qui mettent en production au quotidien (bien sûr que c'est possible ! même le vendredi !), on aimerait bien que ce soit le même code qui soit identique en dev comme en prod.  
+Terrraform aujourd'hui ne permet pas de générer simplement des environnements multiples. Or pour celles et ceux qui mettent en production au quotidien (bien sûr que c'est possible ! même le vendredi !), on aimerait bien que ce soit le même code qui soit identique en dev comme en prod.  
 En outre, se rajoute le besoin de traçabilité (DevOps oblige) et de monitoring (a minima les détections de changements.
 
 Pour répondre à ces besoins, Mathieu nous introduit l'outil Terramate, entreprise EU qui propose un outil Terramate Cloud, une UI, pour gérer des workflows et être alerté. Il vient avec un autre outil open source CLI pour générer du code et orchestrer des déploiements de stack.  
@@ -275,7 +275,6 @@ Si vous êtes intéressés pour réaliser des défis OSINT, Marie nous a partag�
 ![Marie en amphi Titan]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/MarieTitan.png)
 
 Pour suivre Marie, ça se passe sur LinkedIn : [marieviley](hhttps://www.linkedin.com/in/marieviley/)  
-Lien vers les slides - *à venir*  
 Lien vers la vidéo de Marie - *à venir*
 
 
@@ -425,7 +424,7 @@ Lien vers la vidéo de Hoani - *à venir*
 Contexte particulier du jour : ce n'est pas un stand Apside mais un stand CGI qui nous réprésente cette année à DevFest Nantes 2025.  
 J'en profite donc pour faire connaissance, notamment avec l'elfe-sauveuse Anne-Claire CHIARENZA et Cédric LE BRETON : m'est avis que nous allons écrire une belle histoire commune tout bientôt. C'est aussi ça la magie des contes 😇  
 
-J'en profite aussi pour faire un coucou sur le stand de Proginov que j'ai justement rencontré au DevFest Nantes 2023 et avec j'ai beaucoup aimé travailler.  
+J'en profite aussi pour faire un coucou sur le stand de Proginov que j'ai justement rencontré au DevFest Nantes 2023 et avec qui j'ai beaucoup aimé travailler.  
 
 
 ### Chapitre 11 : Agents intelligents, la nouvelle frontière des LLMs - Guillaume Laforge
@@ -528,7 +527,7 @@ To be continued...
 ![Thierry en salle Bretagne]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/ThierryBretagne.png)
 
 Pour suivre Thierry, ça se passe sur Bluesky : [@TitiMoby](https://bsky.app/profile/titimoby.bsky.social)  
-Lien vers les slides - *à venir*  
+Lien vers les [slides de Thierry](https://dis.tontoncodeur.com/talks/pdf/2025_October_TUI_Devfest_Nantes.pdf)  
 Lien vers la vidéo de Thierry - *à venir*
 
 
@@ -541,7 +540,7 @@ Pour s'affranchir de la lourdeur du squelette apporté par du classique Maven lo
 Alors pourquoi pas faire du Python ou du bash Stéphane ?  
 Ah oui... parce que tout ce qui peut être fait en Java, doit être fait en Java 😆  
 
-De manière bien huilée et bien rythmée, on découvre en 20 minutes les premiers avantages possibles à utiliser JBang
+De manière bien huilée et bien rythmée, on découvre en 20 minutes les premiers avantages possibles à utiliser JBang.  
 
 Petit kiff de conférence : j'adore l'utilisation des snippets pour à la fois gagner du temps en démo sans se planter sur un caractère et passer 10 minutes à corriger, tout en permettant au publlic de lire le contenu.  
 
@@ -550,7 +549,7 @@ Et big-up aussi à Ambre PERSON, MC (maître de cérémonie) de Stéphane pour l
 ![Stéphane en amphi Belem]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/StephaneBelem.png)
 
 Pour suivre Stéphane, ça se passe sur Bluesky : [@wilda](https://bsky.app/profile/wilda.bsky.social)  
-[Lien](https://docs.google.com/presentation/d/e/2PACX-1vRF50mgvW6KzZf6lspATsmJRfTU79-CdlyDO8JP23f6ZldfvSGCkxe7wRwy9WaQMfD3EVqza0q5ukkB/pub) vers les slides   
+Lien vers les [slides de Stéphane](https://docs.google.com/presentation/d/e/2PACX-1vRF50mgvW6KzZf6lspATsmJRfTU79-CdlyDO8JP23f6ZldfvSGCkxe7wRwy9WaQMfD3EVqza0q5ukkB/pub)     
 Lien vers la vidéo de Stéphane - *à venir*
 
 
@@ -593,7 +592,7 @@ Lien vers la vidéo de Raphaël - *à venir*
 Et bien, après avoir eu la chance, il y a deux ans, de monter sur scène pour une session Burger Quizz façon Pop-Corn sur le thème du cinéma, ce soir c'est une troupe de théâtre d'improvisation qui nous fait rire à l'unisson : métier de Cloud Architect revu et corrigé façon moyennageuse en Architecte de nuages, exercices de répartition de la parole et d'inventions de situations les plus cocasses... C'était la meilleure façon de clôturer cette édition.  
 
 Un grand merci à la [troupe la Faltazi](https://lafaltazi.com) !  
-*pardon pour la qualité de la photo : elel est floue, je riais trop...*
+*pardon pour la qualité de la photo : elle est floue, je riais trop...*
 
 ![La joute de la Faltazi]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/faltazi.png)
 
@@ -611,7 +610,7 @@ Bravo pour tout ce que vous avez mis en place pour que tout le monde se sente en
 Depuis Devoxx France 2025, j'avais fait une pause dans les conférences, ça m'a fait un bien fou de discuter avec vous toutes et tous.  
 
 Mention spéciale à Marjorie pour sa gentillesse légendaire, Sonia pour son humanité sincère, Rachel et Montaine pour ce duo formidable de bonne humeur et de rires, Thomas et Mathieu (ou l'inverse) pour respectivement leur Pom'ptes, le Jagerbomb et les olives (les oreilles d'elfe vous vont si bien), Natalia pour son sourire rayonnant, Thierry pour ses passions folles et ses expérimentations, Marie et notre fou rire (on ne dira pas pourquoi), Julien pour sa générosité débordante, Denis et Quentin pour leur duo sympatique, Guillaume pour sa simplicité touchante, Laurent pour ses pommes, Raphaël pour sa bienveillance et bien sûr mon inégalable et irremplaçable moitié Stéphane.  
-Merci aussi à toutes celles et ceux avec qui j'ai pu discuter, apprendre ou rigoler, je reviens boostée grâce à vous : Olivier H., Jérôme, Ambre, Pierre, Nicolas G., Benjamin, Olivier L., Antoine et l'équipe Devoxx présente : Nicolas M., Zouheir, Quentin, Marie, Estelle, Fred, Elysia... 
+Merci aussi à toutes celles et ceux avec qui j'ai pu discuter, apprendre ou rigoler, je reviens boostée grâce à vous : Olivier H., Jérôme, Ambre, Pierre, Nicolas G., Benjamin, Olivier L., Antoine, Jean-Phi, Jimmy et l'équipe Devoxx présente : Nicolas M., Zouheir, Quentin, Marie, Estelle, Fred, Elysia... 
 
 
 Merci, merci, merci.
