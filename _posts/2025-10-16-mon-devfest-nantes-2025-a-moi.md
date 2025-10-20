@@ -24,7 +24,7 @@ Bon, par contre, cela ne garantit pas d'éviter les retards et de découvrir une
 
 Pourquoi cette partie de l'hitoire est importante ?  
 Parce qu'en nous rendant chacun à notre hôtel, nous sommes passés devant la Cité des Congrès où s'affichait déjà fièrement la devanture du DevFest : magistrale de finesse et de beauté : des livres et grimoires posés, attendant d'être ouverts...  
-Je pense aux organisatrices et organisateurs, aux bénévoles, aux speakers, aux sponsirs, aux participantes et participants qui ont eu la chance d'avoir des places... et me dit que je ne serai pas la seule ce soir à avoir du mal à trouver le sommeil par tant d'excitation !  
+Je pense aux organisatrices et organisateurs, aux bénévoles, aux speakers, aux sponsors, aux participantes et participants qui ont eu la chance d'avoir des places... et me dit que je ne serai pas la seule ce soir à avoir du mal à trouver le sommeil par tant d'excitation !  
 
 ![Entrée du DevFest Nantes 2025]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/entreeDevFestNantes2025.png)
 
@@ -323,7 +323,7 @@ On peut trouver 4 briques dans Keda :
 - Scalers lui se connete à une source d'évènement
 - CRDs : custom ressource definition pour étendre l'api Kube avec des ressources custom
 
-L'architectue de Keda est adaptée à une utilisation variante tout au long de la jounée, en gérant des paramètres de scheduling précis. La facturaiton liée peut alors être en mode spot et/ou on-demande, selon ce que l'on a paramétré. Attention simplement à ce que les appications soient sans état pour ne pas avoir trop de difficultés à gérer les disques (même si dans le faits c'est possible).  
+L'architectue de Keda est adaptée à une utilisation variante tout au long de la jounée, en gérant des paramètres de scheduling précis. La facturaiton liée peut alors être en mode spot et/ou on-demande, selon ce que l'on a paramétré. Attention simplement à ce que les applications soient sans état pour ne pas avoir trop de difficultés à gérer les disques (même si dans le faits c'est possible).  
 Voici l'architecture simplifiée :
 ![L'architecture de Keda]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/KedaArchitecture.png)
 - Controller = cerveau qui fait le lien avec tous les composants
@@ -378,7 +378,7 @@ Mais aussi ce que ça peut apporter aux autres, lors de mes sessions de coaching
 Une des caractéristiques communes à beaucoup de recherches d'opportunités ou de rassurance ? Bien se connaître. En tant que personne ou en tant qu'équipe. C'est donc assez naturellement vers Obsidian que nos explorations naissent (encore plus adéquat d'ailleurs quand les séances se font à distance). 
 
 Alors comme Hoani, j'ai un goût assez prononcé (et terriblement ancré) pour le papier : les calepins (tout types de calepins !), les stylos (tous types de stylos !!) et autres gadgets qui ne servent pas à grand chose mais qui en deviennent nécessaire (ah le nombre de post-it transparents et de marque-page personnalisés que je peux cumuler...).  
-Mais il faut se rendre à l'évidence : un calepin, ce n'est pas scalable. Et j'ai beau adoré collé et plier mes origamis pour que ça tienne quand même dans un cahier... la relecture n'en est pas toujours facilitée.
+Mais il faut se rendre à l'évidence : un calepin, ce n'est pas scalable. Et j'ai beau adorer coller et plier mes origamis pour que ça tienne quand même dans un cahier... la relecture n'en est pas toujours facilitée.
 
 Hoani nous présente donc son Obsidian personnel comme étant un mix entre prises de notes et un bullet journal, vous savez, la structuration de votre journée remplie de ce que vous devez faire, ce que vous faites réellement, vos émotions ressenties, vos "compteurs" du jour (en fonction de vos besoins : nombres de pas, nombres de parties jouées, nombre de calories, nombre de courriers traités...).  
 
@@ -404,7 +404,7 @@ Tips supplémentaires :
 - on peut s'inventer des conventions d'écriture : c'est assez chouette de pouvoir personnaliser ses prises de notes, et je trouve que ça en fait la force de l'outil Obsidian. C'est comme avoir toute une palette de tampons et couleurs sans avoir à les porter ^^
 - la synchronisation des fichiers qui sont intialement en local (pour quelque 4$ de plus...)
 - stockage cloud si souhaité
-- plugin git disponible (attention cependant : conseillé que pour de l'archivage car considéré comme plugin considéré comme instable sur mobile), mais à creuser pour l'utilisation en mode équipe
+- plugin git disponible (attention cependant : conseillé que pour de l'archivage car considéré comme plugin instable sur mobile), mais à creuser pour l'utilisation en mode équipe
 - autres plugins : Periodic Notes, Tasks, Dataview, Templater
 - emoji disponibles pour les métadonnées (spécial clin d'oeil à Aurélie Vache, Gaëlle Accas, Philippe Charrière et Stéphane Philippart !)
 - les tâches sont requêtables comme des les tableaux dynamiques
@@ -455,7 +455,7 @@ Le LLM n'appelle jamais de fonction directement. C'est le framework qui va envoy
 Le modèle répond à l'application le renvoi de l'appel à la fonction et c'est donc le framework qui appelle réellement la fonction donc appel à l'API, qui reçoit la réponse de l'API et renvoie la réponse à donner au LLM qui la retransmet enfin à l'utilisateur... Comment ça je ne suis pas claire ? OK... voici l'illustration :  
 ![Le function calling]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/GuillaumeFunctionCalling.png)
 
-Les flux de control peuvent être séquentiels / parallèle / avec condition de routage / par boucle.  
+Les flux de control peuvent être séquentiels / parallèles / avec condition de routage / par boucle.  
 
 Et quid des décisions cruciales à prendre ? Principe HITL - Human in the loop : pour vérifier les réponses !!!  
 
@@ -464,16 +464,16 @@ Enfin Guillaume nous parle de la partie reflection & self critique (ReAct patter
 Et c'est parti pour les trois démos !
 
 **1- Scène 1 : le RAG**
-Le RAG est unpattern pour être capable de chercher dans ses propres données, docs...  
+Le RAG est un pattern pour être capable de chercher dans ses propres données, docs...  
 Attention : le RAG est entrainé jusqu'à une certaine date -> il y a donc une notion de "vérité jusqu'à telle date". 
 La première phase d'ingestion consiste à centraliser les documents de tout format, de les découper en petits morceaux, d'utiliser un embedding model qui va calculer des vectoriels (représentation sémantique multidimensionnelle) -> et les bouts de textes similaires vont avoir des vecteurs qui vont pointer vers le même endroit.  
-Ainsi le vecteur d'une question dans le prompt est assez proche du vecteur de la réponse, ce qui permet dans la deuxième phase de retrieval, de trouver des vecteur et extraits de texte qui sont les plus proches de la question. On le met dans le prompt du LLM qui va se baser dessus pour synthétiser la réponse.  
+Ainsi le vecteur d'une question dans le prompt est assez proche du vecteur de la réponse, ce qui permet dans la deuxième phase de retrieval, de trouver des vecteurs et extraits de texte qui sont les plus proches de la question. On le met dans le prompt du LLM qui va se baser dessus pour synthétiser la réponse.  
 La complexité de la question déterminera le nombre d'étapes nécessaires (j'adore l'exemple que prend Guillaume : "quel est le nom du président du pays dans lequel on trouve la tour eiffel dans la capitale ?" -> on va bien avoir plusieurs questions en une).  
 Pour y réponde, on utilise un Agentic RAG qui lui, découpe les questions en plusieurs topics, et le topic assistant va être appelé x fois (une fois par topic) avant de renvoyer les réponses à l'assistant agentique qui sera capable de résumer le tout.  
 
 **2- Scène 2 : Authoring Agent**
 Tous les jours, un site web est amendé d'une histoire générée avec des images et du texte, avec à chaque fois 5 chapitres (avec ImaGen de Google).  
-Tous les jours à minuit,  un cron Google Cloud Scheduler appelle l'appication qui va driver le workflow, choisir un type d'histoire (space opera, scifi...) : 5 prompts pour générer les 5 chapitres. Ensuite il appelle le générateur d'image avec ces prompts -> ce sont, à chaque appel, 4 images par défaut qui sont générées, se rajoute donc une étape de sélection de celle qui correspond le mieux au chapitre.  
+Tous les jours à minuit,  un cron Google Cloud Scheduler appelle l'application qui va driver le workflow, choisir un type d'histoire (space opera, scifi...) : 5 prompts pour générer les 5 chapitres. Ensuite il appelle le générateur d'image avec ces prompts -> ce sont, à chaque appel, 4 images par défaut qui sont générées, se rajoute donc une étape de sélection de celle qui correspond le mieux au chapitre.  
 
 **3- Scène 3 - Création du pont entre LangChain4j et ADK** développé par Guillaume.  
 L'idée de ADK c'est de faire différents niveaux d'agents.  
@@ -550,7 +550,7 @@ Et big-up aussi à Ambre PERSON, MC (maître de cérémonie) de Stéphane pour l
 ![Stéphane en amphi Belem]({{ site.url }}{{ site.baseurl }}/assets/images/DFN25/StephaneBelem.png)
 
 Pour suivre Stéphane, ça se passe sur Bluesky : [@wilda](https://bsky.app/profile/wilda.bsky.social)  
-Lien vers les slides - *à venir*  
+[Lien](https://docs.google.com/presentation/d/e/2PACX-1vRF50mgvW6KzZf6lspATsmJRfTU79-CdlyDO8JP23f6ZldfvSGCkxe7wRwy9WaQMfD3EVqza0q5ukkB/pub) vers les slides   
 Lien vers la vidéo de Stéphane - *à venir*
 
 
