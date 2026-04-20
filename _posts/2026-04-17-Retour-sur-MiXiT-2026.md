@@ -581,12 +581,7 @@ Pour comprendre ce qui change, encore faut-il revenir à la définition même du
 
 Or, aujourd’hui, l’IA sait déjà faire une partie de cela. Elle produit du code vite, parfois très vite. Beaucoup plus vite que ce que nous sommes capables d’absorber.
 
-Mais à condition que… la spécification soit claire.
-Que le contexte soit précis.
-Que les critères d’évaluation soient définis.
-Que la cohérence d’ensemble soit maintenue.
-Que quelqu’un prenne la responsabilité finale.
-
+Mais à condition que… la spécification soit claire, que le contexte soit précis, que les critères d’évaluation soient définis, que la cohérence d’ensemble soit maintenue, que quelqu’un prenne la responsabilité finale.
 Bref : que le travail de réflexion soit bien fait en amont et en aval.
 
 Le code devient moins cher à produire, mais la compréhension, elle, ne s’accélère pas au même rythme.
@@ -812,7 +807,7 @@ Un Alaner (nom donné aux collaborateurs) évolue ainsi dans un environnement co
 
 Et ces rôles ne sont pas figés : n’importe qui peut devenir crew lead ponctuellement. Même logique côté coach, qui n’est pas un supérieur hiérarchique mais une personne choisie, avec laquelle la relation peut évoluer.
 
-Un rôle supplémentaire existe : le **Deputee**, qui coordonne plusieurs crews et peut prendre certaines décisions RH.
+Un rôle supplémentaire existe : le Deputee, qui coordonne plusieurs crews et peut prendre certaines décisions RH.
 
 Ce qui change vraiment, c’est la **distribution de la capacité de décision**.
 
@@ -844,7 +839,7 @@ Ce modèle n’est clairement pas fait pour tout le monde :
 
 * l’onboarding peut être déroutant
 * la quantité de documentation peut donner l’impression de se perdre
-* savoir donner **et recevoir du feedback** devient une compétence clé
+* savoir donner et recevoir du feedback devient une compétence clé
 * l’autonomie demande de la maturité
 
 Mais les enseignements que l’on peut en tirer sont nombreux, même sans adopter le modèle tel quel :
