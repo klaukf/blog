@@ -69,6 +69,8 @@ Cette année, c’était avec une nouvelle conférence, un sujet qui me suit dep
 
 En préparant ce talk, j’ai repensé à toutes ces discussions avec des équipes brillantes mais fatiguées, engagées mais parfois contraintes de naviguer dans des environnements qui ne sont pas pensés pour elles. J’ai repensé aux plateformes internes vécues comme des obligations plus que comme des produits, aux process subis plus qu’améliorés collectivement, aux irritants qu’on contourne faute d’espace pour les exprimer.
 
+![Votre serviteuse Fanny]({{ site.url }}{{ site.baseurl }}/assets/images/MIX26/FannyDevOps.png)
+
 Sur scène, j’ai partagé ce mélange de convictions, de retours d’expérience et de pistes concrètes : Design Thinking pour mieux comprendre les besoins internes, Value Stream Mapping pour visualiser les frictions, Kaizen pour avancer pas à pas, Communication Non Violente pour remettre de la qualité dans nos interactions… autant de ponts possibles pour considérer enfin les Dev et les Ops comme des utilisateurs à part entière.
 
 Et puis il y a eu les regards pendant la conférence. Les hochements de tête. Les sourires un peu entendus quand certaines situations faisaient écho. Les discussions juste après, celles où l’on sent que quelque chose résonne parce que l’on parle de vécu, pas seulement de théorie. Ces moments où l’on se dit que oui, ce sujet mérite sa place, qu’il touche quelque chose d’essentiel : la manière dont on prend soin de celles et ceux qui fabriquent nos systèmes.
@@ -885,3 +887,4 @@ PS : J’ai peut-être fait des fautes, écrit des bêtises => je vous invite à
 
 ![Soirée à l'hôtel de ville de Lyon]({{ site.url }}{{ site.baseurl }}/assets/images/MIX26/HotelVilleLyon.png)
 ![Ambre, Stef et Fanny après une première journée de conférence intense]({{ site.url }}{{ site.baseurl }}/assets/images/MIX26/AmbreStefFan.png)
+![Thierry et Fanny à la soirée Mixit]({{ site.url }}{{ site.baseurl }}/assets/images/MIX26/FanTi.png)
