@@ -11,7 +11,7 @@ image: assets/images/MIX26/Mixit2026.png
 
 Les 16 et 17 avril 2026, direction Lyon pour la 15ᵉ édition de MiXiT, une conférence à part dans l’écosystème tech français, où l’on parle autant de code que d’éthique, autant d’architecture logicielle que d’architecture sociale.
 
-MiXiT, ce n’est pas “juste” une conférence : c’est **2 jours**, **plus de 70 speakers**, **plus de 50 sessions**, et près de **600 participantes et participants** réunis autour d’un objectif commun : faire avancer la tech… sans oublier les humains qui la fabriquent.
+MiXiT, ce n’est pas “juste” une conférence : c’est **2 jours**, **plus de 70 speakers**, **plus de 50 sessions**, et près de **600 participantes et participants** *(je pense)* réunis autour d’un objectif commun : faire avancer la tech… sans oublier les humains qui la fabriquent.
 
 Ici, on croise des développeurs, des designers, des agilistes, des product managers, mais aussi des profils venus questionner notre industrie sous un angle différent : sociologie, écologie, accessibilité, diversité… voire même extraterrestres (“aliens”, pour les habitués du programme).
 
@@ -33,7 +33,7 @@ Elle cherche aussi à nous rendre meilleurs… humainement.
 
 
 
-### Chapitre X : “L’intelligence artificielle générale n’aura pas lieu” – Thibault Prévost
+### Chapitre 1 : “L’intelligence artificielle générale n’aura pas lieu” – Thibault Prévost
 
 La conférence commence fort avec une keynote d’ouverture qui pose immédiatement le décor : non, l’intelligence artificielle générale n’est pas une évidence, ni une trajectoire inéluctable. Et surtout, elle n’est pas une promesse neutre.
 
@@ -61,7 +61,7 @@ Une ouverture stimulante, qui rappelle que s’intéresser à l’IA, ce n’est
 Lien vers la vidéo de Thibault - *à venir*
 
 
-### Chapitre : "Dev & Ops : des clients comme les autres ?" - mon chapitre à moi - Fanny KLAUK
+### Chapitre 2 : "Dev & Ops : des clients comme les autres ?" - mon chapitre à moi - Fanny KLAUK
 
 Reprendre le chemin des conférences après un an de pause, c’est un peu comme rouvrir un carnet qu’on avait laissé en plan : on sait pourquoi on l’avait refermé, mais on se demande si on va encore reconnaître son écriture. Pendant douze mois, j’ai troqué la scène pour les coulisses, organisé, accompagné, observé celles et ceux qui vivaient ces moments intenses de partage. Une parenthèse riche, nécessaire… mais qui a doucement ravivé l’envie de revenir raconter, à mon tour.
 
@@ -89,7 +89,7 @@ Lien vers les slides - *à venir*
 Lien vers la vidéo - *à venir*
 
 
-### Chapitre X : Science, design, code : tout savoir sur le dark mode – Simon Mercier et Antoine Candy
+### Chapitre 3 : Science, design, code : tout savoir sur le dark mode – Simon Mercier et Antoine Candy
 
 Le dark mode… sujet presque philosophique tant il touche à nos habitudes, nos environnements de travail, notre fatigue visuelle… et nos préférences personnelles (team dark ici 🙋‍♀️).
 
@@ -158,13 +158,12 @@ Un rappel qui semble évident après coup : le dark mode n’est pas juste une i
 
 Et surtout… un choix qu’on devrait toujours laisser à l’utilisateur.
 
-
-Pour suivre Simon et Antoine sur les réseaux, ça se passe ici : [fanny-klauk](https://www.linkedin.com/in/fanny-klauk/)  
+  
 Lien vers les slides - *à venir*  
 Lien vers la vidéo - *à venir*
 
 
-## Chapitre X : Avatars, avatrices : cassons les codes ! – Fanny Lignon
+## Chapitre 4 : Avatars, avatrices : cassons les codes ! – Fanny Lignon
 
 La keynote de début d’après-midi par Fanny Lignon nous emmène dans un voyage critique au cœur de nos imaginaires vidéoludiques.
 
@@ -214,9 +213,11 @@ Un sujet qui dépasse largement le jeu vidéo : il s’agit d’ouvrir les imagi
 Une keynote qui pousse à regarder autrement les personnages que l’on incarne… et ceux que l’on ne voit pas encore.
 
 
+Lien vers les slides - *à venir*  
+Lien vers la vidéo - *à venir*
 
 
-### Chapitre X : Comprendre Kubernetes de manière visuelle – Aurélie Vache
+### Chapitre 5 : Comprendre Kubernetes de manière visuelle – Aurélie Vache
 
 Quand on parle de Kubernetes, il y a souvent deux réactions : soit on hoche la tête d’un air entendu (oui oui bien sûr, les pods, les nodes, tout ça…), soit on ressent une légère crispation intérieure à l’idée d’essayer de comprendre comment tout cela fonctionne réellement.
 
@@ -266,10 +267,11 @@ On ressort de cette conférence avec une vision d’ensemble claire des concepts
 Merci Aurélie pour cette mise à jour toujours aussi efficace 🙏
 
 
+Lien vers les slides - *à venir*  
+Lien vers la vidéo - *à venir*
 
 
-
-### Chapitre X : Le FastPass vers la prod : construire une plateforme qui libère les équipes, pas qui les contraint – Jérémy Planckeel et Fabien Verdier
+### Chapitre 6 : Le FastPass vers la prod : construire une plateforme qui libère les équipes, pas qui les contraint – Jérémy Planckeel et Fabien Verdier
 
 Voilà un talk qui me parle particulièrement, moi qui ai parlé de frictions quotidiennes dans l'expérience des devs et ops.
 
@@ -337,8 +339,11 @@ Et finalement, la question clé reste simple :
 est-ce que votre plateforme accélère vos équipes… ou est-ce qu’elle les ralentit ?
 
 
+Lien vers les slides - *à venir*  
+Lien vers la vidéo - *à venir*
 
-### Chapitre X : L’indépendance des médias… indés – David Dufresne
+
+### Chapitre 7 : L’indépendance des médias… indés – David Dufresne
 
 Comment résumer une keynote pour laquelle on n’a quasiment pas pris de notes ? Peut-être parce que, justement, il fallait surtout écouter. Ou plutôt accepter de se laisser emmener dans un récit qui ne suivait pas vraiment le chemin attendu d’une keynote “classique”.
 
@@ -389,9 +394,11 @@ Pas de call-to-action tonitruant pour conclure, mais plutôt une sensation diffu
 Et peut-être que “mettre un peu de trouble” est finalement une condition nécessaire pour éviter que tout ne devienne trop prévisible.
 
 
+Lien vers les slides - *à venir*  
+Lien vers la vidéo - *à venir*
 
 
-### Chapitre X : Wikipédia a 25 ans : de l’utopie numérique au pilier du savoir commun – Rémy Gerbet
+### Chapitre 8 : Wikipédia a 25 ans : de l’utopie numérique au pilier du savoir commun – Rémy Gerbet
 
 Deuxième journée, keynote d’ouverture. Le genre de moment où l’on se pose encore avec son café à la main, l’esprit un peu embué par les échanges de la veille, mais déjà prêt à replonger. Et quel meilleur sujet pour démarrer que Wikipédia ? Un objet du quotidien tellement banal… qu’on en oublierait presque à quel point il est extraordinaire.
 
@@ -447,8 +454,11 @@ Et peut-être que la meilleure façon de remercier Wikipédia… c’est encore 
 ![Rémy et les 25 ans de Wikipédia]({{ site.url }}{{ site.baseurl }}/assets/images/MIX26/RemyWikipedia.png)
 
 
+Lien vers les slides - *à venir*  
+Lien vers la vidéo - *à venir*
 
-## Chapitre X : Il était une fois le code : du Clean Code au Narrative Code – Sandrine Banas
+
+## Chapitre 9 : Il était une fois le code : du Clean Code au Narrative Code – Sandrine Banas
 
 Petite joie personnelle en arrivant à cette conférence : Sandrine Banas est une collègue CGI ! Et comme souvent dans ce genre d’événement, on se dit qu’on va assister à une présentation technique… pour finalement en ressortir avec une réflexion presque philosophique sur notre manière d’écrire du code.
 
@@ -550,8 +560,11 @@ Et finalement… quoi de plus humain que de raconter des histoires ?
 *(Sandrine a également écrit un livre sur le sujet — je note de creuser !)*
 
 
+Lien vers les slides - *à venir*  
+Lien vers la vidéo - *à venir*
 
-### Chapitre X : Le futur du développeur : IA, compétences et obsolescence ? – Estéban Soubiran & Julie Mouveroux
+
+### Chapitre 10 : Le futur du développeur : IA, compétences et obsolescence ? – Estéban Soubiran & Julie Mouveroux
 
 Salle comble. Littéralement.
 Le genre de salle où l’on sent immédiatement que le sujet touche quelque chose de profond. Peut-être même un peu sensible.
@@ -634,9 +647,11 @@ Elle invite plutôt à se demander : quelle part de notre métier voulons-nous d
 Merci Estéban et merci Julie de loin 🙏
 
 
+Lien vers les slides - *à venir*  
+Lien vers la vidéo - *à venir*
 
 
-### Chapitre X : Déployer souvent, stresser moins : feature flags en prod critique – Marion Chineaud et Elise Souvannavong
+### Chapitre 11 : Déployer souvent, stresser moins : feature flags en prod critique – Marion Chineaud et Elise Souvannavong
 
 On a tous déjà fait ça : attendre que “tout soit prêt” avant de merger.
 Un peu comme attendre d’avoir écrit tout un chapitre avant d’oser relire la première phrase… sauf que côté code, plus on attend, plus on accumule du risque.
@@ -760,9 +775,11 @@ Sinon, on remplace le stress du merge… par le stress du cleanup.
 Un grand merci à Marion et Elise pour ce talk très concret, directement applicable, et qui donne envie de revoir sa stratégie de livraison dès lundi matin 🙏
 
 
+Lien vers les slides - *à venir*  
+Lien vers la vidéo - *à venir*
 
 
-## Chapitre X : Pas de managers, pas de réunions, pas de problèmes ? – Sofia Lescano Carroll
+## Chapitre 12 : Pas de managers, pas de réunions, pas de problèmes ? – Sofia Lescano Carroll
 
 On a toutes et tous connu ces journées hachées menu : des réunions qui s’enchaînent, parfois utiles, parfois beaucoup moins… avec cette impression persistante de ne pas avoir eu une minute pour réellement avancer.
 
@@ -844,7 +861,11 @@ Finalement, pas de managers, pas de réunions, pas de problèmes ?
 Probablement pas. Mais peut-être moins… et surtout autrement.
 
 
-### Chapitre : place à Mixteen
+Lien vers les slides - *à venir*  
+Lien vers la vidéo - *à venir*
+
+
+### Chapitre 13 : place à Mixteen
 
 Dernier temps fort de cette seconde journée pour moi, car le train vers Tours m'attend...
 
@@ -886,5 +907,7 @@ PS : J’ai peut-être fait des fautes, écrit des bêtises => je vous invite à
 
 
 ![Soirée à l'hôtel de ville de Lyon]({{ site.url }}{{ site.baseurl }}/assets/images/MIX26/HotelVilleLyon.png)
+
 ![Ambre, Stef et Fanny après une première journée de conférence intense]({{ site.url }}{{ site.baseurl }}/assets/images/MIX26/AmbreStefFan.png)
+
 ![Thierry et Fanny à la soirée Mixit]({{ site.url }}{{ site.baseurl }}/assets/images/MIX26/FanTi.png)
