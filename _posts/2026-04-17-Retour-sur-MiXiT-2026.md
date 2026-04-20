@@ -13,11 +13,11 @@ Les 16 et 17 avril 2026, direction Lyon pour la 15ᵉ édition de MiXiT, une con
 
 MiXiT, ce n’est pas “juste” une conférence : c’est **2 jours**, **plus de 70 speakers**, **plus de 50 sessions**, et près de **600 participantes et participants** *(je pense)* réunis autour d’un objectif commun : faire avancer la tech… sans oublier les humains qui la fabriquent.
 
-Ici, on croise des développeurs, des designers, des agilistes, des product managers, mais aussi des profils venus questionner notre industrie sous un angle différent : sociologie, écologie, accessibilité, diversité… voire même extraterrestres (“aliens”, pour les habitués du programme).
+Ici, on croise des développeurs, des designers, des agilistes, des product managers, mais aussi des profils venus questionner notre industrie sous un angle différent : sociologie, écologie, accessibilité, diversité… 
 
 Car oui, MiXiT revendique depuis sa création en 2011 une ligne éditoriale forte : proposer une conférence accessible, inclusive et engagée, capable de faire dialoguer technologie, société et responsabilité. 
 
-De mon côté, j’y retournais pour la seconde fois, après une première expérience en 2023 où j’avais eu le plaisir d’animer l’atelier *“Lego Flow Game : le waterfall, le scrum et le kanban tu différencieras !”*.
+De mon côté, j’y retournais pour la seconde fois en tant que speaker, après une première expérience en 2023 où j’avais eu le plaisir d’animer l’atelier *“Lego Flow Game : le waterfall, le scrum et le kanban tu différencieras !”* et une troisième fois en tant qu'attendee.
 Autant dire que revenir à MiXiT, c’est un peu comme retrouver une communauté qui te rappelle pourquoi tu as choisi ce métier.
 
 Parce qu’ici, on ne vient pas seulement apprendre.
@@ -25,7 +25,7 @@ On vient réfléchir.
 On vient questionner.
 On vient rencontrer.
 
-Et quelque part entre deux talks, trois discussions passionnées et probablement quatre crêpes, on se rappelle que la tech peut (et doit) être un levier de progrès… pour toutes et tous.
+Et quelque part entre deux talks et trois discussions passionnées, on se rappelle que la tech peut (et doit) être un levier de progrès… pour toutes et tous.
 
 Pourquoi cette conférence est différente ?
 Parce qu’elle ne cherche pas uniquement à nous rendre meilleurs techniquement.
@@ -581,12 +581,7 @@ Pour comprendre ce qui change, encore faut-il revenir à la définition même du
 
 Or, aujourd’hui, l’IA sait déjà faire une partie de cela. Elle produit du code vite, parfois très vite. Beaucoup plus vite que ce que nous sommes capables d’absorber.
 
-Mais à condition que… la spécification soit claire.
-Que le contexte soit précis.
-Que les critères d’évaluation soient définis.
-Que la cohérence d’ensemble soit maintenue.
-Que quelqu’un prenne la responsabilité finale.
-
+Mais à condition que… la spécification soit claire, que le contexte soit précis, que les critères d’évaluation soient définis, que la cohérence d’ensemble soit maintenue, que quelqu’un prenne la responsabilité finale.
 Bref : que le travail de réflexion soit bien fait en amont et en aval.
 
 Le code devient moins cher à produire, mais la compréhension, elle, ne s’accélère pas au même rythme.
@@ -812,7 +807,7 @@ Un Alaner (nom donné aux collaborateurs) évolue ainsi dans un environnement co
 
 Et ces rôles ne sont pas figés : n’importe qui peut devenir crew lead ponctuellement. Même logique côté coach, qui n’est pas un supérieur hiérarchique mais une personne choisie, avec laquelle la relation peut évoluer.
 
-Un rôle supplémentaire existe : le **Deputee**, qui coordonne plusieurs crews et peut prendre certaines décisions RH.
+Un rôle supplémentaire existe : le Deputee, qui coordonne plusieurs crews et peut prendre certaines décisions RH.
 
 Ce qui change vraiment, c’est la **distribution de la capacité de décision**.
 
@@ -844,7 +839,7 @@ Ce modèle n’est clairement pas fait pour tout le monde :
 
 * l’onboarding peut être déroutant
 * la quantité de documentation peut donner l’impression de se perdre
-* savoir donner **et recevoir du feedback** devient une compétence clé
+* savoir donner et recevoir du feedback devient une compétence clé
 * l’autonomie demande de la maturité
 
 Mais les enseignements que l’on peut en tirer sont nombreux, même sans adopter le modèle tel quel :
