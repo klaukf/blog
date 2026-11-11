@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mon Bdx I/O 2026 à moi !"
+title:  "Retsuko : arrête de répondre !"
 author: fanny
 categories: [ event ]
 tags: [ aggretsuko ]
@@ -12,6 +12,7 @@ Cette année, j'ai travaillé sur deux sujets de conférences qui me tiennent à
 - l'amélioration du quotidien des TechLeads sur-sollicités via le questionnement puissant.  
 
 Pour la première, j'ai choisi d'observer les développeurs et les ops sous un prisme différent, en les considérant comme les clients des plateformes et des outils internes de nos entreprises. Et pour mettre en image cela, j'avais misé sur une esthétique basée sur l'univers LEGO pour générer des images par IA. On est fin 2025 et la persistance des critères dans les prompts ne permettent pas encore de générer un univers consistant et logique comme je l'avais souhaité. Malgré tout, je suis assez fière du rendu final (à quelques tenons près sur mes briques...).  
+
 Mais voilà : une question à la fin d'une de mes interventions en conférence me fait redescendre sur Terre... "Comment as-tu fais générer tes slides ? elles sont tops !"  
 
 ![C'est beau des jolis slides, mais est-ce que ça vaut la peine de brûler la planète pour ça ?]({{ site.url }}{{ site.baseurl }}/assets/images/Aggretsuko/clientLEGO.png)
